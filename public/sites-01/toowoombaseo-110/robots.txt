@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://cloudsites-hub.pages.dev/sites-01/garage-door-repairs-north-brisbane/sitemap.xml
+Sitemap: https://cloudsites-hub.pages.dev/sites-01/toowoombaseo-110/sitemap.xml

@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://garage-door-repairs-north-brisbane.pages.dev/sitemap.xml
+
+Sitemap: https://cloudsites-hub.pages.dev/sitemap.xml
