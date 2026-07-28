@@ -1,0 +1,4564 @@
+{
+  "generated_at": "2026-07-28T03:30:08.863Z",
+  "imported": [
+    {
+      "project": "mortgage-broker-canberra",
+      "subdomain": "mortgage-broker-canberra.pages.dev",
+      "created_on": "2026-07-24T04:20:49.542864Z",
+      "domains": [
+        "mortgage-broker-canberra.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "financebrokercanberra.com-008",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://mortgage-broker-canberra.pages.dev/",
+          "intended_url": "https://mortgage-broker-canberra-guide.pages.dev/",
+          "primary_kw": "mortgage broker canberra"
+        }
+      ],
+      "path_slug": "financebrokercanberra.com-008",
+      "db_slugs": [
+        "financebrokercanberra.com-008"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://mortgage-broker-canberra.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/financebrokercanberra.com-008/",
+      "fetched": [
+        {
+          "source": "https://mortgage-broker-canberra.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://mortgage-broker-canberra.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://mortgage-broker-canberra.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://mortgage-broker-canberra.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://mortgage-broker-canberra.pages.dev/mortgage-broker-canberra.jpg",
+          "file": "mortgage-broker-canberra.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "kitchen-renovations-eastern-melbourne-m-150",
+      "subdomain": "kitchen-renovations-eastern-melbourne-m-150.pages.dev",
+      "created_on": "2026-07-24T03:28:47.440755Z",
+      "domains": [
+        "kitchen-renovations-eastern-melbourne-m-150.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "melbourneeastkitchenrenovation-150",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://kitchen-renovations-eastern-melbourne-m-150.pages.dev/",
+          "intended_url": "https://kitchen-renovations-eastern-melbourne-m-150.pages.dev/",
+          "primary_kw": "kitchen renovations eastern melbourne"
+        }
+      ],
+      "path_slug": "melbourneeastkitchenrenovation-150",
+      "db_slugs": [
+        "melbourneeastkitchenrenovation-150"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://kitchen-renovations-eastern-melbourne-m-150.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/melbourneeastkitchenrenovation-150/",
+      "fetched": [
+        {
+          "source": "https://kitchen-renovations-eastern-melbourne-m-150.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-eastern-melbourne-m-150.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-eastern-melbourne-m-150.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-eastern-melbourne-m-150.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-eastern-melbourne-m-150.pages.dev/kitchen-renovations-eastern-melbourne.png",
+          "file": "kitchen-renovations-eastern-melbourne.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "private-lending-australia-guide",
+      "subdomain": "private-lending-australia-guide-9fy.pages.dev",
+      "created_on": "2026-07-04T12:41:14.699782Z",
+      "domains": [
+        "private-lending-australia-guide-9fy.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "bottomlinefinance-001",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://private-lending-australia-guide-9fy.pages.dev/",
+          "intended_url": "https://private-lending-guide.pages.dev/",
+          "primary_kw": "private lending"
+        }
+      ],
+      "path_slug": "bottomlinefinance-001",
+      "db_slugs": [
+        "bottomlinefinance-001"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://private-lending-australia-guide-9fy.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/bottomlinefinance-001/",
+      "fetched": [
+        {
+          "source": "https://private-lending-australia-guide-9fy.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://private-lending-australia-guide-9fy.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://private-lending-australia-guide-9fy.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://private-lending-australia-guide-9fy.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://private-lending-australia-guide-9fy.pages.dev/private-lending.jpg",
+          "file": "private-lending.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "mortgage-broker-sydney-guide",
+      "subdomain": "mortgage-broker-sydney-guide.pages.dev",
+      "created_on": "2026-07-02T16:49:54.757708Z",
+      "domains": [
+        "mortgage-broker-sydney-guide.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "homeloanbrokersydney-001",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://mortgage-broker-sydney-guide.pages.dev/",
+          "intended_url": "https://mortgage-broker-sydney-guide.pages.dev/",
+          "primary_kw": "mortgage broker sydney"
+        }
+      ],
+      "path_slug": "homeloanbrokersydney-001",
+      "db_slugs": [
+        "homeloanbrokersydney-001"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://mortgage-broker-sydney-guide.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/homeloanbrokersydney-001/",
+      "fetched": [
+        {
+          "source": "https://mortgage-broker-sydney-guide.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://mortgage-broker-sydney-guide.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://mortgage-broker-sydney-guide.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://mortgage-broker-sydney-guide.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://mortgage-broker-sydney-guide.pages.dev/home-loans-sydney.jpg",
+          "file": "home-loans-sydney.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "kitchen-renovations-gold-coast",
+      "subdomain": "kitchen-renovations-gold-coast.pages.dev",
+      "created_on": "2026-07-23T11:14:00.766572Z",
+      "domains": [
+        "kitchen-renovations-gold-coast.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "goldcoastkitchenreno.com-003",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://kitchen-renovations-gold-coast.pages.dev/",
+          "intended_url": "https://kitchen-renovations-gold-coast-guide.pages.dev/",
+          "primary_kw": "kitchen renovations gold coast"
+        }
+      ],
+      "path_slug": "goldcoastkitchenreno.com-003",
+      "db_slugs": [
+        "goldcoastkitchenreno.com-003"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://kitchen-renovations-gold-coast.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/goldcoastkitchenreno.com-003/",
+      "fetched": [
+        {
+          "source": "https://kitchen-renovations-gold-coast.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-gold-coast.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-gold-coast.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-gold-coast.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-gold-coast.pages.dev/kitchen-renovations-gold-coast.png",
+          "file": "kitchen-renovations-gold-coast.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "kitchen-design-melbourne-comparison-m-101",
+      "subdomain": "kitchen-design-melbourne-comparison-m-101.pages.dev",
+      "created_on": "2026-07-22T18:31:31.460299Z",
+      "domains": [
+        "kitchen-design-melbourne-comparison-m-101.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "melbournekitchenreno-101",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://kitchen-design-melbourne-comparison-m-101.pages.dev/",
+          "intended_url": "https://kitchen-design-melbourne-comparison-m-101.pages.dev/",
+          "primary_kw": "kitchen design melbourne comparison"
+        }
+      ],
+      "path_slug": "melbournekitchenreno-101",
+      "db_slugs": [
+        "melbournekitchenreno-101"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://kitchen-design-melbourne-comparison-m-101.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/melbournekitchenreno-101/",
+      "fetched": [
+        {
+          "source": "https://kitchen-design-melbourne-comparison-m-101.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-design-melbourne-comparison-m-101.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-design-melbourne-comparison-m-101.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-design-melbourne-comparison-m-101.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-design-melbourne-comparison-m-101.pages.dev/kitchen-design-melbourne-comparison.png",
+          "file": "kitchen-design-melbourne-comparison.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "technical-seo-audit-australia-comparison-s-105",
+      "subdomain": "technical-seo-audit-australia-comparison-s-105.pages.dev",
+      "created_on": "2026-07-22T12:39:08.577728Z",
+      "domains": [
+        "technical-seo-audit-australia-comparison-s-105.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "seocompaniesinaustralia-105",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://technical-seo-audit-australia-comparison-s-105.pages.dev/",
+          "intended_url": "https://technical-seo-audit-australia-comparison-s-105.pages.dev/",
+          "primary_kw": "technical seo audit australia comparison"
+        }
+      ],
+      "path_slug": "seocompaniesinaustralia-105",
+      "db_slugs": [
+        "seocompaniesinaustralia-105"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://technical-seo-audit-australia-comparison-s-105.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/seocompaniesinaustralia-105/",
+      "fetched": [
+        {
+          "source": "https://technical-seo-audit-australia-comparison-s-105.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-comparison-s-105.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-comparison-s-105.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-comparison-s-105.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-comparison-s-105.pages.dev/technical-seo-audit-australia-comparison.png",
+          "file": "technical-seo-audit-australia-comparison.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "technical-seo-audit-australia-comparison-s-104",
+      "subdomain": "technical-seo-audit-australia-comparison-s-104.pages.dev",
+      "created_on": "2026-07-22T11:18:12.087303Z",
+      "domains": [
+        "technical-seo-audit-australia-comparison-s-104.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "seocompaniesinaustralia-104",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://technical-seo-audit-australia-comparison-s-104.pages.dev/",
+          "intended_url": "https://technical-seo-audit-australia-comparison-s-104.pages.dev/",
+          "primary_kw": "technical seo audit australia comparison"
+        }
+      ],
+      "path_slug": "seocompaniesinaustralia-104",
+      "db_slugs": [
+        "seocompaniesinaustralia-104"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://technical-seo-audit-australia-comparison-s-104.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/seocompaniesinaustralia-104/",
+      "fetched": [
+        {
+          "source": "https://technical-seo-audit-australia-comparison-s-104.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-comparison-s-104.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-comparison-s-104.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-comparison-s-104.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-comparison-s-104.pages.dev/technical-seo-audit-australia-comparison.png",
+          "file": "technical-seo-audit-australia-comparison.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "technical-seo-audit-australia-s-153",
+      "subdomain": "technical-seo-audit-australia-s-153.pages.dev",
+      "created_on": "2026-07-22T11:10:34.667467Z",
+      "domains": [
+        "technical-seo-audit-australia-s-153.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "seocompaniesinaustralia-153",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://technical-seo-audit-australia-s-153.pages.dev/",
+          "intended_url": "https://technical-seo-audit-australia-s-153.pages.dev/",
+          "primary_kw": "technical seo audit australia"
+        }
+      ],
+      "path_slug": "seocompaniesinaustralia-153",
+      "db_slugs": [
+        "seocompaniesinaustralia-153"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://technical-seo-audit-australia-s-153.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/seocompaniesinaustralia-153/",
+      "fetched": [
+        {
+          "source": "https://technical-seo-audit-australia-s-153.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-s-153.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-s-153.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-s-153.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-s-153.pages.dev/technical-seo-audit-australia.png",
+          "file": "technical-seo-audit-australia.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "home-loan-broker-canberra-guide",
+      "subdomain": "home-loan-broker-canberra-guide.pages.dev",
+      "created_on": "2026-07-11T07:44:38.909705Z",
+      "domains": [
+        "home-loan-broker-canberra-guide.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "canberrahomeloanbroker-001",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://home-loan-broker-canberra-guide.pages.dev/",
+          "intended_url": "https://home-loan-broker-canberra-guide.pages.dev/",
+          "primary_kw": "home loan broker canberra"
+        }
+      ],
+      "path_slug": "canberrahomeloanbroker-001",
+      "db_slugs": [
+        "canberrahomeloanbroker-001"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://home-loan-broker-canberra-guide.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/canberrahomeloanbroker-001/",
+      "fetched": [
+        {
+          "source": "https://home-loan-broker-canberra-guide.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-canberra-guide.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-canberra-guide.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-canberra-guide.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-canberra-guide.pages.dev/home-loan-broker-canberra.jpg",
+          "file": "home-loan-broker-canberra.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "technical-seo-audit-australia-comparison-s-103",
+      "subdomain": "technical-seo-audit-australia-comparison-s-103.pages.dev",
+      "created_on": "2026-07-22T10:51:41.691253Z",
+      "domains": [
+        "technical-seo-audit-australia-comparison-s-103.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "seocompaniesinaustralia-103",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://technical-seo-audit-australia-comparison-s-103.pages.dev/",
+          "intended_url": "https://technical-seo-audit-australia-comparison-s-103.pages.dev/",
+          "primary_kw": "technical seo audit australia comparison"
+        }
+      ],
+      "path_slug": "seocompaniesinaustralia-103",
+      "db_slugs": [
+        "seocompaniesinaustralia-103"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://technical-seo-audit-australia-comparison-s-103.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/seocompaniesinaustralia-103/",
+      "fetched": [
+        {
+          "source": "https://technical-seo-audit-australia-comparison-s-103.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-comparison-s-103.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-comparison-s-103.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-comparison-s-103.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-comparison-s-103.pages.dev/technical-seo-audit-australia-comparison.png",
+          "file": "technical-seo-audit-australia-comparison.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "technical-seo-audit-australia-s-152",
+      "subdomain": "technical-seo-audit-australia-s-152.pages.dev",
+      "created_on": "2026-07-22T10:47:52.53643Z",
+      "domains": [
+        "technical-seo-audit-australia-s-152.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "seocompaniesinaustralia-152",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://technical-seo-audit-australia-s-152.pages.dev/",
+          "intended_url": "https://technical-seo-audit-australia-s-152.pages.dev/",
+          "primary_kw": "technical seo audit australia"
+        }
+      ],
+      "path_slug": "seocompaniesinaustralia-152",
+      "db_slugs": [
+        "seocompaniesinaustralia-152"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://technical-seo-audit-australia-s-152.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/seocompaniesinaustralia-152/",
+      "fetched": [
+        {
+          "source": "https://technical-seo-audit-australia-s-152.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-s-152.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-s-152.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-s-152.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://technical-seo-audit-australia-s-152.pages.dev/technical-seo-audit-australia.png",
+          "file": "technical-seo-audit-australia.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "kitchen-design-perth-comparison-k-101",
+      "subdomain": "kitchen-design-perth-comparison-k-101.pages.dev",
+      "created_on": "2026-07-22T07:01:16.18497Z",
+      "domains": [
+        "kitchen-design-perth-comparison-k-101.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "kitchenrenovationperth-101",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://kitchen-design-perth-comparison-k-101.pages.dev/",
+          "intended_url": "https://kitchen-design-perth-comparison-k-101.pages.dev/",
+          "primary_kw": "kitchen design perth comparison"
+        }
+      ],
+      "path_slug": "kitchenrenovationperth-101",
+      "db_slugs": [
+        "kitchenrenovationperth-101"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://kitchen-design-perth-comparison-k-101.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/kitchenrenovationperth-101/",
+      "fetched": [
+        {
+          "source": "https://kitchen-design-perth-comparison-k-101.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-design-perth-comparison-k-101.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-design-perth-comparison-k-101.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-design-perth-comparison-k-101.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-design-perth-comparison-k-101.pages.dev/kitchen-design-perth-comparison.png",
+          "file": "kitchen-design-perth-comparison.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "carpet-cleaning-toowoomba",
+      "subdomain": "carpet-cleaning-toowoomba.pages.dev",
+      "created_on": "2026-07-21T19:25:49.894101Z",
+      "domains": [
+        "carpet-cleaning-toowoomba.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "mytoowoomba.com-002",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://carpet-cleaning-toowoomba.pages.dev/",
+          "intended_url": "https://carpet-cleaning-toowoomba-guide.pages.dev/",
+          "primary_kw": "carpet cleaning toowoomba"
+        }
+      ],
+      "path_slug": "mytoowoomba.com-002",
+      "db_slugs": [
+        "mytoowoomba.com-002"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://carpet-cleaning-toowoomba.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/mytoowoomba.com-002/",
+      "fetched": [
+        {
+          "source": "https://carpet-cleaning-toowoomba.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://carpet-cleaning-toowoomba.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://carpet-cleaning-toowoomba.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://carpet-cleaning-toowoomba.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://carpet-cleaning-toowoomba.pages.dev/carpet-cleaning-toowoomba.png",
+          "file": "carpet-cleaning-toowoomba.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "plumbers-warwick",
+      "subdomain": "plumbers-warwick.pages.dev",
+      "created_on": "2026-07-21T19:21:30.395851Z",
+      "domains": [
+        "plumbers-warwick.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "warwick4370.com-004",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://plumbers-warwick.pages.dev/",
+          "intended_url": "https://plumbers-warwick-guide.pages.dev/",
+          "primary_kw": "plumbers warwick"
+        }
+      ],
+      "path_slug": "warwick4370.com-004",
+      "db_slugs": [
+        "warwick4370.com-004"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://plumbers-warwick.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/warwick4370.com-004/",
+      "fetched": [
+        {
+          "source": "https://plumbers-warwick.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://plumbers-warwick.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://plumbers-warwick.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://plumbers-warwick.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://plumbers-warwick.pages.dev/plumbers-warwick.jpg",
+          "file": "plumbers-warwick.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "kitchen-renovations-sydney",
+      "subdomain": "kitchen-renovations-sydney.pages.dev",
+      "created_on": "2026-07-21T19:13:55.990963Z",
+      "domains": [
+        "kitchen-renovations-sydney.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "sydneykitchenreno.com-005",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://kitchen-renovations-sydney.pages.dev/",
+          "intended_url": "https://kitchen-renovations-sydney-guide.pages.dev/",
+          "primary_kw": "kitchen renovations sydney"
+        }
+      ],
+      "path_slug": "sydneykitchenreno.com-005",
+      "db_slugs": [
+        "sydneykitchenreno.com-005"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://kitchen-renovations-sydney.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/sydneykitchenreno.com-005/",
+      "fetched": [
+        {
+          "source": "https://kitchen-renovations-sydney.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-sydney.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-sydney.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-sydney.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-sydney.pages.dev/kitchen-renovations-sydney.png",
+          "file": "kitchen-renovations-sydney.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "child-care-centres-brisbane",
+      "subdomain": "child-care-centres-brisbane.pages.dev",
+      "created_on": "2026-07-21T18:36:53.123969Z",
+      "domains": [
+        "child-care-centres-brisbane.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "thechildcarenearme.com-001",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://child-care-centres-brisbane.pages.dev/",
+          "intended_url": "https://child-care-centres-brisbane-guide.pages.dev/",
+          "primary_kw": "child care centres brisbane"
+        }
+      ],
+      "path_slug": "thechildcarenearme.com-001",
+      "db_slugs": [
+        "thechildcarenearme.com-001"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://child-care-centres-brisbane.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/thechildcarenearme.com-001/",
+      "fetched": [
+        {
+          "source": "https://child-care-centres-brisbane.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://child-care-centres-brisbane.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://child-care-centres-brisbane.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://child-care-centres-brisbane.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://child-care-centres-brisbane.pages.dev/child-care-centres-brisbane.jpg",
+          "file": "child-care-centres-brisbane.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "first-home-buyer-loans-brisbane-costs-b-103",
+      "subdomain": "first-home-buyer-loans-brisbane-costs-b-103.pages.dev",
+      "created_on": "2026-07-21T07:04:11.634969Z",
+      "domains": [
+        "first-home-buyer-loans-brisbane-costs-b-103.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "brisbanehomeloanbroker-103",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://first-home-buyer-loans-brisbane-costs-b-103.pages.dev/",
+          "intended_url": "https://first-home-buyer-loans-brisbane-costs-b-103.pages.dev/",
+          "primary_kw": "first home buyer loans brisbane costs"
+        }
+      ],
+      "path_slug": "brisbanehomeloanbroker-103",
+      "db_slugs": [
+        "brisbanehomeloanbroker-103"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://first-home-buyer-loans-brisbane-costs-b-103.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/brisbanehomeloanbroker-103/",
+      "fetched": [
+        {
+          "source": "https://first-home-buyer-loans-brisbane-costs-b-103.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://first-home-buyer-loans-brisbane-costs-b-103.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://first-home-buyer-loans-brisbane-costs-b-103.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://first-home-buyer-loans-brisbane-costs-b-103.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://first-home-buyer-loans-brisbane-costs-b-103.pages.dev/first-home-buyer-loans-brisbane-costs.png",
+          "file": "first-home-buyer-loans-brisbane-costs.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "mortgage-broker-western-sydney",
+      "subdomain": "mortgage-broker-western-sydney.pages.dev",
+      "created_on": "2026-07-19T21:21:10.904446Z",
+      "domains": [
+        "mortgage-broker-western-sydney.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "westernsydneyhomeloanbroker.com-008",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://mortgage-broker-western-sydney.pages.dev/",
+          "intended_url": "https://mortgage-broker-western-sydney-guide.pages.dev/",
+          "primary_kw": "mortgage broker western sydney"
+        }
+      ],
+      "path_slug": "westernsydneyhomeloanbroker.com-008",
+      "db_slugs": [
+        "westernsydneyhomeloanbroker.com-008"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://mortgage-broker-western-sydney.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/westernsydneyhomeloanbroker.com-008/",
+      "fetched": [
+        {
+          "source": "https://mortgage-broker-western-sydney.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://mortgage-broker-western-sydney.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://mortgage-broker-western-sydney.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://mortgage-broker-western-sydney.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://mortgage-broker-western-sydney.pages.dev/mortgage-broker-western-sydney.png",
+          "file": "mortgage-broker-western-sydney.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "garage-door-repairs-brisbane",
+      "subdomain": "garage-door-repairs-brisbane.pages.dev",
+      "created_on": "2026-07-06T13:29:49.09046Z",
+      "domains": [
+        "garage-door-repairs-brisbane.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "southsidegaragedoors.com-006",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://garage-door-repairs-brisbane.pages.dev/",
+          "intended_url": "https://garage-door-repairs-brisbane-guide.pages.dev/",
+          "primary_kw": "garage door repairs brisbane"
+        }
+      ],
+      "path_slug": "southsidegaragedoors.com-006",
+      "db_slugs": [
+        "southsidegaragedoors.com-006"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://garage-door-repairs-brisbane.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/southsidegaragedoors.com-006/",
+      "fetched": [
+        {
+          "source": "https://garage-door-repairs-brisbane.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://garage-door-repairs-brisbane.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://garage-door-repairs-brisbane.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://garage-door-repairs-brisbane.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://garage-door-repairs-brisbane.pages.dev/garage-door-repairs-brisbane.png",
+          "file": "garage-door-repairs-brisbane.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "chattel-mortgage-australia-guide",
+      "subdomain": "chattel-mortgage-australia-guide.pages.dev",
+      "created_on": "2026-07-19T20:02:13.602664Z",
+      "domains": [
+        "chattel-mortgage-australia-guide.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "lp-gcs-001",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://chattel-mortgage-australia-guide.pages.dev/",
+          "intended_url": "https://chattel-mortgage-australia-guide.pages.dev/",
+          "primary_kw": "chattel mortgage australia"
+        }
+      ],
+      "path_slug": "lp-gcs-001",
+      "db_slugs": [
+        "lp-gcs-001"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://chattel-mortgage-australia-guide.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/lp-gcs-001/",
+      "fetched": [
+        {
+          "source": "https://chattel-mortgage-australia-guide.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://chattel-mortgage-australia-guide.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://chattel-mortgage-australia-guide.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://chattel-mortgage-australia-guide.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "web-design-brisbane-bestwebsitecreation",
+      "subdomain": "web-design-brisbane-bestwebsitecreation.pages.dev",
+      "created_on": "2026-07-19T20:00:24.940376Z",
+      "domains": [
+        "web-design-brisbane-bestwebsitecreation.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "bestwebsitecreation-001",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://web-design-brisbane-bestwebsitecreation.pages.dev/",
+          "intended_url": "https://web-design-brisbane-bestwebsitecreation.pages.dev/",
+          "primary_kw": "web design brisbane"
+        }
+      ],
+      "path_slug": "bestwebsitecreation-001",
+      "db_slugs": [
+        "bestwebsitecreation-001"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://web-design-brisbane-bestwebsitecreation.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/bestwebsitecreation-001/",
+      "fetched": [
+        {
+          "source": "https://web-design-brisbane-bestwebsitecreation.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://web-design-brisbane-bestwebsitecreation.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://web-design-brisbane-bestwebsitecreation.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://web-design-brisbane-bestwebsitecreation.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://web-design-brisbane-bestwebsitecreation.pages.dev/web-design-brisbane.jpg",
+          "file": "web-design-brisbane.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "local-seo-brisbane-t-151",
+      "subdomain": "local-seo-brisbane-t-151.pages.dev",
+      "created_on": "2026-07-19T18:20:22.533648Z",
+      "domains": [
+        "local-seo-brisbane-t-151.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "theseocompanybrisbane-151",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://local-seo-brisbane-t-151.pages.dev/",
+          "intended_url": "https://local-seo-brisbane-t-151.pages.dev/",
+          "primary_kw": "local seo brisbane"
+        }
+      ],
+      "path_slug": "theseocompanybrisbane-151",
+      "db_slugs": [
+        "theseocompanybrisbane-151"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://local-seo-brisbane-t-151.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/theseocompanybrisbane-151/",
+      "fetched": [
+        {
+          "source": "https://local-seo-brisbane-t-151.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://local-seo-brisbane-t-151.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://local-seo-brisbane-t-151.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://local-seo-brisbane-t-151.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://local-seo-brisbane-t-151.pages.dev/local-seo-brisbane.png",
+          "file": "local-seo-brisbane.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "custom-cabinetry-geelong-k-151",
+      "subdomain": "custom-cabinetry-geelong-k-151.pages.dev",
+      "created_on": "2026-07-19T06:54:26.374573Z",
+      "domains": [
+        "custom-cabinetry-geelong-k-151.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "kitchenrenovationgeelong-151",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://custom-cabinetry-geelong-k-151.pages.dev/",
+          "intended_url": "https://custom-cabinetry-geelong-k-151.pages.dev/",
+          "primary_kw": "custom cabinetry geelong"
+        }
+      ],
+      "path_slug": "kitchenrenovationgeelong-151",
+      "db_slugs": [
+        "kitchenrenovationgeelong-151"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://custom-cabinetry-geelong-k-151.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/kitchenrenovationgeelong-151/",
+      "fetched": [
+        {
+          "source": "https://custom-cabinetry-geelong-k-151.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://custom-cabinetry-geelong-k-151.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://custom-cabinetry-geelong-k-151.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://custom-cabinetry-geelong-k-151.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://custom-cabinetry-geelong-k-151.pages.dev/custom-cabinetry-geelong.png",
+          "file": "custom-cabinetry-geelong.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "web-design-brisbane",
+      "subdomain": "web-design-brisbane.pages.dev",
+      "created_on": "2026-07-05T11:40:25.436486Z",
+      "domains": [
+        "web-design-brisbane.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "webdesignbrisbaneaustralia.com-003",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://web-design-brisbane.pages.dev/",
+          "intended_url": "https://web-design-brisbane-guide.pages.dev/",
+          "primary_kw": "web design brisbane"
+        }
+      ],
+      "path_slug": "webdesignbrisbaneaustralia.com-003",
+      "db_slugs": [
+        "webdesignbrisbaneaustralia.com-003"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://web-design-brisbane.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/webdesignbrisbaneaustralia.com-003/",
+      "fetched": [
+        {
+          "source": "https://web-design-brisbane.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://web-design-brisbane.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://web-design-brisbane.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://web-design-brisbane.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://web-design-brisbane.pages.dev/web-design-brisbane.jpg",
+          "file": "web-design-brisbane.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "bathroom-renovation-northern-beaches-comparison-n-102",
+      "subdomain": "bathroom-renovation-northern-beaches-comparison-n-102.pages.dev",
+      "created_on": "2026-07-17T11:08:20.121836Z",
+      "domains": [
+        "bathroom-renovation-northern-beaches-comparison-n-102.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "northernbeachesrenovation-102",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://bathroom-renovation-northern-beaches-comparison-n-102.pages.dev/",
+          "intended_url": "https://bathroom-renovation-northern-beaches-comparison-n-102.pages.dev/",
+          "primary_kw": "bathroom renovation northern beaches comparison"
+        }
+      ],
+      "path_slug": "northernbeachesrenovation-102",
+      "db_slugs": [
+        "northernbeachesrenovation-102"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://bathroom-renovation-northern-beaches-comparison-n-102.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/northernbeachesrenovation-102/",
+      "fetched": [
+        {
+          "source": "https://bathroom-renovation-northern-beaches-comparison-n-102.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://bathroom-renovation-northern-beaches-comparison-n-102.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://bathroom-renovation-northern-beaches-comparison-n-102.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://bathroom-renovation-northern-beaches-comparison-n-102.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://bathroom-renovation-northern-beaches-comparison-n-102.pages.dev/bathroom-renovation-northern-beaches-comparison.png",
+          "file": "bathroom-renovation-northern-beaches-comparison.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "bendigo-finance-broker-b-150",
+      "subdomain": "bendigo-finance-broker-b-150.pages.dev",
+      "created_on": "2026-07-16T12:33:51.588567Z",
+      "domains": [
+        "bendigo-finance-broker-b-150.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "bendigofinancebroker-150",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://bendigo-finance-broker-b-150.pages.dev/",
+          "intended_url": "https://bendigo-finance-broker-b-150.pages.dev/",
+          "primary_kw": "bendigo finance broker"
+        }
+      ],
+      "path_slug": "bendigofinancebroker-150",
+      "db_slugs": [
+        "bendigofinancebroker-150"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://bendigo-finance-broker-b-150.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/bendigofinancebroker-150/",
+      "fetched": [
+        {
+          "source": "https://bendigo-finance-broker-b-150.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://bendigo-finance-broker-b-150.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://bendigo-finance-broker-b-150.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://bendigo-finance-broker-b-150.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://bendigo-finance-broker-b-150.pages.dev/bendigo-finance-broker.png",
+          "file": "bendigo-finance-broker.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "bathroom-renovation-northern-beaches-comparison-n-101",
+      "subdomain": "bathroom-renovation-northern-beaches-comparison-n-101.pages.dev",
+      "created_on": "2026-07-16T18:31:38.363306Z",
+      "domains": [
+        "bathroom-renovation-northern-beaches-comparison-n-101.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "northernbeachesrenovation-101",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://bathroom-renovation-northern-beaches-comparison-n-101.pages.dev/",
+          "intended_url": "https://bathroom-renovation-northern-beaches-comparison-n-101.pages.dev/",
+          "primary_kw": "bathroom renovation northern beaches comparison"
+        }
+      ],
+      "path_slug": "northernbeachesrenovation-101",
+      "db_slugs": [
+        "northernbeachesrenovation-101"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://bathroom-renovation-northern-beaches-comparison-n-101.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/northernbeachesrenovation-101/",
+      "fetched": [
+        {
+          "source": "https://bathroom-renovation-northern-beaches-comparison-n-101.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://bathroom-renovation-northern-beaches-comparison-n-101.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://bathroom-renovation-northern-beaches-comparison-n-101.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://bathroom-renovation-northern-beaches-comparison-n-101.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://bathroom-renovation-northern-beaches-comparison-n-101.pages.dev/bathroom-renovation-northern-beaches-comparison.png",
+          "file": "bathroom-renovation-northern-beaches-comparison.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "tree-services-sydney",
+      "subdomain": "tree-services-sydney.pages.dev",
+      "created_on": "2026-07-15T11:36:48.500888Z",
+      "domains": [
+        "tree-services-sydney.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "sydneytrees.net-002",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://tree-services-sydney.pages.dev/",
+          "intended_url": "https://tree-services-sydney-guide.pages.dev/",
+          "primary_kw": "tree services sydney"
+        }
+      ],
+      "path_slug": "sydneytrees.net-002",
+      "db_slugs": [
+        "sydneytrees.net-002"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://tree-services-sydney.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/sydneytrees.net-002/",
+      "fetched": [
+        {
+          "source": "https://tree-services-sydney.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://tree-services-sydney.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://tree-services-sydney.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://tree-services-sydney.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://tree-services-sydney.pages.dev/tree-services-sydney.jpg",
+          "file": "tree-services-sydney.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "kitchen-renovation-western-sydney",
+      "subdomain": "kitchen-renovation-western-sydney.pages.dev",
+      "created_on": "2026-07-12T12:20:55.53209Z",
+      "domains": [
+        "kitchen-renovation-western-sydney.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "westernsydneykitchenrenovation.com-002",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://kitchen-renovation-western-sydney.pages.dev/",
+          "intended_url": "https://kitchen-renovation-western-sydney-guide.pages.dev/",
+          "primary_kw": "kitchen renovation western sydney"
+        }
+      ],
+      "path_slug": "westernsydneykitchenrenovation.com-002",
+      "db_slugs": [
+        "westernsydneykitchenrenovation.com-002"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://kitchen-renovation-western-sydney.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/westernsydneykitchenrenovation.com-002/",
+      "fetched": [
+        {
+          "source": "https://kitchen-renovation-western-sydney.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovation-western-sydney.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovation-western-sydney.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovation-western-sydney.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovation-western-sydney.pages.dev/kitchen-renovation-western-sydney.jpg",
+          "file": "kitchen-renovation-western-sydney.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "big-things-australia",
+      "subdomain": "big-things-australia.pages.dev",
+      "created_on": "2026-07-12T11:15:39.648697Z",
+      "domains": [
+        "big-things-australia.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "bigthingbible.com-001",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://big-things-australia.pages.dev/",
+          "intended_url": "https://big-things-australia-guide.pages.dev/",
+          "primary_kw": "big things australia"
+        }
+      ],
+      "path_slug": "bigthingbible.com-001",
+      "db_slugs": [
+        "bigthingbible.com-001"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://big-things-australia.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/bigthingbible.com-001/",
+      "fetched": [
+        {
+          "source": "https://big-things-australia.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://big-things-australia.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://big-things-australia.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://big-things-australia.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://big-things-australia.pages.dev/big-things-australia.jpg",
+          "file": "big-things-australia.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "custom-kitchen-cabinets-brisbane-costs-k-102",
+      "subdomain": "custom-kitchen-cabinets-brisbane-costs-k-102.pages.dev",
+      "created_on": "2026-07-15T06:58:17.083768Z",
+      "domains": [
+        "custom-kitchen-cabinets-brisbane-costs-k-102.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "kitchenrenobrisbane-102",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://custom-kitchen-cabinets-brisbane-costs-k-102.pages.dev/",
+          "intended_url": "https://custom-kitchen-cabinets-brisbane-costs-k-102.pages.dev/",
+          "primary_kw": "custom kitchen cabinets brisbane costs"
+        }
+      ],
+      "path_slug": "kitchenrenobrisbane-102",
+      "db_slugs": [
+        "kitchenrenobrisbane-102"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://custom-kitchen-cabinets-brisbane-costs-k-102.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/kitchenrenobrisbane-102/",
+      "fetched": [
+        {
+          "source": "https://custom-kitchen-cabinets-brisbane-costs-k-102.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://custom-kitchen-cabinets-brisbane-costs-k-102.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://custom-kitchen-cabinets-brisbane-costs-k-102.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://custom-kitchen-cabinets-brisbane-costs-k-102.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://custom-kitchen-cabinets-brisbane-costs-k-102.pages.dev/custom-kitchen-cabinets-brisbane-costs.png",
+          "file": "custom-kitchen-cabinets-brisbane-costs.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "home-loan-broker-brisbane-costs-hv-102",
+      "subdomain": "home-loan-broker-brisbane-costs-hv-102.pages.dev",
+      "created_on": "2026-07-14T18:29:33.006575Z",
+      "domains": [
+        "home-loan-broker-brisbane-costs-hv-102.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "hlbb-vc-102",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://home-loan-broker-brisbane-costs-hv-102.pages.dev/",
+          "intended_url": "https://home-loan-broker-brisbane-costs-hv-102.pages.dev/",
+          "primary_kw": "home loan broker brisbane costs"
+        }
+      ],
+      "path_slug": "hlbb-vc-102",
+      "db_slugs": [
+        "hlbb-vc-102"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://home-loan-broker-brisbane-costs-hv-102.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/hlbb-vc-102/",
+      "fetched": [
+        {
+          "source": "https://home-loan-broker-brisbane-costs-hv-102.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-brisbane-costs-hv-102.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-brisbane-costs-hv-102.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-brisbane-costs-hv-102.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-brisbane-costs-hv-102.pages.dev/home-loan-broker-brisbane-costs.png",
+          "file": "home-loan-broker-brisbane-costs.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "home-loans-gold-coast-comparison-h-102",
+      "subdomain": "home-loans-gold-coast-comparison-h-102.pages.dev",
+      "created_on": "2026-07-14T00:30:27.366833Z",
+      "domains": [
+        "home-loans-gold-coast-comparison-h-102.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "homeloanbrokergoldcoast-102",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://home-loans-gold-coast-comparison-h-102.pages.dev/",
+          "intended_url": "https://home-loans-gold-coast-comparison-h-102.pages.dev/",
+          "primary_kw": "home loans gold coast comparison"
+        }
+      ],
+      "path_slug": "homeloanbrokergoldcoast-102",
+      "db_slugs": [
+        "homeloanbrokergoldcoast-102"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://home-loans-gold-coast-comparison-h-102.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/homeloanbrokergoldcoast-102/",
+      "fetched": [
+        {
+          "source": "https://home-loans-gold-coast-comparison-h-102.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-gold-coast-comparison-h-102.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-gold-coast-comparison-h-102.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-gold-coast-comparison-h-102.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-gold-coast-comparison-h-102.pages.dev/home-loans-gold-coast-comparison.png",
+          "file": "home-loans-gold-coast-comparison.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "kitchen-renovations-brisbane-comparison-k-101",
+      "subdomain": "kitchen-renovations-brisbane-comparison-k-101.pages.dev",
+      "created_on": "2026-07-13T18:39:12.065959Z",
+      "domains": [
+        "kitchen-renovations-brisbane-comparison-k-101.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "kitchenrenovationnorthbrisbane-101",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://kitchen-renovations-brisbane-comparison-k-101.pages.dev/",
+          "intended_url": "https://kitchen-renovations-brisbane-comparison-k-101.pages.dev/",
+          "primary_kw": "kitchen renovations brisbane comparison"
+        }
+      ],
+      "path_slug": "kitchenrenovationnorthbrisbane-101",
+      "db_slugs": [
+        "kitchenrenovationnorthbrisbane-101"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://kitchen-renovations-brisbane-comparison-k-101.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/kitchenrenovationnorthbrisbane-101/",
+      "fetched": [
+        {
+          "source": "https://kitchen-renovations-brisbane-comparison-k-101.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-brisbane-comparison-k-101.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-brisbane-comparison-k-101.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-brisbane-comparison-k-101.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-brisbane-comparison-k-101.pages.dev/kitchen-renovations-brisbane-comparison.png",
+          "file": "kitchen-renovations-brisbane-comparison.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "home-loans-ballarat-comparison-b-101",
+      "subdomain": "home-loans-ballarat-comparison-b-101.pages.dev",
+      "created_on": "2026-07-12T00:28:16.983885Z",
+      "domains": [
+        "home-loans-ballarat-comparison-b-101.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "ballaratmortgagebroker-101",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://home-loans-ballarat-comparison-b-101.pages.dev/",
+          "intended_url": "https://home-loans-ballarat-comparison-b-101.pages.dev/",
+          "primary_kw": "home loans ballarat comparison"
+        }
+      ],
+      "path_slug": "ballaratmortgagebroker-101",
+      "db_slugs": [
+        "ballaratmortgagebroker-101"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://home-loans-ballarat-comparison-b-101.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/ballaratmortgagebroker-101/",
+      "fetched": [
+        {
+          "source": "https://home-loans-ballarat-comparison-b-101.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-ballarat-comparison-b-101.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-ballarat-comparison-b-101.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-ballarat-comparison-b-101.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-ballarat-comparison-b-101.pages.dev/home-loans-ballarat-comparison.png",
+          "file": "home-loans-ballarat-comparison.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "seo-company-melbourne-costs-tn-102",
+      "subdomain": "seo-company-melbourne-costs-tn-102.pages.dev",
+      "created_on": "2026-07-11T06:48:10.051138Z",
+      "domains": [
+        "seo-company-melbourne-costs-tn-102.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "tscm-nl-102",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://seo-company-melbourne-costs-tn-102.pages.dev/",
+          "intended_url": "https://seo-company-melbourne-costs-tn-102.pages.dev/",
+          "primary_kw": "seo company melbourne costs"
+        }
+      ],
+      "path_slug": "tscm-nl-102",
+      "db_slugs": [
+        "tscm-nl-102"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://seo-company-melbourne-costs-tn-102.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/tscm-nl-102/",
+      "fetched": [
+        {
+          "source": "https://seo-company-melbourne-costs-tn-102.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://seo-company-melbourne-costs-tn-102.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://seo-company-melbourne-costs-tn-102.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://seo-company-melbourne-costs-tn-102.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://seo-company-melbourne-costs-tn-102.pages.dev/seo-company-melbourne-costs.png",
+          "file": "seo-company-melbourne-costs.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "bathroom-renovations-gold-coast",
+      "subdomain": "bathroom-renovations-gold-coast.pages.dev",
+      "created_on": "2026-07-11T04:58:15.915879Z",
+      "domains": [
+        "bathroom-renovations-gold-coast.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "bathrenovationgoldcoast.com-002",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://bathroom-renovations-gold-coast.pages.dev/",
+          "intended_url": "https://bathroom-renovations-gold-coast-guide.pages.dev/",
+          "primary_kw": "bathroom renovations gold coast"
+        }
+      ],
+      "path_slug": "bathrenovationgoldcoast.com-002",
+      "db_slugs": [
+        "bathrenovationgoldcoast.com-002"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://bathroom-renovations-gold-coast.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/bathrenovationgoldcoast.com-002/",
+      "fetched": [
+        {
+          "source": "https://bathroom-renovations-gold-coast.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://bathroom-renovations-gold-coast.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://bathroom-renovations-gold-coast.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://bathroom-renovations-gold-coast.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://bathroom-renovations-gold-coast.pages.dev/bathroom-renovations-gold-coast.jpg",
+          "file": "bathroom-renovations-gold-coast.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "roller-door-repairs-brisbane-guide",
+      "subdomain": "roller-door-repairs-brisbane-guide.pages.dev",
+      "created_on": "2026-07-07T11:12:30.133993Z",
+      "domains": [
+        "roller-door-repairs-brisbane-guide.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "garagedoorrepairsinbrisbane.com-004",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://roller-door-repairs-brisbane.pages.dev/",
+          "intended_url": "https://roller-door-repairs-brisbane-guide.pages.dev/",
+          "primary_kw": "roller door repairs brisbane"
+        }
+      ],
+      "path_slug": "roller-door-repairs-brisbane-guide",
+      "db_slugs": [],
+      "classification": "untracked-legacy-duplicate",
+      "source_origin": "https://roller-door-repairs-brisbane-guide.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/roller-door-repairs-brisbane-guide/",
+      "fetched": [
+        {
+          "source": "https://roller-door-repairs-brisbane-guide.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://roller-door-repairs-brisbane-guide.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://roller-door-repairs-brisbane-guide.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://roller-door-repairs-brisbane-guide.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://roller-door-repairs-brisbane-guide.pages.dev/roller-door-repairs-brisbane.jpg",
+          "file": "roller-door-repairs-brisbane.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "adelaide-finance-broker-buyer-tips-av-103",
+      "subdomain": "adelaide-finance-broker-buyer-tips-av-103.pages.dev",
+      "created_on": "2026-07-08T01:03:52.642774Z",
+      "domains": [
+        "adelaide-finance-broker-buyer-tips-av-103.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "afb-vc-103",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://adelaide-finance-broker-buyer-tips-av-103.pages.dev/",
+          "intended_url": "https://adelaide-finance-broker-buyer-tips-av-103.pages.dev/",
+          "primary_kw": "adelaide finance broker buyer tips"
+        }
+      ],
+      "path_slug": "afb-vc-103",
+      "db_slugs": [
+        "afb-vc-103"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://adelaide-finance-broker-buyer-tips-av-103.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/afb-vc-103/",
+      "fetched": [
+        {
+          "source": "https://adelaide-finance-broker-buyer-tips-av-103.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://adelaide-finance-broker-buyer-tips-av-103.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://adelaide-finance-broker-buyer-tips-av-103.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://adelaide-finance-broker-buyer-tips-av-103.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://adelaide-finance-broker-buyer-tips-av-103.pages.dev/adelaide-finance-broker-buyer-tips.png",
+          "file": "adelaide-finance-broker-buyer-tips.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "asset-finance-australia-buyer-tips-av-111",
+      "subdomain": "asset-finance-australia-buyer-tips-av-111.pages.dev",
+      "created_on": "2026-07-07T22:21:10.689406Z",
+      "domains": [
+        "asset-finance-australia-buyer-tips-av-111.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "afa-vc-111",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://asset-finance-australia-buyer-tips-av-111.pages.dev/",
+          "intended_url": "https://asset-finance-australia-buyer-tips-av-111.pages.dev/",
+          "primary_kw": "asset finance australia buyer tips"
+        }
+      ],
+      "path_slug": "afa-vc-111",
+      "db_slugs": [
+        "afa-vc-111"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://asset-finance-australia-buyer-tips-av-111.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/afa-vc-111/",
+      "fetched": [
+        {
+          "source": "https://asset-finance-australia-buyer-tips-av-111.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-buyer-tips-av-111.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-buyer-tips-av-111.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-buyer-tips-av-111.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-buyer-tips-av-111.pages.dev/asset-finance-australia-buyer-tips.png",
+          "file": "asset-finance-australia-buyer-tips.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "asset-finance-australia-costs-av-110",
+      "subdomain": "asset-finance-australia-costs-av-110.pages.dev",
+      "created_on": "2026-07-07T22:16:57.824348Z",
+      "domains": [
+        "asset-finance-australia-costs-av-110.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "afa-vc-110",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://asset-finance-australia-costs-av-110.pages.dev/",
+          "intended_url": "https://asset-finance-australia-costs-av-110.pages.dev/",
+          "primary_kw": "asset finance australia costs"
+        }
+      ],
+      "path_slug": "afa-vc-110",
+      "db_slugs": [
+        "afa-vc-110"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://asset-finance-australia-costs-av-110.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/afa-vc-110/",
+      "fetched": [
+        {
+          "source": "https://asset-finance-australia-costs-av-110.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-costs-av-110.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-costs-av-110.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-costs-av-110.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-costs-av-110.pages.dev/asset-finance-australia-costs.png",
+          "file": "asset-finance-australia-costs.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "asset-finance-australia-comparison-av-109",
+      "subdomain": "asset-finance-australia-comparison-av-109.pages.dev",
+      "created_on": "2026-07-07T22:13:54.70263Z",
+      "domains": [
+        "asset-finance-australia-comparison-av-109.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "afa-vc-109",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://asset-finance-australia-comparison-av-109.pages.dev/",
+          "intended_url": "https://asset-finance-australia-comparison-av-109.pages.dev/",
+          "primary_kw": "asset finance australia comparison"
+        }
+      ],
+      "path_slug": "afa-vc-109",
+      "db_slugs": [
+        "afa-vc-109"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://asset-finance-australia-comparison-av-109.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/afa-vc-109/",
+      "fetched": [
+        {
+          "source": "https://asset-finance-australia-comparison-av-109.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-comparison-av-109.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-comparison-av-109.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-comparison-av-109.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-comparison-av-109.pages.dev/asset-finance-australia-comparison.png",
+          "file": "asset-finance-australia-comparison.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "asset-finance-australia-guide-av-108",
+      "subdomain": "asset-finance-australia-guide-av-108.pages.dev",
+      "created_on": "2026-07-07T22:11:01.36253Z",
+      "domains": [
+        "asset-finance-australia-guide-av-108.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "afa-vc-108",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://asset-finance-australia-guide-av-108.pages.dev/",
+          "intended_url": "https://asset-finance-australia-guide-av-108.pages.dev/",
+          "primary_kw": "asset finance australia guide"
+        }
+      ],
+      "path_slug": "afa-vc-108",
+      "db_slugs": [
+        "afa-vc-108"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://asset-finance-australia-guide-av-108.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/afa-vc-108/",
+      "fetched": [
+        {
+          "source": "https://asset-finance-australia-guide-av-108.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-guide-av-108.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-guide-av-108.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-guide-av-108.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-guide-av-108.pages.dev/asset-finance-australia-guide.png",
+          "file": "asset-finance-australia-guide.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "asset-finance-australia-av-150",
+      "subdomain": "asset-finance-australia-av-150.pages.dev",
+      "created_on": "2026-07-07T21:37:20.37471Z",
+      "domains": [
+        "asset-finance-australia-av-150.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "afa-vc-150",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://asset-finance-australia-av-150.pages.dev/",
+          "intended_url": "https://asset-finance-australia-av-150.pages.dev/",
+          "primary_kw": "asset finance australia"
+        }
+      ],
+      "path_slug": "afa-vc-150",
+      "db_slugs": [
+        "afa-vc-150"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://asset-finance-australia-av-150.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/afa-vc-150/",
+      "fetched": [
+        {
+          "source": "https://asset-finance-australia-av-150.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-av-150.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-av-150.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-av-150.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://asset-finance-australia-av-150.pages.dev/asset-finance-australia.png",
+          "file": "asset-finance-australia.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "brisbane-conveyancers-investment-bv-106",
+      "subdomain": "brisbane-conveyancers-investment-bv-106.pages.dev",
+      "created_on": "2026-07-07T04:51:14.191397Z",
+      "domains": [
+        "brisbane-conveyancers-investment-bv-106.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "bcv-vc-106",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://brisbane-conveyancers-investment-bv-106.pages.dev/",
+          "intended_url": "https://brisbane-conveyancers-investment-bv-106.pages.dev/",
+          "primary_kw": "brisbane conveyancers investment"
+        }
+      ],
+      "path_slug": "bcv-vc-106",
+      "db_slugs": [
+        "bcv-vc-106"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://brisbane-conveyancers-investment-bv-106.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/bcv-vc-106/",
+      "fetched": [
+        {
+          "source": "https://brisbane-conveyancers-investment-bv-106.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://brisbane-conveyancers-investment-bv-106.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://brisbane-conveyancers-investment-bv-106.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://brisbane-conveyancers-investment-bv-106.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://brisbane-conveyancers-investment-bv-106.pages.dev/brisbane-conveyancers-investment.png",
+          "file": "brisbane-conveyancers-investment.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "roller-door-repairs-brisbane-r-150",
+      "subdomain": "roller-door-repairs-brisbane-r-150.pages.dev",
+      "created_on": "2026-07-07T00:48:23.49343Z",
+      "domains": [
+        "roller-door-repairs-brisbane-r-150.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "rollerdoorsbrisbane-150",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://roller-door-repairs-brisbane-r-150.pages.dev/",
+          "intended_url": "https://roller-door-repairs-brisbane-r-150.pages.dev/",
+          "primary_kw": "roller door repairs brisbane"
+        }
+      ],
+      "path_slug": "rollerdoorsbrisbane-150",
+      "db_slugs": [
+        "rollerdoorsbrisbane-150"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://roller-door-repairs-brisbane-r-150.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/rollerdoorsbrisbane-150/",
+      "fetched": [
+        {
+          "source": "https://roller-door-repairs-brisbane-r-150.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://roller-door-repairs-brisbane-r-150.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://roller-door-repairs-brisbane-r-150.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://roller-door-repairs-brisbane-r-150.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://roller-door-repairs-brisbane-r-150.pages.dev/roller-door-repairs-brisbane.png",
+          "file": "roller-door-repairs-brisbane.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "investment-property-loans-brisbane-how-to-choose-h-104",
+      "subdomain": "investment-property-loans-brisbane-how-to-choose-h-104.pages.dev",
+      "created_on": "2026-07-06T08:00:03.547174Z",
+      "domains": [
+        "investment-property-loans-brisbane-how-to-choose-h-104.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "homeloanbrokerbrisbane-104",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://investment-property-loans-brisbane-how-to-choose-h-104.pages.dev/",
+          "intended_url": "https://investment-property-loans-brisbane-how-to-choose-h-104.pages.dev/",
+          "primary_kw": "investment property loans brisbane how to choose"
+        }
+      ],
+      "path_slug": "homeloanbrokerbrisbane-104",
+      "db_slugs": [
+        "homeloanbrokerbrisbane-104"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://investment-property-loans-brisbane-how-to-choose-h-104.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/homeloanbrokerbrisbane-104/",
+      "fetched": [
+        {
+          "source": "https://investment-property-loans-brisbane-how-to-choose-h-104.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://investment-property-loans-brisbane-how-to-choose-h-104.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://investment-property-loans-brisbane-how-to-choose-h-104.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://investment-property-loans-brisbane-how-to-choose-h-104.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://investment-property-loans-brisbane-how-to-choose-h-104.pages.dev/investment-property-loans-brisbane-how-to-choose.png",
+          "file": "investment-property-loans-brisbane-how-to-choose.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "seo-company-melbourne",
+      "subdomain": "seo-company-melbourne.pages.dev",
+      "created_on": "2026-07-04T12:14:39.032717Z",
+      "domains": [
+        "seo-company-melbourne.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "tscm-nl-150",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://seo-company-melbourne.pages.dev/",
+          "intended_url": "https://seo-company-melbourne.pages.dev/",
+          "primary_kw": "seo company melbourne"
+        }
+      ],
+      "path_slug": "tscm-nl-150",
+      "db_slugs": [
+        "tscm-nl-150"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://seo-company-melbourne.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/tscm-nl-150/",
+      "fetched": [
+        {
+          "source": "https://seo-company-melbourne.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://seo-company-melbourne.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://seo-company-melbourne.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://seo-company-melbourne.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://seo-company-melbourne.pages.dev/seo-company-melbourne.png",
+          "file": "seo-company-melbourne.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "garage-door-spring-replacement-ipswich",
+      "subdomain": "garage-door-spring-replacement-ipswich.pages.dev",
+      "created_on": "2026-07-02T14:46:18.948308Z",
+      "domains": [
+        "garage-door-spring-replacement-ipswich.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "slgdor-102",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://garage-door-spring-replacement-ipswich.pages.dev",
+          "intended_url": "https://garage-door-spring-replacement-ipswich.pages.dev",
+          "primary_kw": "garage door spring replacement ipswich"
+        }
+      ],
+      "path_slug": "slgdor-102",
+      "db_slugs": [
+        "slgdor-102"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://garage-door-spring-replacement-ipswich.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/slgdor-102/",
+      "fetched": [
+        {
+          "source": "https://garage-door-spring-replacement-ipswich.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://garage-door-spring-replacement-ipswich.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://garage-door-spring-replacement-ipswich.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://garage-door-spring-replacement-ipswich.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://garage-door-spring-replacement-ipswich.pages.dev/garage-door-spring-replacement-ipswich.jpg",
+          "file": "garage-door-spring-replacement-ipswich.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "small-kitchen-renovations-melbourne-east-guide",
+      "subdomain": "small-kitchen-renovations-melbourne-east-guide.pages.dev",
+      "created_on": "2026-07-02T14:54:02.698121Z",
+      "domains": [
+        "small-kitchen-renovations-melbourne-east-guide.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "melbourne-east-kitchen-renovations-mr-102",
+          "status": "failed",
+          "tier": "T2",
+          "live_url": "https://small-kitchen-renovations-melbourne-east-guide.pages.dev",
+          "intended_url": "https://small-kitchen-renovations-melbourne-east-guide.pages.dev",
+          "primary_kw": "small kitchen renovations melbourne east"
+        }
+      ],
+      "path_slug": "melbourne-east-kitchen-renovations-mr-102",
+      "db_slugs": [
+        "melbourne-east-kitchen-renovations-mr-102"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://small-kitchen-renovations-melbourne-east-guide.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/melbourne-east-kitchen-renovations-mr-102/",
+      "fetched": [
+        {
+          "source": "https://small-kitchen-renovations-melbourne-east-guide.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://small-kitchen-renovations-melbourne-east-guide.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://small-kitchen-renovations-melbourne-east-guide.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://small-kitchen-renovations-melbourne-east-guide.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://small-kitchen-renovations-melbourne-east-guide.pages.dev/small-kitchen-renovations-melbourne-east.jpg",
+          "file": "small-kitchen-renovations-melbourne-east.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "tractor-finance-lp-vc-150",
+      "subdomain": "tractor-finance-lp-vc-150.pages.dev",
+      "created_on": "2026-07-04T12:32:25.924358Z",
+      "domains": [
+        "tractor-finance-lp-vc-150.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "lp-vc-150",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://tractor-finance-lp-vc-150.pages.dev/",
+          "intended_url": "https://tractor-finance-lp-vc-150.pages.dev/",
+          "primary_kw": "tractor finance"
+        }
+      ],
+      "path_slug": "lp-vc-150",
+      "db_slugs": [
+        "lp-vc-150"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://tractor-finance-lp-vc-150.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/lp-vc-150/",
+      "fetched": [
+        {
+          "source": "https://tractor-finance-lp-vc-150.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://tractor-finance-lp-vc-150.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://tractor-finance-lp-vc-150.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://tractor-finance-lp-vc-150.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://tractor-finance-lp-vc-150.pages.dev/tractor-finance.png",
+          "file": "tractor-finance.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "custom-cabinetry-geelong-k-150",
+      "subdomain": "custom-cabinetry-geelong-k-150.pages.dev",
+      "created_on": "2026-07-06T01:31:16.29175Z",
+      "domains": [
+        "custom-cabinetry-geelong-k-150.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "kitchenrenovationgeelong-150",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://custom-cabinetry-geelong-k-150.pages.dev/",
+          "intended_url": "https://custom-cabinetry-geelong-k-150.pages.dev/",
+          "primary_kw": "custom cabinetry geelong"
+        }
+      ],
+      "path_slug": "kitchenrenovationgeelong-150",
+      "db_slugs": [
+        "kitchenrenovationgeelong-150"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://custom-cabinetry-geelong-k-150.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/kitchenrenovationgeelong-150/",
+      "fetched": [
+        {
+          "source": "https://custom-cabinetry-geelong-k-150.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://custom-cabinetry-geelong-k-150.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://custom-cabinetry-geelong-k-150.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://custom-cabinetry-geelong-k-150.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://custom-cabinetry-geelong-k-150.pages.dev/custom-cabinetry-geelong.png",
+          "file": "custom-cabinetry-geelong.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "first-home-buyer-loan-north-brisbane-w8",
+      "subdomain": "first-home-buyer-loan-north-brisbane-w8.pages.dev",
+      "created_on": "2026-07-02T14:49:17.721889Z",
+      "domains": [
+        "first-home-buyer-loan-north-brisbane-w8.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "homeloanbrokernorthbrisbane-102",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://first-home-buyer-loan-north-brisbane-w8.pages.dev/",
+          "intended_url": "https://first-home-buyer-loan-north-brisbane-w8.pages.dev/",
+          "primary_kw": "first home buyer loan north brisbane"
+        }
+      ],
+      "path_slug": "homeloanbrokernorthbrisbane-102",
+      "db_slugs": [
+        "homeloanbrokernorthbrisbane-102"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://first-home-buyer-loan-north-brisbane-w8.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/homeloanbrokernorthbrisbane-102/",
+      "fetched": [
+        {
+          "source": "https://first-home-buyer-loan-north-brisbane-w8.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://first-home-buyer-loan-north-brisbane-w8.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://first-home-buyer-loan-north-brisbane-w8.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://first-home-buyer-loan-north-brisbane-w8.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://first-home-buyer-loan-north-brisbane-w8.pages.dev/first-home-buyer-loan-north-brisbane.jpg",
+          "file": "first-home-buyer-loan-north-brisbane.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "first-home-buyer-loan-brisbane",
+      "subdomain": "first-home-buyer-loan-brisbane.pages.dev",
+      "created_on": "2026-07-03T08:34:10.110575Z",
+      "domains": [
+        "first-home-buyer-loan-brisbane.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "home-loan-broker-brisbane-mr-101",
+          "status": "failed",
+          "tier": "T2",
+          "live_url": "https://first-home-buyer-loan-brisbane.pages.dev/",
+          "intended_url": "https://first-home-buyer-loan-brisbane.pages.dev/",
+          "primary_kw": "first home buyer loan brisbane"
+        }
+      ],
+      "path_slug": "home-loan-broker-brisbane-mr-101",
+      "db_slugs": [
+        "home-loan-broker-brisbane-mr-101"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://first-home-buyer-loan-brisbane.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/home-loan-broker-brisbane-mr-101/",
+      "fetched": [
+        {
+          "source": "https://first-home-buyer-loan-brisbane.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://first-home-buyer-loan-brisbane.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://first-home-buyer-loan-brisbane.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://first-home-buyer-loan-brisbane.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://first-home-buyer-loan-brisbane.pages.dev/first-home-buyer-loan-brisbane.jpg",
+          "file": "first-home-buyer-loan-brisbane.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "finance-broker-wollongong-comparison-f-101",
+      "subdomain": "finance-broker-wollongong-comparison-f-101.pages.dev",
+      "created_on": "2026-07-05T10:36:42.552032Z",
+      "domains": [
+        "finance-broker-wollongong-comparison-f-101.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "financebrokerwollongong-101",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://finance-broker-wollongong-comparison-f-101.pages.dev/",
+          "intended_url": "https://finance-broker-wollongong-comparison-f-101.pages.dev/",
+          "primary_kw": "finance broker wollongong comparison"
+        }
+      ],
+      "path_slug": "financebrokerwollongong-101",
+      "db_slugs": [
+        "financebrokerwollongong-101"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://finance-broker-wollongong-comparison-f-101.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/financebrokerwollongong-101/",
+      "fetched": [
+        {
+          "source": "https://finance-broker-wollongong-comparison-f-101.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://finance-broker-wollongong-comparison-f-101.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://finance-broker-wollongong-comparison-f-101.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://finance-broker-wollongong-comparison-f-101.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://finance-broker-wollongong-comparison-f-101.pages.dev/finance-broker-wollongong-comparison.png",
+          "file": "finance-broker-wollongong-comparison.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "brisbane-seo-company-guide",
+      "subdomain": "brisbane-seo-company-guide.pages.dev",
+      "created_on": "2026-07-04T06:28:37.278751Z",
+      "domains": [
+        "brisbane-seo-company-guide.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "tscb-nl-150",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://brisbane-seo-company-guide.pages.dev/",
+          "intended_url": "https://brisbane-seo-company-guide.pages.dev/",
+          "primary_kw": "brisbane seo company guide"
+        }
+      ],
+      "path_slug": "tscb-nl-150",
+      "db_slugs": [
+        "tscb-nl-150"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://brisbane-seo-company-guide.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/tscb-nl-150/",
+      "fetched": [
+        {
+          "source": "https://brisbane-seo-company-guide.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://brisbane-seo-company-guide.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://brisbane-seo-company-guide.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://brisbane-seo-company-guide.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://brisbane-seo-company-guide.pages.dev/brisbane-seo-company-guide.jpg",
+          "file": "brisbane-seo-company-guide.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "brisbane-home-extension-cost",
+      "subdomain": "brisbane-home-extension-cost.pages.dev",
+      "created_on": "2026-07-02T11:06:32.099227Z",
+      "domains": [
+        "brisbane-home-extension-cost.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "brisbanerenovation-152",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://brisbane-home-extension-cost.pages.dev/",
+          "intended_url": "https://brisbane-home-extension-cost.pages.dev/",
+          "primary_kw": "brisbane home extension cost"
+        }
+      ],
+      "path_slug": "brisbanerenovation-152",
+      "db_slugs": [
+        "brisbanerenovation-152"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://brisbane-home-extension-cost.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/brisbanerenovation-152/",
+      "fetched": [
+        {
+          "source": "https://brisbane-home-extension-cost.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://brisbane-home-extension-cost.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://brisbane-home-extension-cost.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://brisbane-home-extension-cost.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://brisbane-home-extension-cost.pages.dev/brisbane-home-extension-cost.jpg",
+          "file": "brisbane-home-extension-cost.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "home-loan-broker-bendigo-comparison-b-101",
+      "subdomain": "home-loan-broker-bendigo-comparison-b-101.pages.dev",
+      "created_on": "2026-07-06T03:08:17.720722Z",
+      "domains": [
+        "home-loan-broker-bendigo-comparison-b-101.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "bendigohomeloanbroker-101",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://home-loan-broker-bendigo-comparison-b-101.pages.dev/",
+          "intended_url": "https://home-loan-broker-bendigo-comparison-b-101.pages.dev/",
+          "primary_kw": "home loan broker bendigo comparison"
+        }
+      ],
+      "path_slug": "bendigohomeloanbroker-101",
+      "db_slugs": [
+        "bendigohomeloanbroker-101"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://home-loan-broker-bendigo-comparison-b-101.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/bendigohomeloanbroker-101/",
+      "fetched": [
+        {
+          "source": "https://home-loan-broker-bendigo-comparison-b-101.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-bendigo-comparison-b-101.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-bendigo-comparison-b-101.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-bendigo-comparison-b-101.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-bendigo-comparison-b-101.pages.dev/home-loan-broker-bendigo-comparison.png",
+          "file": "home-loan-broker-bendigo-comparison.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "business-loans-bendigo-comparison-bendigofinancebroker-101",
+      "subdomain": "business-loans-bendigo-comparison-bendigofinancebroker-101.pages.dev",
+      "created_on": "2026-07-04T23:39:26.689738Z",
+      "domains": [
+        "business-loans-bendigo-comparison-bendigofinancebroker-101.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "bendigofinancebroker-101",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://business-loans-bendigo-comparison-bendigofinancebroker-101.pages.dev/",
+          "intended_url": "https://business-loans-bendigo-comparison-bendigofinancebroker-101.pages.dev/",
+          "primary_kw": "business loans bendigo comparison"
+        }
+      ],
+      "path_slug": "bendigofinancebroker-101",
+      "db_slugs": [
+        "bendigofinancebroker-101"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://business-loans-bendigo-comparison-bendigofinancebroker-101.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/bendigofinancebroker-101/",
+      "fetched": [
+        {
+          "source": "https://business-loans-bendigo-comparison-bendigofinancebroker-101.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://business-loans-bendigo-comparison-bendigofinancebroker-101.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://business-loans-bendigo-comparison-bendigofinancebroker-101.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://business-loans-bendigo-comparison-bendigofinancebroker-101.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://business-loans-bendigo-comparison-bendigofinancebroker-101.pages.dev/business-loans-bendigo-comparison.png",
+          "file": "business-loans-bendigo-comparison.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "ballarat-refinancing-mortgage-broker-b-150",
+      "subdomain": "ballarat-refinancing-mortgage-broker-b-150.pages.dev",
+      "created_on": "2026-07-05T15:05:09.031491Z",
+      "domains": [
+        "ballarat-refinancing-mortgage-broker-b-150.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "ballaratmortgagebroker-150",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://ballarat-refinancing-mortgage-broker-b-150.pages.dev/",
+          "intended_url": "https://ballarat-refinancing-mortgage-broker-b-150.pages.dev/",
+          "primary_kw": "ballarat refinancing mortgage broker"
+        }
+      ],
+      "path_slug": "ballaratmortgagebroker-150",
+      "db_slugs": [
+        "ballaratmortgagebroker-150"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://ballarat-refinancing-mortgage-broker-b-150.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/ballaratmortgagebroker-150/",
+      "fetched": [
+        {
+          "source": "https://ballarat-refinancing-mortgage-broker-b-150.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://ballarat-refinancing-mortgage-broker-b-150.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://ballarat-refinancing-mortgage-broker-b-150.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://ballarat-refinancing-mortgage-broker-b-150.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://ballarat-refinancing-mortgage-broker-b-150.pages.dev/ballarat-refinancing-mortgage-broker.png",
+          "file": "ballarat-refinancing-mortgage-broker.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "kitchen-renovations-adelaide",
+      "subdomain": "kitchen-renovations-adelaide.pages.dev",
+      "created_on": "2026-07-04T12:42:58.260108Z",
+      "domains": [
+        "kitchen-renovations-adelaide.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "akr-vc-150",
+          "status": "live",
+          "tier": "T2",
+          "live_url": "https://kitchen-renovations-adelaide.pages.dev/",
+          "intended_url": "https://kitchen-renovations-adelaide.pages.dev/",
+          "primary_kw": "kitchen renovations adelaide"
+        }
+      ],
+      "path_slug": "akr-vc-150",
+      "db_slugs": [
+        "akr-vc-150"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://kitchen-renovations-adelaide.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/akr-vc-150/",
+      "fetched": [
+        {
+          "source": "https://kitchen-renovations-adelaide.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-adelaide.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-adelaide.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-adelaide.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovations-adelaide.pages.dev/kitchen-renovations-adelaide.png",
+          "file": "kitchen-renovations-adelaide.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "roller-door-repairs-brisbane",
+      "subdomain": "roller-door-repairs-brisbane.pages.dev",
+      "created_on": "2026-07-05T23:26:05.71562Z",
+      "domains": [
+        "roller-door-repairs-brisbane.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "garagedoorrepairsinbrisbane.com-004",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://roller-door-repairs-brisbane.pages.dev/",
+          "intended_url": "https://roller-door-repairs-brisbane-guide.pages.dev/",
+          "primary_kw": "roller door repairs brisbane"
+        }
+      ],
+      "path_slug": "garagedoorrepairsinbrisbane.com-004",
+      "db_slugs": [
+        "garagedoorrepairsinbrisbane.com-004"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://roller-door-repairs-brisbane.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/garagedoorrepairsinbrisbane.com-004/",
+      "fetched": [
+        {
+          "source": "https://roller-door-repairs-brisbane.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://roller-door-repairs-brisbane.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://roller-door-repairs-brisbane.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://roller-door-repairs-brisbane.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://roller-door-repairs-brisbane.pages.dev/roller-door-repairs-brisbane.jpg",
+          "file": "roller-door-repairs-brisbane.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "home-loan-broker-brisbane",
+      "subdomain": "home-loan-broker-brisbane.pages.dev",
+      "created_on": "2026-07-05T11:49:15.298681Z",
+      "domains": [
+        "home-loan-broker-brisbane.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "brisbanehomeloanbroker-001",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://home-loan-broker-brisbane.pages.dev/",
+          "intended_url": "https://home-loan-broker-brisbane-guide.pages.dev/",
+          "primary_kw": "home loan broker brisbane"
+        }
+      ],
+      "path_slug": "brisbanehomeloanbroker-001",
+      "db_slugs": [
+        "brisbanehomeloanbroker-001"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://home-loan-broker-brisbane.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/brisbanehomeloanbroker-001/",
+      "fetched": [
+        {
+          "source": "https://home-loan-broker-brisbane.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-brisbane.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-brisbane.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-brisbane.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-brisbane.pages.dev/home-loan-broker-brisbane.jpg",
+          "file": "home-loan-broker-brisbane.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "property-settlement-sydney",
+      "subdomain": "property-settlement-sydney.pages.dev",
+      "created_on": "2026-07-04T23:26:54.752443Z",
+      "domains": [
+        "property-settlement-sydney.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "sydneyconveyancers-001",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://property-settlement-sydney.pages.dev/",
+          "intended_url": "https://property-settlement-sydney-guide.pages.dev/",
+          "primary_kw": "property settlement sydney"
+        }
+      ],
+      "path_slug": "sydneyconveyancers-001",
+      "db_slugs": [
+        "sydneyconveyancers-001"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://property-settlement-sydney.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/sydneyconveyancers-001/",
+      "fetched": [
+        {
+          "source": "https://property-settlement-sydney.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://property-settlement-sydney.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://property-settlement-sydney.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://property-settlement-sydney.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://property-settlement-sydney.pages.dev/property-settlement-sydney.jpg",
+          "file": "property-settlement-sydney.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "home-loans-brisbane",
+      "subdomain": "home-loans-brisbane.pages.dev",
+      "created_on": "2026-07-04T23:14:27.414274Z",
+      "domains": [
+        "home-loans-brisbane.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "homeloanbrokerbrisbane-001",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://home-loans-brisbane.pages.dev/",
+          "intended_url": "https://home-loans-brisbane-guide.pages.dev/",
+          "primary_kw": "home loans brisbane"
+        }
+      ],
+      "path_slug": "homeloanbrokerbrisbane-001",
+      "db_slugs": [
+        "homeloanbrokerbrisbane-001"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://home-loans-brisbane.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/homeloanbrokerbrisbane-001/",
+      "fetched": [
+        {
+          "source": "https://home-loans-brisbane.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-brisbane.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-brisbane.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-brisbane.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-brisbane.pages.dev/home-loans-brisbane.jpg",
+          "file": "home-loans-brisbane.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "home-loan-brokers-perth",
+      "subdomain": "home-loan-brokers-perth.pages.dev",
+      "created_on": "2026-07-04T02:48:52.453664Z",
+      "domains": [
+        "home-loan-brokers-perth.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "perthhomeloanbroker-001",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://home-loan-brokers-perth.pages.dev/",
+          "intended_url": "https://home-loan-brokers-perth-guide.pages.dev/",
+          "primary_kw": "home loan brokers perth"
+        }
+      ],
+      "path_slug": "perthhomeloanbroker-001",
+      "db_slugs": [
+        "perthhomeloanbroker-001"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://home-loan-brokers-perth.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/perthhomeloanbroker-001/",
+      "fetched": [
+        {
+          "source": "https://home-loan-brokers-perth.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-brokers-perth.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-brokers-perth.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-brokers-perth.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-brokers-perth.pages.dev/home-loan-brokers-perth.jpg",
+          "file": "home-loan-brokers-perth.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "construction-loans-brisbane",
+      "subdomain": "construction-loans-brisbane.pages.dev",
+      "created_on": "2026-07-04T04:32:21.900015Z",
+      "domains": [
+        "construction-loans-brisbane.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "lenderdirect-001",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://construction-loans-brisbane.pages.dev/",
+          "intended_url": "https://construction-loans-brisbane-guide.pages.dev/",
+          "primary_kw": "construction loans brisbane"
+        }
+      ],
+      "path_slug": "lenderdirect-001",
+      "db_slugs": [
+        "lenderdirect-001"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://construction-loans-brisbane.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/lenderdirect-001/",
+      "fetched": [
+        {
+          "source": "https://construction-loans-brisbane.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://construction-loans-brisbane.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://construction-loans-brisbane.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://construction-loans-brisbane.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://construction-loans-brisbane.pages.dev/construction-loans-brisbane.jpg",
+          "file": "construction-loans-brisbane.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "home-loan-brokers-brisbane",
+      "subdomain": "home-loan-brokers-brisbane.pages.dev",
+      "created_on": "2026-07-03T10:32:17.266177Z",
+      "domains": [
+        "home-loan-brokers-brisbane.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "homeloanbrokernorthbrisbane-001",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://home-loan-brokers-brisbane.pages.dev/",
+          "intended_url": "https://home-loan-brokers-brisbane-guide.pages.dev/",
+          "primary_kw": "home loan brokers brisbane"
+        }
+      ],
+      "path_slug": "homeloanbrokernorthbrisbane-001",
+      "db_slugs": [
+        "homeloanbrokernorthbrisbane-001"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://home-loan-brokers-brisbane.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/homeloanbrokernorthbrisbane-001/",
+      "fetched": [
+        {
+          "source": "https://home-loan-brokers-brisbane.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-brokers-brisbane.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-brokers-brisbane.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-brokers-brisbane.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-brokers-brisbane.pages.dev/home-loan-brokers-brisbane.jpg",
+          "file": "home-loan-brokers-brisbane.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "home-loans-central-coast",
+      "subdomain": "home-loans-central-coast.pages.dev",
+      "created_on": "2026-07-02T17:11:40.416149Z",
+      "domains": [
+        "home-loans-central-coast.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "financebrokercentralcoast-001",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://home-loans-central-coast.pages.dev/",
+          "intended_url": "https://home-loans-central-coast-guide.pages.dev/",
+          "primary_kw": "home loans central coast"
+        }
+      ],
+      "path_slug": "financebrokercentralcoast-001",
+      "db_slugs": [
+        "financebrokercentralcoast-001"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://home-loans-central-coast.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/financebrokercentralcoast-001/",
+      "fetched": [
+        {
+          "source": "https://home-loans-central-coast.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-central-coast.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-central-coast.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-central-coast.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-central-coast.pages.dev/home-loans-central-coast.jpg",
+          "file": "home-loans-central-coast.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "home-loan-broker-adelaide",
+      "subdomain": "home-loan-broker-adelaide.pages.dev",
+      "created_on": "2026-07-02T20:27:19.978032Z",
+      "domains": [
+        "home-loan-broker-adelaide.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "adelaidefinancebroker-001",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://home-loan-broker-adelaide.pages.dev/",
+          "intended_url": "https://home-loan-broker-adelaide-guide.pages.dev/",
+          "primary_kw": "home loan broker adelaide"
+        }
+      ],
+      "path_slug": "adelaidefinancebroker-001",
+      "db_slugs": [
+        "adelaidefinancebroker-001"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://home-loan-broker-adelaide.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/adelaidefinancebroker-001/",
+      "fetched": [
+        {
+          "source": "https://home-loan-broker-adelaide.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-adelaide.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-adelaide.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-adelaide.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-adelaide.pages.dev/home-loan-broker-adelaide.jpg",
+          "file": "home-loan-broker-adelaide.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "walk-in-shower-conversions-brisbane",
+      "subdomain": "walk-in-shower-conversions-brisbane.pages.dev",
+      "created_on": "2026-07-04T11:25:25.580844Z",
+      "domains": [
+        "walk-in-shower-conversions-brisbane.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "bathroomrenobrisbane.com-003",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://walk-in-shower-conversions-brisbane.pages.dev/",
+          "intended_url": "https://walk-in-shower-conversions-brisbane.pages.dev/",
+          "primary_kw": "walk in shower conversions brisbane"
+        }
+      ],
+      "path_slug": "bathroomrenobrisbane.com-003",
+      "db_slugs": [
+        "bathroomrenobrisbane.com-003"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://walk-in-shower-conversions-brisbane.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/bathroomrenobrisbane.com-003/",
+      "fetched": [
+        {
+          "source": "https://walk-in-shower-conversions-brisbane.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://walk-in-shower-conversions-brisbane.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://walk-in-shower-conversions-brisbane.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://walk-in-shower-conversions-brisbane.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://walk-in-shower-conversions-brisbane.pages.dev/walk-in-shower-conversions-brisbane.jpg",
+          "file": "walk-in-shower-conversions-brisbane.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "refinancing-ballarat-guide",
+      "subdomain": "refinancing-ballarat-guide-e3f.pages.dev",
+      "created_on": "2026-07-02T03:09:07.538566Z",
+      "domains": [
+        "refinancing-ballarat-guide-e3f.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [
+        {
+          "slug": "ballarathomeloanbroker-002",
+          "status": "live",
+          "tier": "T1",
+          "live_url": "https://refinancing-ballarat-guide-e3f.pages.dev/",
+          "intended_url": "https://refinancing-ballarat-guide-e3f.pages.dev",
+          "primary_kw": "refinancing ballarat"
+        }
+      ],
+      "path_slug": "ballarathomeloanbroker-002",
+      "db_slugs": [
+        "ballarathomeloanbroker-002"
+      ],
+      "classification": "tracked",
+      "source_origin": "https://refinancing-ballarat-guide-e3f.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/ballarathomeloanbroker-002/",
+      "fetched": [
+        {
+          "source": "https://refinancing-ballarat-guide-e3f.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://refinancing-ballarat-guide-e3f.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://refinancing-ballarat-guide-e3f.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://refinancing-ballarat-guide-e3f.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://refinancing-ballarat-guide-e3f.pages.dev/refinancing-ballarat.jpg",
+          "file": "refinancing-ballarat.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "car-finance-wollongong-guide",
+      "subdomain": "car-finance-wollongong-guide-12w.pages.dev",
+      "domains": [
+        "car-finance-wollongong-guide-12w.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "financebrokerwollongong-002",
+      "db_slugs": [],
+      "classification": "tracked",
+      "source_origin": "https://car-finance-wollongong-guide-12w.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/financebrokerwollongong-002/",
+      "fetched": [
+        {
+          "source": "https://car-finance-wollongong-guide-12w.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://car-finance-wollongong-guide-12w.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://car-finance-wollongong-guide-12w.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://car-finance-wollongong-guide-12w.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://car-finance-wollongong-guide-12w.pages.dev/car-finance-wollongong.jpg",
+          "file": "car-finance-wollongong.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "kitchen-reno-brisbane-k-150",
+      "subdomain": "kitchen-reno-brisbane-k-150.pages.dev",
+      "domains": [
+        "kitchen-reno-brisbane-k-150.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "kitchen-reno-brisbane-k-150",
+      "db_slugs": [],
+      "classification": "untracked-legacy-duplicate",
+      "source_origin": "https://kitchen-reno-brisbane-k-150.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/kitchen-reno-brisbane-k-150/",
+      "fetched": [
+        {
+          "source": "https://kitchen-reno-brisbane-k-150.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-reno-brisbane-k-150.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-reno-brisbane-k-150.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-reno-brisbane-k-150.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-reno-brisbane-k-150.pages.dev/kitchen-reno-brisbane.png",
+          "file": "kitchen-reno-brisbane.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "seo-company-melbourne-tn-151",
+      "subdomain": "seo-company-melbourne-tn-151.pages.dev",
+      "domains": [
+        "seo-company-melbourne-tn-151.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "seo-company-melbourne-tn-151",
+      "db_slugs": [],
+      "classification": "untracked-legacy-duplicate",
+      "source_origin": "https://seo-company-melbourne-tn-151.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/seo-company-melbourne-tn-151/",
+      "fetched": [
+        {
+          "source": "https://seo-company-melbourne-tn-151.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://seo-company-melbourne-tn-151.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://seo-company-melbourne-tn-151.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://seo-company-melbourne-tn-151.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://seo-company-melbourne-tn-151.pages.dev/seo-company-melbourne.png",
+          "file": "seo-company-melbourne.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "refinancing-central-coast-f-150",
+      "subdomain": "refinancing-central-coast-f-150.pages.dev",
+      "domains": [
+        "refinancing-central-coast-f-150.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "refinancing-central-coast-f-150",
+      "db_slugs": [],
+      "classification": "untracked-legacy-duplicate",
+      "source_origin": "https://refinancing-central-coast-f-150.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/refinancing-central-coast-f-150/",
+      "fetched": [
+        {
+          "source": "https://refinancing-central-coast-f-150.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://refinancing-central-coast-f-150.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://refinancing-central-coast-f-150.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://refinancing-central-coast-f-150.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://refinancing-central-coast-f-150.pages.dev/refinancing-central-coast.png",
+          "file": "refinancing-central-coast.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "bathroom-renovation-gold-coast-guide",
+      "subdomain": "bathroom-renovation-gold-coast-guide.pages.dev",
+      "domains": [
+        "bathroom-renovation-gold-coast-guide.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "bathroom-renovation-gold-coast-guide",
+      "db_slugs": [],
+      "classification": "untracked-legacy-duplicate",
+      "source_origin": "https://bathroom-renovation-gold-coast-guide.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/bathroom-renovation-gold-coast-guide/",
+      "fetched": [
+        {
+          "source": "https://bathroom-renovation-gold-coast-guide.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://bathroom-renovation-gold-coast-guide.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://bathroom-renovation-gold-coast-guide.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://bathroom-renovation-gold-coast-guide.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://bathroom-renovation-gold-coast-guide.pages.dev/bathroom-renovation-gold-coast.jpg",
+          "file": "bathroom-renovation-gold-coast.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "google-reviews-toowoomba-guide",
+      "subdomain": "google-reviews-toowoomba-guide-1mb.pages.dev",
+      "domains": [
+        "google-reviews-toowoomba-guide-1mb.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "toowoombaseo-104",
+      "db_slugs": [],
+      "classification": "tracked",
+      "source_origin": "https://google-reviews-toowoomba-guide-1mb.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/toowoombaseo-104/",
+      "fetched": [
+        {
+          "source": "https://google-reviews-toowoomba-guide-1mb.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://google-reviews-toowoomba-guide-1mb.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://google-reviews-toowoomba-guide-1mb.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://google-reviews-toowoomba-guide-1mb.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://google-reviews-toowoomba-guide-1mb.pages.dev/google-reviews-toowoomba.jpg",
+          "file": "google-reviews-toowoomba.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "local-seo-toowoomba-guide",
+      "subdomain": "local-seo-toowoomba-guide-dye.pages.dev",
+      "domains": [
+        "local-seo-toowoomba-guide-dye.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "toowoombaseo-101",
+      "db_slugs": [],
+      "classification": "tracked",
+      "source_origin": "https://local-seo-toowoomba-guide-dye.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/toowoombaseo-101/",
+      "fetched": [
+        {
+          "source": "https://local-seo-toowoomba-guide-dye.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://local-seo-toowoomba-guide-dye.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://local-seo-toowoomba-guide-dye.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://local-seo-toowoomba-guide-dye.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://local-seo-toowoomba-guide-dye.pages.dev/local-seo-toowoomba.jpg",
+          "file": "local-seo-toowoomba.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "retaining-wall-cost-toowoomba",
+      "subdomain": "retaining-wall-cost-toowoomba-m3b.pages.dev",
+      "domains": [
+        "retaining-wall-cost-toowoomba-m3b.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "retainingwalltoowoomba-003",
+      "db_slugs": [],
+      "classification": "tracked",
+      "source_origin": "https://retaining-wall-cost-toowoomba-m3b.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retainingwalltoowoomba-003/",
+      "fetched": [
+        {
+          "source": "https://retaining-wall-cost-toowoomba-m3b.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://retaining-wall-cost-toowoomba-m3b.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://retaining-wall-cost-toowoomba-m3b.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://retaining-wall-cost-toowoomba-m3b.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://retaining-wall-cost-toowoomba-m3b.pages.dev/retaining-wall-cost-toowoomba.jpg",
+          "file": "retaining-wall-cost-toowoomba.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "business-equipment-finance-guide",
+      "subdomain": "business-equipment-finance-guide-4v5.pages.dev",
+      "domains": [
+        "business-equipment-finance-guide-4v5.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "loanphone-007",
+      "db_slugs": [],
+      "classification": "tracked",
+      "source_origin": "https://business-equipment-finance-guide-4v5.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/loanphone-007/",
+      "fetched": [
+        {
+          "source": "https://business-equipment-finance-guide-4v5.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://business-equipment-finance-guide-4v5.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://business-equipment-finance-guide-4v5.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://business-equipment-finance-guide-4v5.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://business-equipment-finance-guide-4v5.pages.dev/business-equipment-finance.jpg",
+          "file": "business-equipment-finance.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "kitchen-renovation-geelong",
+      "subdomain": "kitchen-renovation-geelong.pages.dev",
+      "domains": [
+        "kitchen-renovation-geelong.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "kitchenrenovationgeelong-001",
+      "db_slugs": [],
+      "classification": "tracked",
+      "source_origin": "https://kitchen-renovation-geelong.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/kitchenrenovationgeelong-001/",
+      "fetched": [
+        {
+          "source": "https://kitchen-renovation-geelong.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovation-geelong.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovation-geelong.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovation-geelong.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovation-geelong.pages.dev/kitchen-renovation-geelong.jpg",
+          "file": "kitchen-renovation-geelong.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "car-finance-wollongong",
+      "subdomain": "car-finance-wollongong.pages.dev",
+      "domains": [
+        "car-finance-wollongong.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "car-finance-wollongong",
+      "db_slugs": [],
+      "classification": "untracked-legacy-duplicate",
+      "source_origin": "https://car-finance-wollongong.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/car-finance-wollongong/",
+      "fetched": [
+        {
+          "source": "https://car-finance-wollongong.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://car-finance-wollongong.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://car-finance-wollongong.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://car-finance-wollongong.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://car-finance-wollongong.pages.dev/car-finance-wollongong.jpg",
+          "file": "car-finance-wollongong.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "home-loan-broker-canberra",
+      "subdomain": "home-loan-broker-canberra.pages.dev",
+      "domains": [
+        "home-loan-broker-canberra.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "home-loan-broker-canberra",
+      "db_slugs": [],
+      "classification": "untracked-legacy-duplicate",
+      "source_origin": "https://home-loan-broker-canberra.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/home-loan-broker-canberra/",
+      "fetched": [
+        {
+          "source": "https://home-loan-broker-canberra.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-canberra.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-canberra.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-canberra.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loan-broker-canberra.pages.dev/home-loan-broker-canberra.jpg",
+          "file": "home-loan-broker-canberra.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "first-home-buyer-conveyancing-brisbane",
+      "subdomain": "first-home-buyer-conveyancing-brisbane-2iv.pages.dev",
+      "domains": [
+        "first-home-buyer-conveyancing-brisbane-2iv.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "brisbaneconveyancers-002",
+      "db_slugs": [],
+      "classification": "tracked",
+      "source_origin": "https://first-home-buyer-conveyancing-brisbane-2iv.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/brisbaneconveyancers-002/",
+      "fetched": [
+        {
+          "source": "https://first-home-buyer-conveyancing-brisbane-2iv.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://first-home-buyer-conveyancing-brisbane-2iv.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://first-home-buyer-conveyancing-brisbane-2iv.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://first-home-buyer-conveyancing-brisbane-2iv.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://first-home-buyer-conveyancing-brisbane-2iv.pages.dev/first-home-buyer-conveyancing-brisbane.jpg",
+          "file": "first-home-buyer-conveyancing-brisbane.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "construction-bridging-finance-guide",
+      "subdomain": "construction-bridging-finance-guide-db1.pages.dev",
+      "domains": [
+        "construction-bridging-finance-guide-db1.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "bottomlinefinance-110",
+      "db_slugs": [],
+      "classification": "tracked",
+      "source_origin": "https://construction-bridging-finance-guide-db1.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/bottomlinefinance-110/",
+      "fetched": [
+        {
+          "source": "https://construction-bridging-finance-guide-db1.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://construction-bridging-finance-guide-db1.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://construction-bridging-finance-guide-db1.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://construction-bridging-finance-guide-db1.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://construction-bridging-finance-guide-db1.pages.dev/construction-bridging-finance.jpg",
+          "file": "construction-bridging-finance.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "property-development-finance-guide",
+      "subdomain": "property-development-finance-guide-75c.pages.dev",
+      "domains": [
+        "property-development-finance-guide-75c.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "bottomlinefinance-106",
+      "db_slugs": [],
+      "classification": "tracked",
+      "source_origin": "https://property-development-finance-guide-75c.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/bottomlinefinance-106/",
+      "fetched": [
+        {
+          "source": "https://property-development-finance-guide-75c.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://property-development-finance-guide-75c.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://property-development-finance-guide-75c.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://property-development-finance-guide-75c.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://property-development-finance-guide-75c.pages.dev/property-development-finance.jpg",
+          "file": "property-development-finance.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "home-loans-ballarat",
+      "subdomain": "home-loans-ballarat.pages.dev",
+      "domains": [
+        "home-loans-ballarat.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "ballaratmortgagebroker-001",
+      "db_slugs": [],
+      "classification": "tracked",
+      "source_origin": "https://home-loans-ballarat.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/ballaratmortgagebroker-001/",
+      "fetched": [
+        {
+          "source": "https://home-loans-ballarat.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-ballarat.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-ballarat.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-ballarat.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://home-loans-ballarat.pages.dev/home-loans-ballarat.jpg",
+          "file": "home-loans-ballarat.jpg",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "project": "kitchen-renovation-adelaide",
+      "subdomain": "kitchen-renovation-adelaide.pages.dev",
+      "domains": [
+        "kitchen-renovation-adelaide.pages.dev"
+      ],
+      "uses_functions": false,
+      "rows": [],
+      "path_slug": "adelaidekitchenreno-001",
+      "db_slugs": [],
+      "classification": "tracked",
+      "source_origin": "https://kitchen-renovation-adelaide.pages.dev",
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/adelaidekitchenreno-001/",
+      "fetched": [
+        {
+          "source": "https://kitchen-renovation-adelaide.pages.dev/",
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovation-adelaide.pages.dev/robots.txt",
+          "file": "robots.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovation-adelaide.pages.dev/sitemap.xml",
+          "file": "sitemap.xml",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovation-adelaide.pages.dev/llms.txt",
+          "file": "llms.txt",
+          "status": 200
+        },
+        {
+          "source": "https://kitchen-renovation-adelaide.pages.dev/kitchen-renovation-adelaide.jpg",
+          "file": "kitchen-renovation-adelaide.jpg",
+          "status": 200
+        }
+      ]
+    }
+  ]
+}

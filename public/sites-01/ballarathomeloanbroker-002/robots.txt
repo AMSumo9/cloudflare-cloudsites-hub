@@ -1,0 +1,19 @@
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://refinancing-ballarat-guide.pages.dev/sitemap.xml
