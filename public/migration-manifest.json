@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T03:30:08.863Z",
+  "generated_at": "2026-07-28T03:39:52.433Z",
   "imported": [
     {
       "project": "mortgage-broker-canberra",
@@ -3872,7 +3872,9 @@
       "uses_functions": false,
       "rows": [],
       "path_slug": "financebrokerwollongong-002",
-      "db_slugs": [],
+      "db_slugs": [
+        "financebrokerwollongong-002"
+      ],
       "classification": "tracked",
       "source_origin": "https://car-finance-wollongong-guide-12w.pages.dev",
       "target_url": "https://cloudsites-hub.pages.dev/sites-01/financebrokerwollongong-002/",
@@ -4077,7 +4079,9 @@
       "uses_functions": false,
       "rows": [],
       "path_slug": "toowoombaseo-104",
-      "db_slugs": [],
+      "db_slugs": [
+        "toowoombaseo-104"
+      ],
       "classification": "tracked",
       "source_origin": "https://google-reviews-toowoomba-guide-1mb.pages.dev",
       "target_url": "https://cloudsites-hub.pages.dev/sites-01/toowoombaseo-104/",
@@ -4118,7 +4122,9 @@
       "uses_functions": false,
       "rows": [],
       "path_slug": "toowoombaseo-101",
-      "db_slugs": [],
+      "db_slugs": [
+        "toowoombaseo-101"
+      ],
       "classification": "tracked",
       "source_origin": "https://local-seo-toowoomba-guide-dye.pages.dev",
       "target_url": "https://cloudsites-hub.pages.dev/sites-01/toowoombaseo-101/",
@@ -4159,7 +4165,9 @@
       "uses_functions": false,
       "rows": [],
       "path_slug": "retainingwalltoowoomba-003",
-      "db_slugs": [],
+      "db_slugs": [
+        "retainingwalltoowoomba-003"
+      ],
       "classification": "tracked",
       "source_origin": "https://retaining-wall-cost-toowoomba-m3b.pages.dev",
       "target_url": "https://cloudsites-hub.pages.dev/sites-01/retainingwalltoowoomba-003/",
@@ -4200,7 +4208,9 @@
       "uses_functions": false,
       "rows": [],
       "path_slug": "loanphone-007",
-      "db_slugs": [],
+      "db_slugs": [
+        "loanphone-007"
+      ],
       "classification": "tracked",
       "source_origin": "https://business-equipment-finance-guide-4v5.pages.dev",
       "target_url": "https://cloudsites-hub.pages.dev/sites-01/loanphone-007/",
@@ -4241,7 +4251,9 @@
       "uses_functions": false,
       "rows": [],
       "path_slug": "kitchenrenovationgeelong-001",
-      "db_slugs": [],
+      "db_slugs": [
+        "kitchenrenovationgeelong-001"
+      ],
       "classification": "tracked",
       "source_origin": "https://kitchen-renovation-geelong.pages.dev",
       "target_url": "https://cloudsites-hub.pages.dev/sites-01/kitchenrenovationgeelong-001/",
@@ -4364,7 +4376,9 @@
       "uses_functions": false,
       "rows": [],
       "path_slug": "brisbaneconveyancers-002",
-      "db_slugs": [],
+      "db_slugs": [
+        "brisbaneconveyancers-002"
+      ],
       "classification": "tracked",
       "source_origin": "https://first-home-buyer-conveyancing-brisbane-2iv.pages.dev",
       "target_url": "https://cloudsites-hub.pages.dev/sites-01/brisbaneconveyancers-002/",
@@ -4405,7 +4419,9 @@
       "uses_functions": false,
       "rows": [],
       "path_slug": "bottomlinefinance-110",
-      "db_slugs": [],
+      "db_slugs": [
+        "bottomlinefinance-110"
+      ],
       "classification": "tracked",
       "source_origin": "https://construction-bridging-finance-guide-db1.pages.dev",
       "target_url": "https://cloudsites-hub.pages.dev/sites-01/bottomlinefinance-110/",
@@ -4446,7 +4462,9 @@
       "uses_functions": false,
       "rows": [],
       "path_slug": "bottomlinefinance-106",
-      "db_slugs": [],
+      "db_slugs": [
+        "bottomlinefinance-106"
+      ],
       "classification": "tracked",
       "source_origin": "https://property-development-finance-guide-75c.pages.dev",
       "target_url": "https://cloudsites-hub.pages.dev/sites-01/bottomlinefinance-106/",
@@ -4487,7 +4505,9 @@
       "uses_functions": false,
       "rows": [],
       "path_slug": "ballaratmortgagebroker-001",
-      "db_slugs": [],
+      "db_slugs": [
+        "ballaratmortgagebroker-001"
+      ],
       "classification": "tracked",
       "source_origin": "https://home-loans-ballarat.pages.dev",
       "target_url": "https://cloudsites-hub.pages.dev/sites-01/ballaratmortgagebroker-001/",
@@ -4528,7 +4548,9 @@
       "uses_functions": false,
       "rows": [],
       "path_slug": "adelaidekitchenreno-001",
-      "db_slugs": [],
+      "db_slugs": [
+        "adelaidekitchenreno-001"
+      ],
       "classification": "tracked",
       "source_origin": "https://kitchen-renovation-adelaide.pages.dev",
       "target_url": "https://cloudsites-hub.pages.dev/sites-01/adelaidekitchenreno-001/",

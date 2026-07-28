@@ -46,7 +46,9 @@ const records = [
     : project.rows?.[0]?.slug || manualMappings[project.project] || project.project,
   db_slugs: legacyDuplicates.has(project.project)
     ? []
-    : project.rows?.map(row => row.slug) || (manualMappings[project.project] ? [manualMappings[project.project]] : []),
+    : project.rows?.length
+      ? project.rows.map(row => row.slug)
+      : (manualMappings[project.project] ? [manualMappings[project.project]] : []),
   classification: !legacyDuplicates.has(project.project)
     && (project.rows?.length || manualMappings[project.project])
     ? 'tracked'
