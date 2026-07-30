@@ -35,3 +35,24 @@ approval before deleting the public copy or the provider project.
 `public/migration-manifest.json` records the source project, source URL,
 aggregate path, fetched files, and whether the imported project was an
 authoritative DB placement or a preserved legacy duplicate.
+
+## Legacy Project Removal Gate
+
+Deleting source projects is gated by a fresh, manifest-bound acceptance
+receipt. Generate it only after the aggregate deployment and every inbound
+source-page repair are live:
+
+```powershell
+node scripts/verify-migration.mjs public/migration-manifest.json <env-file> migration-acceptance.json
+```
+
+The verifier requires every aggregate path to return HTTP 200 with its exact
+self-canonical, every tracked DB property and source edge to use the aggregate
+URL, no DB target edge to reference a retired project, and every current
+inbound backlink to be live, dofollow, and updated.
+
+`--apply` refuses a missing, stale, incomplete, or different-manifest receipt:
+
+```powershell
+node scripts/remove-legacy-projects.mjs public/migration-manifest.json <env-file> deletion-receipt.json --acceptance migration-acceptance.json --apply
+```

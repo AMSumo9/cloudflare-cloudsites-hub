@@ -1,15 +1,37 @@
 #!/usr/bin/env node
 
 import fs from 'node:fs/promises';
+import { validateMigrationAcceptance } from './migration-acceptance-lib.mjs';
 
-const [manifestFile, envFile, receiptFile, mode] = process.argv.slice(2);
+const [manifestFile, envFile, receiptFile, ...flags] = process.argv.slice(2);
 if (!manifestFile || !envFile || !receiptFile) {
-  throw new Error('usage: node scripts/remove-legacy-projects.mjs <manifest.json> <env-file> <receipt.json> [--apply]');
+  throw new Error('usage: node scripts/remove-legacy-projects.mjs <manifest.json> <env-file> <receipt.json> [--acceptance <acceptance.json>] [--apply]');
 }
 
-const manifest = JSON.parse(await fs.readFile(manifestFile, 'utf8'));
+const manifestText = await fs.readFile(manifestFile, 'utf8');
+const manifest = JSON.parse(manifestText);
 const expectedLegacy = new Set(manifest.imported.map(item => item.project));
-if (expectedLegacy.size !== 90) throw new Error(`expected 90 legacy projects, got ${expectedLegacy.size}`);
+if (!expectedLegacy.size || expectedLegacy.size !== manifest.imported.length) {
+  throw new Error('manifest must contain a non-empty, unique imported project list');
+}
+const apply = flags.includes('--apply');
+const acceptanceIndex = flags.indexOf('--acceptance');
+const acceptanceFile = acceptanceIndex >= 0 ? flags[acceptanceIndex + 1] : null;
+let acceptance = null;
+if (apply) {
+  if (!acceptanceFile || acceptanceFile.startsWith('--')) {
+    throw new Error('--apply requires --acceptance <acceptance.json>');
+  }
+  acceptance = JSON.parse(await fs.readFile(acceptanceFile, 'utf8'));
+  const validation = validateMigrationAcceptance({
+    manifestText,
+    manifest,
+    receipt: acceptance
+  });
+  if (!validation.passed) {
+    throw new Error(`Migration acceptance guard failed: ${validation.errors.join('; ')}`);
+  }
+}
 
 const envText = await fs.readFile(envFile, 'utf8');
 const env = Object.fromEntries(
@@ -61,8 +83,13 @@ if (unexpected.length || missing.length || beforeNames.size !== 91) {
   }));
 }
 
-if (mode !== '--apply') {
-  console.log(JSON.stringify({ mode: 'dry-run', projects: beforeNames.size, delete: expectedLegacy.size }, null, 2));
+if (!apply) {
+  console.log(JSON.stringify({
+    mode: 'dry-run',
+    projects: beforeNames.size,
+    delete: expectedLegacy.size,
+    apply_requires: '--acceptance <fresh acceptance.json>'
+  }, null, 2));
   process.exit(0);
 }
 
@@ -85,6 +112,11 @@ const receipt = {
     subdomain: project.subdomain,
     domains: project.domains
   })),
+  acceptance: {
+    file: acceptanceFile,
+    generated_at: acceptance.generated_at,
+    manifest_sha256: acceptance.manifest_sha256
+  },
   passed: after.length === 1 && after[0].name === 'cloudsites-hub'
 };
 await fs.writeFile(receiptFile, `${JSON.stringify(receipt, null, 2)}\n`, 'utf8');
