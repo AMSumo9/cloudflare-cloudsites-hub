@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://cloudsites-hub.pages.dev/sites-01/bottomlinefinance-001/sitemap.xml
+Sitemap: https://private-lending-australia-guide-9fy.pages.dev/sitemap.xml

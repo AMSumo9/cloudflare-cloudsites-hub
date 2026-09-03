@@ -1,0 +1,79 @@
+{
+  "kicker": "Brisbane Compact Bathrooms",
+  "h1_tail": "for compact spaces",
+  "meta_hook": "layout choices, waterproofing, and what to expect from a walk-in shower conversion in a compact Brisbane bathroom",
+  "takeaway": "A walk-in shower conversion can free floor area, reduce visual bulk, and make a compact Brisbane bathroom feel easier to use.",
+  "lead": "For small bathroom renovations Brisbane, a walk-in shower conversion is often the clearest way to open up the room without changing the footprint.",
+  "stats": [
+    {"value": "2-3 weeks", "label": "standard turnaround"},
+    {"value": "AS 3740:2021", "label": "waterproofing standard"},
+    {"value": "QBCC", "label": "required over $3,300"}
+  ],
+  "sections": [
+    {
+      "h2": "Why a walk-in shower suits a small bathroom",
+      "html": "<p>When a bathroom is short on floor area, a bath-and-shower combination can make the room feel crowded. A walk-in shower removes visual bulk and gives the space a cleaner, more open layout.</p><p>The source home page includes walk-in shower conversions as a practical compact-bathroom option for Brisbane homeowners who want the room to feel easier to use.</p>"
+    },
+    {
+      "h2": "What changes in a conversion",
+      "html": "<p>A typical conversion removes the bath, keeps or adjusts the shower plumbing, installs frameless glass, and retiles the wet area.</p><p>The live page also notes rain shower heads and non-slip tile flooring as common choices for this kind of upgrade, especially where the room needs to feel open without losing practical function.</p><ul><li>Remove the bath or old combination layout.</li><li>Adjust plumbing only where it improves the new layout.</li><li>Use frameless glass to reduce visual clutter.</li><li>Retile the wet area so the shower reads as one complete zone.</li></ul>"
+    },
+    {
+      "h2": "Small-space details that matter",
+      "html": "<p>Wall-hung vanities, large format tiles, and clever storage solutions help a compact room feel less crowded without structural changes.</p><p>The source page also says a frameless screen can make the room feel more open, while the screen style should suit the clearance available in the actual footprint.</p><figure class=\"tablewrap\"><figcaption>Compact bathroom layout choices and why they help</figcaption><table><thead><tr><th>Choice</th><th>Why it helps</th></tr></thead><tbody><tr><td>Wall-hung vanity</td><td>Exposes more floor area and makes the room feel lighter.</td></tr><tr><td>Frameless shower screen</td><td>Reduces visual bulk and lets the eye travel through the space.</td></tr><tr><td>Clever storage solutions</td><td>Keeps storage practical without adding protruding fixtures.</td></tr><tr><td>Large format tile</td><td>Reduces grout lines and visual clutter.</td></tr></tbody></table></figure>"
+    },
+    {
+      "h2": "What to confirm before work starts",
+      "html": "<p>Request a fixed-price quote from a QBCC licensed contractor. Make sure waterproofing follows AS 3740:2021, and confirm that the team is licensed for any building work over $3,300.</p><p>The live page also points to licensed plumbing and electrical work, which matters because a compact bathroom conversion usually relies on careful coordination more than on major structural change.</p>"
+    },
+    {
+      "h2": "Quick next step",
+      "html": "<p>If you want a compact bathroom that feels easier to use and less visually tight, start with a walk-in shower conversion and build the rest of the room around that layout.</p><p>That approach keeps the change practical, source-backed, and suited to the footprint already in place.</p>"
+    }
+  ],
+  "howto": [
+    {"name": "Define the layout constraints", "text": "Measure the footprint and note the plumbing, drain, and window positions before choosing fixtures."},
+    {"name": "Choose fixtures to scale", "text": "Pick a wall-hung vanity, compact shower screen, and tile size that suits the actual room."},
+    {"name": "Ask for a fixed-price quote", "text": "Get an itemised quote from a QBCC licensed contractor so the scope is clear."},
+    {"name": "Confirm the waterproofing plan", "text": "Ask how the team will meet AS 3740:2021 and when the membrane will be ready for tiling."},
+    {"name": "Leave room for a handover check", "text": "Inspect the finished shower screen, drainage, and waterproofing certificate before closing out the job."}
+  ],
+  "faq": [
+    {
+      "q": "Why do compact bathrooms suit a walk-in shower?",
+      "a": "They free floor area, reduce visual bulk, and make the room feel more open without needing a larger footprint."
+    },
+    {
+      "q": "What waterproofing standard applies in Brisbane bathrooms?",
+      "a": "AS 3740:2021 applies to wet-area waterproofing in Australia."
+    },
+    {
+      "q": "Do I need a QBCC licensed contractor?",
+      "a": "Yes, the source page says building work over $3,300 in Queensland requires QBCC licensing."
+    }
+  ],
+  "about": [
+    {"name": "Renovation", "sameAs": "https://en.wikipedia.org/wiki/Renovation"},
+    {"name": "Bathroom", "sameAs": "https://en.wikipedia.org/wiki/Bathroom"},
+    {"name": "Building code", "sameAs": "https://en.wikipedia.org/wiki/Building_code"},
+    {"name": "General contractor", "sameAs": "https://en.wikipedia.org/wiki/General_contractor"},
+    {"name": "Tradesperson", "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"},
+    {"name": "Cabinetry", "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"}
+  ],
+  "mentions": [
+    {"name": "Home improvement", "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"}
+  ],
+  "authorities": [
+    {"name": "Housing Industry Association", "url": "https://hia.com.au"},
+    {"name": "ASIC Moneysmart: Renovating", "url": "https://moneysmart.gov.au"},
+    {"name": "Master Builders Australia", "url": "https://www.masterbuilders.com.au"}
+  ],
+  "claims": [
+    {"claim": "The live page presents walk-in shower conversions as a practical compact-bathroom option", "source": "money page"},
+    {"claim": "Frameless glass, rain shower heads, and non-slip tile flooring are listed as conversion choices", "source": "money page"},
+    {"claim": "Wall-hung vanities, large format tiles, and clever storage solutions help a small room feel larger", "source": "money page"},
+    {"claim": "QBCC licensing applies to building work over $3,300 in Queensland", "source": "money page"},
+    {"claim": "AS 3740:2021 governs waterproofing in wet areas", "source": "money page"}
+  ],
+  "scope": "This guide covers walk-in shower conversions for compact Brisbane bathrooms, including layout choices, waterproofing, and QBCC licensing obligations."
+}

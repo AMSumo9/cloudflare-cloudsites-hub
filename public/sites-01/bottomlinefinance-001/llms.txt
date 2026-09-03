@@ -2,5 +2,5 @@ Bottom Line Finance
 private lending - Private Lending: how non-bank capital works, when to use it, and how deals are structured in Australia. Compare options, costs and what to expect before you commit.
 
 Location: Australia
-Site: https://cloudsites-hub.pages.dev/sites-01/bottomlinefinance-001/
+Site: https://private-lending-australia-guide-9fy.pages.dev/
 

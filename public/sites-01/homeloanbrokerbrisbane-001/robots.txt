@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://cloudsites-hub.pages.dev/sites-01/homeloanbrokerbrisbane-001/sitemap.xml
+Sitemap: https://home-loans-brisbane.pages.dev/sitemap.xml

@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://home-loan-broker-canberra.pages.dev/sitemap.xml
+Sitemap: https://cloudsites-hub.pages.dev/sites-01/canberrahomeloanbroker-001/sitemap.xml

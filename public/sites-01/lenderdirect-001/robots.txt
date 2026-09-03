@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://cloudsites-hub.pages.dev/sites-01/lenderdirect-001/sitemap.xml
+Sitemap: https://construction-loans-brisbane.pages.dev/sitemap.xml

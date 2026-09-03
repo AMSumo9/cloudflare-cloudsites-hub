@@ -1,0 +1,202 @@
+{
+  "kicker": "ACT Property Finance",
+  "h1_tail": "Your 2026 ACT Buying Guide",
+  "meta_hook": "Current ACT duty rules, broker compliance basics and first-home scheme options.",
+  "takeaway": "From 1 July 2026, eligible ACT buyers can receive a full Home Buyer Concession with no conveyance duty and no property value cap or income threshold. The key checks are whether the five-year non-ownership rule and the residence requirement still apply to the buyer's situation, and whether the broker giving credit assistance is properly covered by an Australian credit licence and provides the required disclosure documents.",
+  "lead": "Canberra borrowers need the current ACT duty rules and broker compliance basics checked before relying on a home loan guide.",
+  "lead_tail": "The practical test is whether the loan path still fits the buyer's eligibility and timing.",
+  "stats": [
+    {
+      "value": "1 Jul 2026",
+      "label": "new ACT HBC settings"
+    },
+    {
+      "value": "$0",
+      "label": "conveyance duty for eligible HBC buyers"
+    },
+    {
+      "value": "12 months",
+      "label": "minimum residence period"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Why ACT Loan Timing Matters",
+      "html": "<p>Buying in the ACT means dealing with rules that do not apply anywhere else in Australia. From 1 July 2026, the ACT Revenue Office says the <strong>Home Buyer Concession Scheme</strong> no longer has a property value cap and no longer has an income threshold, which means eligible buyers can pay no conveyance duty on an ACT home or vacant residential land. The core eligibility checks that remain are the ownership history rule and the residence rule. ACT Revenue says buyers and their domestic partners must not have owned property in the previous five years, and at least one buyer must own and live in the home as their principal place of residence for at least 12 months starting within one year of settlement. That makes timing important: the contract, settlement and occupancy plan should all fit the concession conditions before a buyer relies on the duty saving.</p>"
+    },
+    {
+      "h2": "First Home Buyer Pathways in the ACT",
+      "html": "<p>Two federal schemes can still matter alongside the ACT concession, and each works differently. The First Home Guarantee can let an eligible buyer purchase with a 5% deposit without paying Lenders Mortgage Insurance. Help to Buy can reduce the deposit further, to around 2%, but it does that through a government shared-equity arrangement rather than full ownership from day one. These schemes solve different problems, so a buyer should check whether the main constraint is deposit size, borrowing capacity or the long-term trade-off of shared equity.</p>"
+    },
+    {
+      "h2": "Refinancing and Investment Lending in Canberra",
+      "html": "<p>Existing owners still need to compare the current rate, exit costs and any usable equity before refinancing, because a lower headline rate does not always produce a better overall outcome. Investor loans also need a more careful read on features such as interest-only periods, offset accounts and redraw access. The safest approach in an editorial guide is to treat these as product-structure questions rather than tax outcomes, then confirm the detail with the lender, broker and a qualified tax adviser where needed. Buyers weighing lending further afield can also read this guide to <a href=\"https://storage.googleapis.com/canberrahomeloanbroker-002/investment-property-loans-canberra.html\">investment property loans in Canberra</a> for a closer look at investor-specific structuring and portfolio growth strategies.</p>"
+    },
+    {
+      "h2": "What the Broker Process Actually Involves",
+      "html": "<p>A broker helping with a home loan is engaging in credit activities, so ASIC says they must be covered by an Australian credit licence unless an exemption applies. That coverage can come from holding an Australian credit licence directly or from being authorised to act as a representative of a credit licensee. ASIC also says a credit guide generally needs to include the provider's licence number or credit representative number, plus complaint-handling details and AFCA contact details. Before acting on any recommendation, a borrower should check who the actual credit licensee is, whether the person assisting is acting under that licence, and what fees, charges or indirect remuneration are disclosed in the credit guide.</p>"
+    }
+  ],
+  "table": {
+    "caption": "ACT and federal first-home pathways compared",
+    "headers": [
+      "Pathway",
+      "Main requirement",
+      "Current headline benefit"
+    ],
+    "rows": [
+      [
+        "Home Buyer Concession Scheme",
+        "ACT eligibility rules",
+        "No conveyance duty for eligible buyers from 1 July 2026"
+      ],
+      [
+        "First Home Guarantee",
+        "5%",
+        "No Lenders Mortgage Insurance"
+      ],
+      [
+        "Help to Buy",
+        "~2%",
+        "Government shared equity co-contribution"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Discuss your goals",
+      "text": "Have an obligation-free conversation about your home loan needs and circumstances."
+    },
+    {
+      "name": "Compare lenders",
+      "text": "Review loan options and check which products support the scheme or structure you need."
+    },
+    {
+      "name": "Choose and settle",
+      "text": "Select the preferred loan and receive support through to settlement."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is using a mortgage broker in Canberra free?",
+      "a": "Not always. Some brokers are paid by the lender, and some may also charge direct fees. ASIC and Moneysmart say the credit guide should disclose key fee, charge and complaint information, so check that document before proceeding."
+    },
+    {
+      "q": "How long does pre-approval take?",
+      "a": "Timing varies by lender, borrower documents and the type of application. Treat any turnaround promise as lender-specific or service-specific rather than as a universal rule."
+    },
+    {
+      "q": "What deposit do I need to buy in the ACT?",
+      "a": "As little as 5% under the First Home Guarantee, which removes the need for Lenders Mortgage Insurance, or around 2% under the Help to Buy shared equity scheme. Without a government scheme, a 20% deposit avoids LMI."
+    },
+    {
+      "q": "Does the ACT still charge stamp duty on a first home?",
+      "a": "From 1 July 2026, eligible ACT buyers can pay no conveyance duty under the Home Buyer Concession Scheme. ACT Revenue says the property value cap and income threshold have been removed, while the five-year non-ownership rule and residence conditions remain."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ACT Revenue Office: About the Home Buyer Concession Scheme",
+      "url": "https://www.revenue.act.gov.au/home-buyer-assistance/home-buyer-concession-scheme/about-the-home-buyer-concession-scheme"
+    },
+    {
+      "name": "ASIC: Credit licensees",
+      "url": "https://www.asic.gov.au/for-finance-professionals/credit-licensees/"
+    },
+    {
+      "name": "ASIC: Responsible lending disclosure obligations",
+      "url": "https://www.asic.gov.au/regulatory-resources/credit/responsible-lending/responsible-lending-disclosure-obligations-overview-for-credit-licensees-and-representatives/"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "From 1 July 2026, the ACT Home Buyer Concession Scheme has no property value cap and eligible buyers pay no conveyance duty",
+      "source": "ACT Revenue Office"
+    },
+    {
+      "claim": "The ACT Home Buyer Concession Scheme no longer has an income threshold from 1 July 2026",
+      "source": "ACT Revenue Office"
+    },
+    {
+      "claim": "Eligibility requires buyers and their domestic partners not to have owned property in the past 5 years, and at least one buyer must live in the property as their principal place of residence for at least 12 months starting within one year of settlement",
+      "source": "ACT Revenue Office"
+    },
+    {
+      "claim": "First Home Guarantee allows 5% deposit with no LMI, place limits and income caps removed from October 2025",
+      "source": "official scheme guidance"
+    },
+    {
+      "claim": "Help to Buy shared equity scheme can reduce deposit to around 2%",
+      "source": "official scheme guidance"
+    },
+    {
+      "claim": "20% deposit avoids LMI without a government scheme",
+      "source": "ASIC Moneysmart"
+    },
+    {
+      "claim": "A person engaging in credit activities must be covered by an Australian credit licence unless exempt, including by being authorised as a representative of a credit licensee",
+      "source": "ASIC"
+    },
+    {
+      "claim": "A credit guide generally includes the provider's Australian credit licence number or credit representative number and complaint details including AFCA contact details",
+      "source": "ASIC"
+    },
+    {
+      "claim": "AFCA handles complaints about credit, finance and loans",
+      "source": "ASIC Moneysmart"
+    }
+  ],
+  "scope": "This guide covers ACT home buyer schemes, broker costs, refinancing and investment lending pathways for buyers using a home loan broker canberra service."
+}

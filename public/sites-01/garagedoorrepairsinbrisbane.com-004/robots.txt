@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://cloudsites-hub.pages.dev/sites-01/garagedoorrepairsinbrisbane.com-004/sitemap.xml
+Sitemap: https://roller-door-repairs-brisbane.pages.dev/sitemap.xml

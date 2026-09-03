@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://cloudsites-hub.pages.dev/sites-01/financebrokercentralcoast-001/sitemap.xml
+Sitemap: https://home-loans-central-coast.pages.dev/sitemap.xml

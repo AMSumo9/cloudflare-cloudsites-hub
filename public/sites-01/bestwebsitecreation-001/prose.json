@@ -1,0 +1,162 @@
+{
+  "kicker": "Brisbane Web Design",
+  "h1_tail": "A Practical Buyer's Guide",
+  "meta_hook": "What conversion-focused design actually means and how to brief it right.",
+  "takeaway": "A conversion-focused site is judged on whether visitors take action, not how it looks in isolation. Brisbane businesses should brief for clear calls to action, fast load times, mobile-first layout and content matched to how locals actually search across a spread-out metro area. A free quote process, like the one Best Website Creation offers, lets a business compare scope before committing to a build.",
+  "lead": "For Brisbane business owners comparing web design brisbane options, the real decision point is whether a build is structured around conversions from day one or bolted on as an afterthought.",
+  "lead_tail": "and that structure shapes everything from navigation to copy.",
+  "stats": [
+    {
+      "value": "Free",
+      "label": "quote process for Australian businesses"
+    },
+    {
+      "value": "Conversion-first",
+      "label": "layout and copy priority"
+    },
+    {
+      "value": "W3C-aligned",
+      "label": "markup and accessibility standard to ask for"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What a Conversion-Focused Brief Actually Covers",
+      "html": "<p>Providers like <a href=\"https://www.bestwebsitecreation.com.au/\">Best Website Creation</a> frame their offer around free, conversion-focused design for Australian businesses, which signals a specific brief: the site is built to move a visitor toward an enquiry or sale, not just to look presentable. That distinction matters when comparing quotes, because a conversion-first brief will ask different questions upfront than a purely visual one.</p><p>Before agreeing to a build, a business should be able to answer a short set of questions about its own goals, since the designer can only structure the site around answers that are actually supplied.</p><ul><li>What is the single action a visitor should take on the homepage?</li><li>Which pages currently get the most enquiries, if the business has an existing site?</li><li>Is the audience mostly mobile, desktop, or a mix, and does that change the layout priority?</li><li>What information does a lead need before they will call or submit a form?</li></ul>"
+    },
+    {
+      "h2": "Local Search Foundations for a Spread-Out Metro",
+      "html": "<p>Brisbane is not one compact search market, it is a wide arc of distinct suburbs and service areas stretching from the CBD out toward the Bayside and western corridors, and a business serving several of those areas needs pages and headings that reflect that spread rather than one generic homepage trying to cover everything. Local search for a Brisbane business usually starts with basics: clear page titles, one clear topic per page, and internal links that make the site structure easy to follow for both visitors and crawlers moving between service areas.</p><p>It is reasonable to ask a prospective designer how they approach keyword research for a new site, and whether that research shapes page titles and headings or is treated as a separate add-on after the design is finished. A design built without that research baked in often needs retrofitting later, which costs more than getting it right the first time.</p>"
+    },
+    {
+      "h2": "Design Choices That Affect Search Visibility",
+      "html": "<p>Some design decisions have search engine optimisation consequences that are not obvious at brief stage: heavy use of images without text alternatives, JavaScript-only navigation, or slow-loading hero sections can all quietly suppress how a site performs in search results, and can matter more for a business trying to rank across several Brisbane suburbs rather than a single, narrow location. Asking a designer directly how they balance visual polish against load speed and crawlability is a fair question, not an unusual one.</p><p>Businesses weighing up how search visibility is changing more broadly, including how AI-driven search results are handled, may find it useful to also read a related guide on <a href=\"https://bestwebsitecreation-002.s3.ap-southeast-2.amazonaws.com/ai-search-visibility.html\">AI search visibility</a>, which covers a different but related side of the same problem.</p>"
+    },
+    {
+      "h2": "Process and Timing: What to Ask Before Committing",
+      "html": "<p>Because build timelines and pricing vary by scope, a business should get its own answers in writing rather than relying on general industry figures. Useful questions include how many rounds of revisions are included, who owns the final files and hosting access, and what happens if the business wants to add pages later for a new service area.</p><ul><li>Is the quote fixed-scope or does it change if extra pages are added mid-build?</li><li>Who retains ownership of the domain, hosting and design files after launch?</li><li>What is included in the free quote stage versus the paid build stage?</li><li>Is there a written agreement covering revisions and handover?</li></ul>"
+    },
+    {
+      "h2": "Maintenance, Backlinks and Long-Term Web Traffic",
+      "html": "<p>A finished site is a starting point, not an end point. Web traffic tends to build over time through a combination of consistent content, technical upkeep, and legitimate backlinks from other relevant sites, rather than from the design alone. It is worth asking whether ongoing maintenance, such as security updates and broken-link checks, is included after launch or billed separately.</p><p>Any consumer-facing business making claims about pricing or outcomes on its own site should also be mindful of general advertising and consumer law obligations that apply to Australian businesses, regardless of who built the site.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common website build approaches compared",
+    "headers": [
+      "Approach",
+      "Typical focus",
+      "Best suited to"
+    ],
+    "rows": [
+      [
+        "DIY site builder",
+        "Speed and low upfront cost",
+        "Very early-stage or hobby sites"
+      ],
+      [
+        "Template-based theme",
+        "Visual variety, faster setup",
+        "Businesses with a modest, fixed budget"
+      ],
+      [
+        "Custom conversion-focused build",
+        "Enquiry and sales outcomes",
+        "Businesses actively growing lead volume"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the goal",
+      "text": "Decide the one action a visitor should take before briefing any designer."
+    },
+    {
+      "name": "Request a written scope",
+      "text": "Get the free quote stage and paid build stage clearly separated in writing."
+    },
+    {
+      "name": "Ask about search foundations",
+      "text": "Confirm whether keyword research shapes titles and headings from the start."
+    },
+    {
+      "name": "Confirm ownership and handover",
+      "text": "Clarify who owns the domain, hosting and files once the build is finished."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is a free web design quote genuinely free?",
+      "a": "Providers such as Best Website Creation offer a free quote stage for Australian businesses; the quote itself covers scoping the build, while the paid stage covers the actual design and development work."
+    },
+    {
+      "q": "Does a conversion-focused design cost more than a template site?",
+      "a": "It depends on scope. A template can be cheaper upfront, but a build structured around a specific conversion goal usually needs more planning time, which can affect price."
+    },
+    {
+      "q": "Will a new website automatically rank in local search?",
+      "a": "No. Design and technical structure support local search performance, but ranking also depends on ongoing content, legitimate backlinks and ordinary search engine optimisation work over time."
+    },
+    {
+      "q": "Who should own the website files after launch?",
+      "a": "The business commissioning the site should confirm in writing that it retains ownership of the domain, hosting access and design files once the project is handed over."
+    }
+  ],
+  "about": [
+    {
+      "name": "Search engine optimization",
+      "sameAs": "https://en.wikipedia.org/wiki/Search_engine_optimization"
+    },
+    {
+      "name": "Search engine results page",
+      "sameAs": "https://en.wikipedia.org/wiki/Search_engine_results_page"
+    },
+    {
+      "name": "Backlink",
+      "sameAs": "https://en.wikipedia.org/wiki/Backlink"
+    },
+    {
+      "name": "Web traffic",
+      "sameAs": "https://en.wikipedia.org/wiki/Web_traffic"
+    },
+    {
+      "name": "Local search (Internet)",
+      "sameAs": "https://en.wikipedia.org/wiki/Local_search_(Internet)"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Digital marketing",
+      "sameAs": "https://en.wikipedia.org/wiki/Digital_marketing"
+    },
+    {
+      "name": "Keyword research",
+      "sameAs": "https://en.wikipedia.org/wiki/Keyword_research"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Australian Competition and Consumer Commission",
+      "url": "https://www.accc.gov.au"
+    },
+    {
+      "name": "World Wide Web Consortium",
+      "url": "https://www.w3.org"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Best Website Creation offers free conversion-focused web design for Australian businesses",
+      "source": "money page"
+    },
+    {
+      "claim": "Businesses making pricing or outcome claims should be mindful of general advertising and consumer law obligations",
+      "source": "https://www.accc.gov.au"
+    },
+    {
+      "claim": "Accessibility and markup standards for websites are set by the W3C",
+      "source": "https://www.w3.org"
+    }
+  ],
+  "scope": "This guide covers what a conversion-focused web design brief involves for Brisbane businesses spread across a wide metro area, the local search foundations worth asking about, and the process questions to raise before committing to a build."
+}

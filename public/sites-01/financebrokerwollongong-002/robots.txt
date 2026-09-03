@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://cloudsites-hub.pages.dev/sites-01/financebrokerwollongong-002/sitemap.xml
+Sitemap: https://car-finance-wollongong-guide-12w.pages.dev/sitemap.xml

@@ -2,5 +2,5 @@ Sydney Conveyancers
 property settlement sydney - Property Settlement Sydney: What settlement involves, what it costs, and how PEXA changed the process. Compare options, costs and what to expect before you commit.
 
 Location: Australia
-Site: https://cloudsites-hub.pages.dev/sites-01/sydneyconveyancers-001/
+Site: https://property-settlement-sydney.pages.dev/
 

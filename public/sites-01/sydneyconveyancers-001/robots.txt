@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://cloudsites-hub.pages.dev/sites-01/sydneyconveyancers-001/sitemap.xml
+Sitemap: https://property-settlement-sydney.pages.dev/sitemap.xml
