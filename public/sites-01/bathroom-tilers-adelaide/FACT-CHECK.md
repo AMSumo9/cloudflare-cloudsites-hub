@@ -1,0 +1,15 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The source page identifies 6 related service areas, including bathroom tiling, wet-area waterproofing, shower repairs and kitchen or laundry tiling. | SUPPORTED | Money page lists 6 service cards: Bathroom Tiling, Wet-Area Waterproofing, Floor & Wall Tiling, Shower Repairs & Regrouting, Kitchen & Laundry Tiling, Outdoor & Alfresco Tiling. |
+| The source page frames planning around 3 stages: before demolition, before waterproofing and before tiling. | SUPPORTED | Money page has three labelled planning sections: “Before demolition,” “Before waterproofing,” and “Before tiling.” |
+| The source page names 15 Adelaide locations. | SUPPORTED | Money page lists 15 locations: Adelaide, North Adelaide, Norwood, Unley, Glenelg, Brighton, Burnside, Prospect, Mawson Lakes, Modbury, Henley Beach, Marion, Morphett Vale, Golden Grove, Mount Barker. |
+| The source page says a strong project brief describes the existing surface, water exposure, fixtures, drainage and tile format together. | SUPPORTED | Money page says the strongest project briefs describe “the existing surface, water exposure, fixtures, drainage and tile format together.” |
+| The source page says tiles and grout are finishes, while the compliant membrane and correctly treated junctions form the waterproof layer behind them. | SUPPORTED | Money page FAQ states tiles and grout are finishes, and the waterproof layer is formed by the compliant membrane and treated junctions. |
+| The source page says regrouting may be appropriate for a maintenance issue but should not be presented as a universal leak repair. | SUPPORTED | Money page states regrouting may suit maintenance but should not be treated as a universal leak repair. |
+| The source page says cure time depends on the membrane system, film thickness and site conditions. | SUPPORTED | Money page FAQ says waterproofing cure time depends on membrane system, film thickness and site conditions. |
+| The source page gives local context examples including apartment access in the city, coastal exposure at Glenelg and Henley Beach, older villa substrates through Norwood and Unley, and newer slabs around Mawson Lakes or Mount Barker. | SUPPORTED | Money page includes those exact local-context examples. |
+| The source page says a useful quote identifies preparation, tile format, layout, trims, grout, movement joints, access and waste. | SUPPORTED | Money page FAQ lists those quote elements. |
+| The source page says waterproofing or screeding should be separately described where required. | SUPPORTED | Money page FAQ says waterproofing or screeding should be separately described where required. |
+| The source page says waterproofing and tiling may be delivered within one coordinated scope where the contractor holds the appropriate South Australian authorisation for the work involved. | SUPPORTED | Money page FAQ says they may be delivered within one coordinated scope where the contractor holds appropriate South Australian authorisation. |
+
+FACT-CHECK: PASS
