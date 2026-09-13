@@ -1,0 +1,17 @@
+| Claim | Verdict | Evidence |
+|---|---:|---|
+| The source page lists timber sleeper, concrete sleeper and core-filled besser block retaining walls, plus repairs, fencing, pool barriers and gates. | SUPPORTED | Money page lists “timber sleeper, concrete sleeper and core-filled besser block,” “repair and replacement,” plus Colorbond/timber fencing, pool fencing, and gates/gate automation. |
+| The source page gives an indicative timber sleeper guide of around $300-$450+ per square metre. | SUPPORTED | Money page says: “As a rough indicative guide, timber sleeper runs around $300-$450+” and the page context says quote checking is against “indicative per square metre bands.” |
+| A fence on a retaining wall is assessed on the combined height. | SUPPORTED | Money page states: “A fence sitting on a retaining wall is assessed on the combined height.” |
+| A wall carrying a driveway or pool behind it may need a different engineering response because of surcharge load. | SUPPORTED | Money page states a wall holding up a driveway or pool carries a surcharge load, “and that changes the engineering.” |
+| The source page says approvals, engineering and drainage are checked before quoting. | SUPPORTED | Money page says approval triggers are checked before quoting; quote guidance mentions “engineering triggers checked against your site” and excavation, drainage and backfill itemised. |
+| Subsoil drainage is treated as structural, not optional, on every retaining wall quote described by the source page. | SUPPORTED | Money page states: “Subsoil drainage is treated as structural, not optional, on every retaining wall quote.” |
+| The business describes coverage across Brisbane, Ipswich, the Gold Coast and the Sunshine Coast. | SUPPORTED | Money page says it covers “Brisbane, Ipswich, the Gold Coast and the Sunshine Coast.” |
+| Brisbane ridge-and-gully blocks off the Taylor Range and older cut-and-fill walls are named on the source page. | SUPPORTED | Money page names “Ridge-and-gully blocks off the Taylor Range” and “30 to 60 year old cut-and-fill walls.” |
+| Ipswich reactive clay near the Bremer and Greater Springfield estates are named on the source page. | SUPPORTED | Money page says “reactive clay near the Bremer” and “new Greater Springfield estates.” |
+| Gold Coast canal and lake-edge fill, hinterland grade and salt air affecting fence hardware are named on the source page. | SUPPORTED | Money page says “Canal and lake-edge fill, hinterland grade toward Springbrook, and salt air that works on fence hardware.” |
+| The Sunshine Coast details include Buderim basalt clay, soft river flats and council permitting attention. | SUPPORTED | Money page says “Buderim’s basalt clay and soft river flats” and “a council that asks for a permit on most retaining walls.” |
+| ASIC Moneysmart provides renovation guidance relevant to planning a renovation budget before committing. | SUPPORTED | This is a reasonable non-fabricated characterization of Moneysmart’s consumer finance guidance for budgeting/planning renovation costs. |
+| Built page photo credit: “Photo by sara sanchez sabogal on Unsplash. Editorial illustration only.” | SUPPORTED | IMAGE_METADATA says photographer is “sara sanchez sabogal,” source is “Unsplash,” and credit is “Photo by sara sanchez sabogal on Unsplash.” “Editorial illustration only” is a use label, not a business/location claim. |
+
+FACT-CHECK: PASS
