@@ -1,0 +1,16 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The source service describes local SEO, technical SEO, content marketing and link building as core service areas. | SUPPORTED | Money page lists “Local SEO,” “Technical SEO,” “Content Marketing,” and “Link Building” under “Compare SEO Services.” |
+| The source service describes keyword research, technical checks and local visibility planning before ongoing work begins. | SUPPORTED | Money page states: “Keyword research, technical checks and local visibility planning before ongoing work begins.” |
+| The source service says each scope starts with a baseline, measurable goals and transparent reporting on organic traffic, keyword movement and conversions. | SUPPORTED | Money page says each scope starts with “a baseline, measurable goals and transparent reporting on organic traffic, keyword movement and conversions.” |
+| The source service says Core Web Vitals, mobile usability and structured data are monitored as the campaign evolves. | SUPPORTED | Money page explicitly states: “Core Web Vitals, mobile usability and structured data are monitored as the campaign evolves.” |
+| The source service says it reports measurable movement, traffic and conversions without ranking guarantees. | SUPPORTED | Money page says “No ranking guarantees” and reports on “measurable movement, traffic and conversions.” |
+| The source service says deliverables, timelines and costs are confirmed in writing before work begins. | SUPPORTED | Money page states: “Deliverables, timelines and costs are confirmed in writing before any work begins.” |
+| The source service names Greater Brisbane as the region and includes Brisbane CBD, Fortitude Valley, Newstead, West End and South Brisbane in visibility planning. | SUPPORTED | Money page names “Region Greater Brisbane” and lists Brisbane CBD, Fortitude Valley, Newstead, West End and South Brisbane visibility planning. |
+| The source service says pricing depends on market, website condition, competition and content requirements. | SUPPORTED | FAQ says pricing depends on “your market, website condition, competition and content requirements.” |
+| The source service says technical fixes can show early movement within weeks, while meaningful organic search growth usually needs several months of consistent work. | SUPPORTED | FAQ says technical fixes can show movement “within weeks,” while meaningful growth usually needs “several months of consistent work.” |
+| The source service says local SEO can include Google Business Profile work, service-area content, local citations, reviews management and pages that explain real coverage across the city. | SUPPORTED | FAQ states local SEO can include those exact elements. |
+| The source service says many Brisbane businesses use Google Ads for immediate testing and SEO for longer-term rankings, content authority and lower reliance on paid clicks. | SUPPORTED | FAQ says many Brisbane businesses use paid search for immediate testing and SEO for longer-term rankings, content authority and lower reliance on paid clicks. |
+| Photo by Ryan on Unsplash. Editorial illustration only. | SUPPORTED | Image metadata gives credit as “Photo by Ryan on Unsplash.” “Editorial illustration only” describes page use and does not claim the image shows the business. |
+
+FACT-CHECK: PASS
