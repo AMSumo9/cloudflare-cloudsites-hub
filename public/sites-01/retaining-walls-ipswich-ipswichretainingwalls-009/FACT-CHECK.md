@@ -1,0 +1,24 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The published guide names four material paths: concrete sleepers, timber sleepers, Besser block and rock or boulder walls. | SUPPORTED | Money page lists “Concrete Sleeper,” “Timber Sleeper,” “Besser Block,” and “Rock & Boulder” retaining walls. |
+| The published guide lists six service options including new retaining wall construction, drainage, repairs and replacement. | SUPPORTED | Money page lists six option cards: four material wall types plus “Retaining Wall Drainage” and “Retaining Wall Repairs & Replacement.” |
+| The published guide asks enquirers to send the suburb, approximate length and greatest visible height. | SUPPORTED | Money page says: “Send the suburb, approximate length and greatest visible height.” |
+| The published guide asks whether an old wall needs removing and whether a fence, driveway or building sits nearby. | SUPPORTED | Money page asks users to say whether an old wall needs removing and whether a fence, driveway or building sits nearby. |
+| The published guide frames an enquiry around the wall position, the level being retained, material access, drainage and any existing structure that must come out. | SUPPORTED | Money page discusses wall location/position, which ground level to keep, access, drainage, and removal of old wall/fence. |
+| The published guide says excavation, foundations, backfill, disposal and reinstatement can form part of retaining wall scope. | SUPPORTED | Money page refers to excavation, removal/disposal, foundations, drainage, backfill and reinstatement as quote or scope items. |
+| The published guide says concrete sleepers can suit a straight line. | SUPPORTED | Money page says concrete sleepers “can suit a straight line.” |
+| The published guide says timber sleeper retaining walls are positioned for garden terraces and modest changes of level. | SUPPORTED | Money page describes timber sleeper walls as “for garden terraces and modest changes of level.” |
+| The published guide says Besser block retaining walls suit a rendered finish and defined structural detail where appropriate to the site. | SUPPORTED | Money page says Besser block is a masonry wall where “a rendered finish and defined structural detail suit the site.” |
+| The published guide says natural stone retaining needs enough working room for heavy material. | SUPPORTED | Money page says natural stone retaining is for gardens “with enough working room for heavy material.” |
+| The published guide says what sits behind a wall and where water leaves the property affect construction scope. | SUPPORTED | Money page says what sits behind the wall and where water leaves the property affect construction scope. |
+| The published guide says a pipe alone is not a complete water management plan. | SUPPORTED | Money page says: “A pipe alone is not a complete water-management plan.” |
+| The published guide refers to help with leaning walls, cracked walls, deteriorated sleepers and replacement construction. | SUPPORTED | Money page mentions repairs for leaning, cracked or decaying structures and “deteriorated sleepers and replacement construction.” |
+| The published guide says to confirm in writing who will establish approval requirements and engage the relevant designer or building certifier. | SUPPORTED | Money page says to confirm in writing who will establish approval requirements and engage the relevant designer or building certifier. |
+| The published guide says Ipswich City Council publishes building guidance and retaining wall fact sheets. | SUPPORTED | Money page states Ipswich City Council publishes building guidance and retaining-wall fact sheets. |
+| The published guide says requirements depend on the proposal and property. | SUPPORTED | Money page says requirements depend on the proposal and property. |
+| The published guide says to confirm availability, licence, design responsibilities and written quote directly before making a commitment. | SUPPORTED | Money page says to confirm availability, licence, design responsibilities and written quote directly before making a commitment. |
+| The published guide says the quote may need a separate handling plan if a delivery truck cannot reach the wall. | SUPPORTED | Money page says the quote may need a separate handling plan if a delivery truck cannot reach the wall. |
+| The published guide says to ask the responding contractor to separate removal, foundations, drainage, approvals and reinstatement before agreeing to the work. | SUPPORTED | Money page says to ask the responding contractor to separate those items before agreeing to the work. |
+| Built page photo credit: “Original illustration. Editorial illustration only.” | SUPPORTED | IMAGE_METADATA lists photographer “Editorial,” source “generated-fallback,” and credit “Original illustration.” |
+
+FACT-CHECK: PASS
