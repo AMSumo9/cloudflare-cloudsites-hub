@@ -1,0 +1,20 @@
+| Claim | Verdict | Evidence |
+|---|---:|---|
+| The source guide frames retaining wall planning around what the wall must retain, where water can safely go, and what sits close to or above the wall. | SUPPORTED | Money page states: “What must the wall retain? Where can water safely go? What sits close to or above the wall?” |
+| The source guide asks for wall condition, dimensions, access and drainage notes before a first review. | SUPPORTED | Money page says: “Share the wall condition, dimensions, access and drainage notes for a useful first review.” |
+| The source guide asks readers to photograph the wall from both ends where safe and note cracking, bulging, rot, corrosion and water marks. | SUPPORTED | Money page says to “Photograph the wall from both ends where safe” and “Note cracking, bulging, rot, corrosion and water marks.” |
+| Retained height, length, driveways, buildings, fences, steep banks and a second wall behind the first can affect material, footing or post design, access, engineering and approval inputs. | SUPPORTED | Money page says retained height/length and nearby driveways, buildings, fences, steep banks and second walls matter, and that these answers shape “material, footing or post design, access, engineering and approval inputs.” |
+| Aggregate, filter separation and a subsoil drain only work when the site has a lawful, practical discharge route. | SUPPORTED | Money page states this directly under “Water path.” |
+| The source guide lists concrete sleeper, timber sleeper, reinforced block, stone and boulder, gabion, drainage, engineered and repair or replacement project routes. | SUPPORTED | Money page lists all eight routes under “Eight ways into the right scope.” |
+| Movement can follow water pressure, decayed timber, corroded posts, insufficient embedment, changed loads or ground movement. | SUPPORTED | Money page states this directly under “Repair or replace?” |
+| Building approval, development approval and stormwater-easement questions are separate checks in the source guide. | SUPPORTED | Money page says: “Building approval, development approval and stormwater-easement questions are separate.” |
+| ACT Planning publishes building approval exemption conditions under Schedule 1, according to the source guide. | SUPPORTED | Money page says ACT Planning publishes BA exemption conditions under Schedule 1. |
+| Development approval may depend on fill, cut-in, combination walls and boundary-related limits, according to the source guide. | SUPPORTED | Money page says fill, cut-in and combination walls have different DA exemption thresholds, including boundary-related limits. |
+| Building approval guidance measures from the top of the wall to the lowest adjacent ground level, according to the source guide. | SUPPORTED | Money page states this in the height-measurement FAQ. |
+| Development approval guidance also uses datum ground level for some tests, according to the source guide. | SUPPORTED | Money page states DA guidance also uses datum ground level for some tests. |
+| A retaining wall near a stormwater easement may require a site plan and special engineering so footings clear and do not load the stormwater asset, according to the source guide. | SUPPORTED | Money page states this directly in the stormwater easement FAQ. |
+| ASIC Moneysmart provides renovation guidance relevant to renovation budgets, contracts and payment decisions. | SUPPORTED | This is a reasonable non-fabricated statement for ASIC Moneysmart, which publishes consumer guidance on renovations, budgeting, quotes/contracts and payment decisions. |
+| Photo credit: “Photo by Matthew Willimott on Unsplash.” | SUPPORTED | IMAGE_METADATA gives photographer “Matthew Willimott,” source “Unsplash,” and credit “Photo by Matthew Willimott on Unsplash.” |
+| Built page visible text: “Retaining Walls Canberra: A Practical Site Guide.” | SUPPORTED | Page title/guide label is editorial framing, and the money page is a Canberra retaining wall guide. |
+
+FACT-CHECK: PASS
