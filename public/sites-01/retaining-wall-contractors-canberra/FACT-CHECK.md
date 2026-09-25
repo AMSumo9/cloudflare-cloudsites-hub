@@ -1,0 +1,25 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| A useful Canberra retaining wall brief starts with 3 questions: what the wall must retain, where water can lawfully go, and what sits close to or above it. | SUPPORTED | Money page lists: “What must the wall retain?”, “Where can water safely go?”, and “What sits close to or above the wall?” It also says drainage needs a lawful, practical discharge route. |
+| The published Retaining Walls Canberra guide identifies 8 project routes, including concrete sleeper, timber sleeper, reinforced block, stone and boulder, gabion, drainage, engineered work, and repair or replacement. | SUPPORTED | Money page section says “Eight ways into the right scope” and lists those eight routes. |
+| Height alone, even at 1.2 metres, is not enough to settle approval questions. | SUPPORTED | Money page says: “Does a 1.2 metre retaining wall need approval… Height alone is not enough.” |
+| Retaining Walls Canberra frames a retaining wall enquiry around the actual site rather than a stock system. | SUPPORTED | Money page headline says walls are “planned around your site, not a stock system.” |
+| Retained height, wall length, nearby driveways, buildings, fences, steep banks, and another wall behind the first can affect scope. | SUPPORTED | Money page says approximate retained height and length matter, as do driveways, buildings, fences, steep banks and a second wall behind the first. |
+| The source guide recommends noting visible lean, bulging, cracking, rot, corrosion and water marks. | SUPPORTED | Money page advises noting “cracking, bulging, rot, corrosion and water marks” and discusses visible lean. |
+| Aggregate, filter separation and a subsoil drain only help when the water has a lawful and practical discharge route. | SUPPORTED | Money page says aggregate, filter separation and a subsoil drain only work when there is a lawful, practical discharge route. |
+| A wall near a stormwater asset may require a site plan and special engineering so footings clear the asset and do not load it. | SUPPORTED | Money page says building near a stormwater easement may require a site plan and special engineering so footings clear and do not load the asset. |
+| Movement can follow water pressure, decayed timber, corroded posts, insufficient embedment, changed loads or ground movement. | SUPPORTED | Money page lists exactly these possible causes. |
+| Steel-reinforced concrete sleeper systems are presented for durable garden, boundary and level-change work. | SUPPORTED | Money page describes concrete sleeper systems for durable garden, boundary and level-change work. |
+| Treated timber is positioned for suitable lower garden terraces, stepped beds and straightforward landscape briefs. | SUPPORTED | Money page uses this description for timber sleeper retaining walls. |
+| Core-filled, steel-reinforced masonry suits engineered loads and crisp integrated landscape structures. | SUPPORTED | Money page describes reinforced block walls as core-filled, steel-reinforced masonry for engineered loads, crisp finishes and integrated landscape structures. |
+| Natural stone and boulder walls suit landscape-led projects where mass, drainage and site access suit the system. | SUPPORTED | Money page says natural stone and boulder retaining is for landscape-led projects where mass, drainage and site access suit the system. |
+| Gabion walls are rock-filled basket systems for textured and free-draining applications with correct foundations and filter separation. | SUPPORTED | Money page describes gabions this way. |
+| Building approval, development approval and stormwater-easement questions are separate. | SUPPORTED | Money page states these questions are separate. |
+| BA exemption conditions sit under Schedule 1. | SUPPORTED | Money page says ACT Planning publishes BA exemption conditions under Schedule 1. |
+| DA exemptions can vary for fill, cut-in and combination walls, including boundary-related limits. | SUPPORTED | Money page says fill, cut-in and combination walls have different DA exemption thresholds, including boundary-related limits. |
+| BA guidance measures from the top of the wall to the lowest adjacent ground level, while DA guidance can use datum ground level for some tests. | SUPPORTED | Money page says BA guidance measures from top of wall to lowest adjacent ground level, and DA guidance uses datum ground level for some tests. |
+| The source guide advises against excavating beside an unstable wall to investigate it yourself. | SUPPORTED | Money page says: “Do not excavate beside an unstable wall to investigate it yourself.” |
+| The guide asks enquirers to send suburb or postcode, dimensions, access notes, drainage symptoms and photos. | SUPPORTED | Money page asks for suburb/postcode, dimensions, access constraints/notes, drainage notes or symptoms, and photos. |
+| Built page photo credit: “Photo by Raelle Cameron on Unsplash. Editorial illustration only.” | SUPPORTED | IMAGE_METADATA gives photographer “Raelle Cameron,” source “Unsplash,” and credit “Photo by Raelle Cameron on Unsplash.” |
+
+FACT-CHECK: PASS
