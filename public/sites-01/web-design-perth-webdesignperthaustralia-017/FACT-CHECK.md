@@ -1,0 +1,19 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The source page describes custom builds, WordPress sites, Shopify or WooCommerce stores, redesigns, landing pages, SEO-friendly builds and maintenance. | SUPPORTED | Money page lists custom, small business, WordPress, eCommerce with Shopify/WooCommerce, redesign, landing page, SEO-friendly design, and care/maintenance services. |
+| WA small-business guidance recommends getting 3 to 5 written quotes and checking inclusions such as content, images, hosting and maintenance. | SUPPORTED | Money page FAQ states WA small-business guidance recommends “3 to 5 written quotes” and checking inclusions including content, images, hosting and maintenance. |
+| One Perth agency says a standard website usually takes 2 to 3 months, including discovery, design, development, testing and content creation. | SUPPORTED | Money page FAQ states a standard website usually takes “2 to 3 months” including discovery, design, development, testing and content creation. |
+| The provider frames a website as a working asset that should load quickly, read well on a phone and turn Perth visitors into enquiries. | SUPPORTED | Money page says the website should “load quickly, read well on a phone and turn Perth visitors into enquiries.” |
+| The source page asks enquiry form users for suburb or postcode and a short project description. | SUPPORTED | Enquiry form fields include “Suburb / Postcode” and “Tell us about your project.” |
+| Modern WordPress sites can be built so owners or teams can update basic text, images and pages themselves. | SUPPORTED | Money page says many modern websites, especially WordPress sites, are built so owners can edit basic text, images and pages themselves. |
+| The source page says the provider hands over logins and can show owners how to update the site. | SUPPORTED | Money page says “We hand over the logins and can show you how to update it.” |
+| The source page refers to modernising an ageing or underperforming Perth website without losing search rankings already earned. | SUPPORTED | Website Redesign service says it can modernise an ageing or underperforming Perth website without losing existing search rankings. |
+| Landing pages are positioned for Google Ads, launches and promotions. | SUPPORTED | Landing Page Design is described as for “Google Ads, launches and promotions.” |
+| The source page says services cover Perth and the wider metro area, including the CBD, Joondalup, Fremantle, Rockingham and Mandurah. | SUPPORTED | Footer states web design across Perth and wider metro area, from CBD to Joondalup, Fremantle, Rockingham and Mandurah. |
+| The source page says pricing should be agreed before work starts and that indicative pricing and a clear scope are provided before commitment. | SUPPORTED | Hero says price and plan are agreed before starting; later section says indicative pricing and clear scope are shown before commitment. |
+| The source page says every site is fast, mobile-first and built on clean, search-ready foundations. | SUPPORTED | Money page says every site is “fast, mobile-first and built on clean, search-ready foundations.” |
+| The source page says some Perth agencies include SEO or basic search optimisation, but it is not always part of the standard build. | SUPPORTED | FAQ states some Perth agencies include SEO/basic optimisation, but it is not always part of the standard build. |
+| The source page says ongoing updates, backups, security and support care plans are available after launch. | SUPPORTED | Website Care and Maintenance service describes ongoing updates, backups, security and support care plans after launch. |
+| Built page photo credit: “Original illustration. Editorial illustration only.” | SUPPORTED | IMAGE_METADATA lists photographer “Editorial,” source “generated-fallback,” and credit “Original illustration.” |
+
+FACT-CHECK: PASS
