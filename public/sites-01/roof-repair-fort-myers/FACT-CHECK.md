@@ -1,0 +1,18 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The published guide frames repair or replacement as a decision made by a real inspection rather than a sales pitch. | SUPPORTED | Money page says “Repair or replace, decided by a real inspection rather than a sales pitch.” |
+| The published guide names 8 roofing service categories. | SUPPORTED | It lists Roof Replacement, Roof Repair, Shingle Roofing, Tile Roofing, Metal Roofing, Flat & Low-Slope Roofing, Storm Damage & Emergency Tarping, and Roof Inspection. |
+| The published guide says it has local roofing notes for 15 Fort Myers and Lee County neighbourhoods. | SUPPORTED | Money page says “Local roofing notes for 15 Fort Myers and Lee County neighborhoods.” |
+| The published guide describes targeted roof repairs for leaks, missing shingles, cracked tiles and worn flashing. | SUPPORTED | Money page describes “Targeted repairs for leaks, missing shingles, cracked tiles and worn flashing.” |
+| The published guide describes roof replacement as full tear-off and re-roof work from decking and underlayment to a finished covering. | SUPPORTED | Money page describes “Full tear-off and re-roof… from the decking and underlayment up to a finished, code-compliant covering.” |
+| The published guide says Southwest Florida roofs face relentless sun, summer downpours, salt air near the coast and the odd tropical system. | SUPPORTED | This wording appears in the money page roof repair/replacement section. |
+| The published guide says Lee County roofing has to meet Florida Building Code high-wind requirements. | SUPPORTED | Money page says Lee County roofing has to meet the Florida Building Code’s high-wind requirements. |
+| The published guide tells homeowners they can check a licence at MyFloridaLicense.com before work begins. | SUPPORTED | Money page says “Check any license yourself at MyFloridaLicense.com before work begins.” |
+| The published guide names asphalt shingle, concrete tile, clay tile, standing-seam metal, metal panel, TPO, EPDM and modified bitumen roofing work. | SUPPORTED | Money page mentions asphalt shingle, concrete and clay tile, standing-seam and metal panel roofing, and TPO, EPDM and modified-bitumen work. |
+| The published guide says storm emergency tarping provides temporary tarping and leak control after storms, followed by documented assessment for permanent repair and any homeowner insurance claim. | SUPPORTED | Money page states fast temporary tarping and leak control after storms, followed by documented assessment for permanent repair and any homeowner’s insurance claim. |
+| The published guide says inspections may be pre-sale, post-storm or periodic, and can check shingles, flashing, decking and ventilation. | SUPPORTED | Money page says “Pre-sale, post-storm and periodic inspections that check shingles, flashing, decking and ventilation.” |
+| The published guide says inspections may support a wind mitigation report for an insurer. | SUPPORTED | Money page says inspections “can support a wind mitigation report for your insurer.” |
+| The published guide says asphalt shingle replacement in the area is commonly quoted around $4.50 to $8.00 per square foot, with tile and metal higher, as an indicative guide only. | SUPPORTED | Money page says asphalt shingle replacement is “commonly quoted around $4.50 to $8.00 per square foot, with tile and metal higher” and to treat it as indicative. |
+| The published guide says any early figure is only a guide until a contractor has inspected the roof and put a firm price in writing. | SUPPORTED | Money page says any early figure is a guide only until a contractor has walked the roof and put a firm price in writing. |
+
+FACT-CHECK: PASS
