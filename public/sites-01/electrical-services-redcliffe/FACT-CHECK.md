@@ -1,0 +1,20 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The source names residential electrical work including electrical faults, switchboards, safety switches, lighting, power points, smoke alarms and ceiling fans across the Redcliffe Peninsula. | SUPPORTED | Money page says it helps with “electrical faults, switchboards, safety switches, lighting, power points, smoke alarms and ceiling fans across the Redcliffe Peninsula.” |
+| Homeowners can start with the problem or the result wanted and do not need to diagnose the issue first. | SUPPORTED | Money page: “You can start with the problem or the result you want; you don't need to diagnose it first.” |
+| Useful fault details include the affected room or fitting, whether the issue is constant or intermittent, and whether anything else stopped at the same time. | SUPPORTED | Money page asks: “Which room or fitting is affected? Is it constant or intermittent? Did anything else stop at the same time?” |
+| People should not open an outlet, expose wiring or deliberately repeat a problem to collect information. | SUPPORTED | Money page states users “should not open an outlet, expose wiring or deliberately repeat a problem to collect information.” |
+| If someone receives a shock or tingle from an appliance or metal fitting such as a tap, the source says to call Energex immediately, keep clear, warn others, and avoid touching the switchboard, appliances or metal fittings until the property is made safe. | SUPPORTED | Money page gives exactly this safety instruction and names Energex on 13 19 62. |
+| The source says to seek medical advice after an electric shock. | SUPPORTED | Money page: “Seek medical advice after an electric shock.” |
+| The source encourages comparing separate treatment of supplied products, installation, additional electrical work and making good where relevant. | SUPPORTED | Money page says to look for separate treatment of those items. |
+| If a proposal includes broader board work, the source recommends asking what finding or planned change makes that part of the scope. | SUPPORTED | Money page says to ask what finding or planned change makes broader board work part of scope. |
+| Existing private homes, townhouses and units must meet Queensland interconnected photoelectric requirements by 1 January 2027, according to the source page. | SUPPORTED | Money page states this requirement and date. |
+| Sale, rental and new-dwelling smoke-alarm obligations have their own timing, according to the source page. | SUPPORTED | Money page states those obligations “have their own timing.” |
+| For smoke-alarm enquiries, the source says a property-specific assessment determines the installation scope rather than a generic count based on suburb or home size. | SUPPORTED | Money page says a property-specific assessment determines scope, not a generic count based on suburb or size. |
+| Queensland tenancy guidance requires written permission for fixture changes, with body corporate involvement where applicable, according to the source page. | SUPPORTED | Money page states this explicitly. |
+| The source page names Redcliffe, Scarborough, Newport, Kippa-Ring, Clontarf, Margate, Woody Point and Rothwell as area guides. | SUPPORTED | Money page lists those Redcliffe Peninsula area guides. |
+| The source page notes an optional enquiry planner for several rooms or jobs. | SUPPORTED | Money page says the enquiry planner is optional and useful for several rooms or jobs. |
+| Built page visible text: “Original illustration. Editorial illustration only.” | SUPPORTED | IMAGE_METADATA lists photographer “Editorial,” source “generated-fallback,” and credit “Original illustration.” “Editorial illustration only” describes usage and does not claim the image shows the business or work. |
+| Built page visible text: “For Redcliffe Peninsula homes, the practical electrical conversation starts with the symptom, room and desired result, not a self-diagnosis.” | SUPPORTED | Money page supports starting with observed symptoms/details, room/fitting, desired result, and says users do not need to diagnose first. |
+
+FACT-CHECK: PASS
