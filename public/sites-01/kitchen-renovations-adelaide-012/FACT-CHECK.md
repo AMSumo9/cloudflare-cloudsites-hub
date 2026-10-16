@@ -1,0 +1,16 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The published Adelaide guide gives a kitchen renovation quote range of $8,000 to $80,000 plus. | SUPPORTED | Money page says quotes “typically land somewhere between $8,000 and $80,000 plus.” |
+| The published Adelaide guide gives a typical kitchen renovation period of 8 to 14 weeks end to end depending on scope. | SUPPORTED | Money page says a typical kitchen renovation takes “8 to 14 weeks end to end, depending on scope.” |
+| The published Adelaide guide names six service areas. | SUPPORTED | Money page says “Six core service areas cover design, joinery and coordinated trades.” |
+| The published Adelaide guide describes kitchen facelifts, small renovations, full remodels, custom cabinetry, stone benchtops, splashbacks, appliance installation, butler's pantries and open plan conversions. | SUPPORTED | All listed services appear in the money page text. |
+| The published Adelaide guide describes a facelift as replacing doors, benchtops, splashbacks and handles while keeping the existing layout. | SUPPORTED | Money page says facelifts keep the existing layout and replace “doors, benchtops, splashbacks and handles.” |
+| The published Adelaide guide refers to heritage stone cottages in inner suburbs, Adelaide Hills character homes and modern open plan family layouts. | SUPPORTED | Money page refers to “heritage stone cottages in the inner suburbs,” “Adelaide Hills character homes,” and “modern open plan family layouts.” |
+| The published Adelaide guide says one renovator can coordinate electrician, plumber, tiler and stonemason scheduling. | SUPPORTED | Money page says one renovator runs the schedule and coordinates electrician, plumber, tiler and stonemason work. |
+| The published Adelaide guide says approvals are handled where needed in line with PlanSA approval guidance and the Planning and Design Code. | SUPPORTED | Money page says where approvals are needed, the renovator handles them in line with PlanSA approval guidance and the Planning and Design Code. |
+| The published Adelaide guide advises confirming SA building work contractor licensing through Consumer and Business Services and checking supervisor registration before engagement. | SUPPORTED | Money page says to confirm SA building work contractor licensing through CBS and says supervisor registration is checked via CBS. |
+| The published Adelaide guide refers to Housing Industry Association standards for kitchen design, manufacture and install. | SUPPORTED | Money page refers to HIA standards and says cabinet makers and joiners should work to those standards for design, manufacture and install. |
+| The published Adelaide guide refers to Master Builders South Australia accreditation as an industry signal for build quality and conduct. | SUPPORTED | Money page says many partner builders carry Master Builders South Australia accreditation and describes it as an independent industry standard for build quality and conduct. |
+| Built page visible text says quotes commonly range from $8,000 to $80,000 plus and projects take 8 to 14 weeks end to end depending on scope. | SUPPORTED | This retained body text matches the money page’s cost and timeline statements. |
+
+FACT-CHECK: PASS
