@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://cloudsites-hub.pages.dev/sites-01/brisbanerenovation-152/sitemap.xml
+Sitemap: https://brisbane-home-extension-cost.pages.dev/sitemap.xml

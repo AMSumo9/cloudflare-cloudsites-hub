@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://cloudsites-hub.pages.dev/sites-01/bathroomrenobrisbane.com-003/sitemap.xml
+Sitemap: https://walk-in-shower-conversions-brisbane.pages.dev/sitemap.xml
