@@ -1,0 +1,18 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The published home page emphasises fast loading, phone readability, agreed pricing and a plan set before work begins. | SUPPORTED | Money page says sites “load quickly, read well on a phone” and have “the price and the plan agreed before we start.” |
+| The published material lists custom sites, small business websites, WordPress, Shopify and WooCommerce stores, redesigns, landing pages, SEO-friendly builds, and care plans. | SUPPORTED | Services section lists Custom Web Design, Small Business Websites, WordPress, Shopify/WooCommerce eCommerce, Website Redesign, Landing Page Design, SEO-Friendly Web Design, and Website Care and Maintenance. |
+| The published material says the domain, content and finished site stay with the business, and logins are handed over. | SUPPORTED | Money page says “Your domain, your content and your finished site stay yours” and “We hand over the logins.” |
+| The published page refers to work across the Perth metro area, including the CBD, Joondalup, Fremantle, Rockingham and Mandurah. | SUPPORTED | Money page says it works across “Perth and the wider metro area” including “the CBD… Joondalup, Fremantle, Rockingham and Mandurah.” |
+| The published page refers to modernising an ageing or underperforming Perth website without losing search rankings already earned. | SUPPORTED | Website Redesign service says “Modernise an ageing or underperforming Perth website without losing the search rankings you already have.” |
+| WA small-business guidance quoted on the published page recommends getting 3 to 5 written quotes and checking exactly what is included, such as content, images, hosting and maintenance. | SUPPORTED | FAQ says WA small-business guidance recommends “3 to 5 written quotes” and checking inclusions such as “content, images, hosting, and maintenance.” |
+| The published page notes that one Perth agency says a standard website usually takes 2 to 3 months including discovery, design, development, testing and content creation. | SUPPORTED | FAQ says “One Perth agency says a standard website usually takes 2 to 3 months, including discovery, design, development, testing, and content creation.” |
+| The published FAQ says some agencies include SEO or basic search optimisation, but it is not always part of the standard build. | SUPPORTED | FAQ says “Some Perth web design agencies include SEO or basic search optimisation, but it is not always part of the standard build.” |
+| The supplied material says many modern websites, especially WordPress sites, are built so owners can edit basic text, images and pages themselves. | SUPPORTED | FAQ says “Many modern websites, especially WordPress sites, are built so you can edit basic text, images, and pages yourself.” |
+| The supplied material says some Perth agencies offer training or handover support. | SUPPORTED | FAQ says “Some Perth agencies also offer training or handover support.” |
+| Built page visible text: “Original illustration. Editorial illustration only.” | SUPPORTED | Image metadata lists photographer “Editorial,” source “generated-fallback,” and credit “Original illustration.” |
+| Built page visible text: costs vary by scope, design complexity, content, e-commerce and custom features. | SUPPORTED | Money page FAQ says website costs vary depending on “scope, design complexity, content, and whether you need e-commerce or custom features.” |
+| Built page visible text: 3 to 5 written quotes recommended. | SUPPORTED | Money page FAQ cites “3 to 5 written quotes.” |
+| Built page visible text: 2 to 3 months standard website timeframe cited. | SUPPORTED | Money page FAQ cites a standard website as usually taking “2 to 3 months.” |
+
+FACT-CHECK: PASS

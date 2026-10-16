@@ -1,0 +1,24 @@
+| Claim | Verdict | Evidence |
+|---|---:|---|
+| Melbourne East Kitchen Renovations offers a free in-home measure-up. | SUPPORTED | Money page says “Free in-home measure-up and itemised quote” and process step “01 Free measure-up”. |
+| Melbourne East Kitchen Renovations provides drawings before cabinetry is made. | SUPPORTED | Money page says it shows “drawings before any cabinetry is made”. |
+| Melbourne East Kitchen Renovations provides an itemised fixed-price written quote. | SUPPORTED | Money page says “itemised, fixed-scope quote” and “itemised fixed-price written quote”. |
+| A kitchen makeover can involve door, benchtop and splashback updates without changing the layout. | SUPPORTED | Money page service list says “Door, benchtop and splashback updates… without changing the layout.” |
+| A full kitchen renovation can include demolition, rough-in, cabinetry, benchtops, plumbing, electrical work, splashback, appliances and finishing. | SUPPORTED | Money page describes full rebuilds from “demolition and rough-in through cabinetry, benchtops and finishing” and install stage includes “plumbing, electrical, splashback and appliances.” |
+| Melbourne East Kitchen Renovations works with Edwardian, Californian bungalow and interwar homes. | SUPPORTED | Money page says “Kitchens for Edwardian, Californian bungalow and interwar homes”. |
+| The published service list includes custom cabinetry and benchtop installation. | SUPPORTED | Money page lists “Custom Cabinetry & Joinery” and “Stone & Benchtop Installation”. |
+| The renovation guidance lists porcelain, sintered stone, natural stone, solid timber, stainless steel and laminate as benchtop options. | SUPPORTED | Money page lists “porcelain and sintered stone, natural granite or marble, solid timber, stainless steel, laminate”. “Natural stone” is also used earlier in the service text. |
+| Engineered stone with 1 percent or more crystalline silica was banned for manufacture, supply, processing and installation across Australia from 1 July 2024 under the model WHS Regulations administered by Safe Work Australia. | SUPPORTED | Money page states this exact substance, activity scope, Australia-wide date, and Safe Work Australia/model WHS basis. |
+| Melbourne East Kitchen Renovations says it uses low-silica alternatives instead of banned engineered stone. | SUPPORTED | Money page says “We install low-silica alternatives instead”. |
+| The renovation guidance names Box Hill, Doncaster, Camberwell, Glen Waverley and Ringwood as suburbs served. | SUPPORTED | Money page names Box Hill, Doncaster, Camberwell, Glen Waverley, and Ringwood in its service area text. |
+| A typical full kitchen renovation is described as about 6 to 12 weeks from contract to handover. | SUPPORTED | Money page says “A typical full kitchen renovation runs about 6 to 12 weeks from contract to handover.” |
+| Cabinetry and stone fabrication are described as roughly 4 to 6 weeks of lead time. | SUPPORTED | Money page says “Cabinetry and stone fabrication take roughly 4 to 6 weeks of lead time.” |
+| On-site work is described as usually 2 to 4 weeks for install, plumbing, electrical and tiling, followed by finishing. | SUPPORTED | Money page says “on-site work is usually 2 to 4 weeks for install, plumbing, electrical and tiling, followed by finishing.” |
+| Melbourne East Kitchen Renovations says projects run under a written contract with the right permits and registered plumbing and electrical trades, in line with Victorian building requirements. | SUPPORTED | Money page says “Projects run under a written contract with the right permits and registered plumbing and electrical trades, in line with Victorian building requirements.” |
+| The renovation guidance says a major domestic building contract over $10,000 requires a written contract under the Domestic Building Contracts Act 1995. | SUPPORTED | Money page states that for a major domestic building contract over $10,000, a written contract is required under that Act. |
+| The renovation guidance says the contract sets out scope, price, dates, payment stages and the variations process. | SUPPORTED | Money page says “The contract sets out scope, price, dates, payment stages and the variations process.” |
+| Melbourne East Kitchen Renovations says handover includes warranty and compliance paperwork in writing. | SUPPORTED | Money page says handover includes “your warranty and compliance paperwork in writing.” |
+| Built page visible text title: “Kitchen Renovations Eastern Melbourne: 2026 Guide” | SUPPORTED | Page title/current-year guide label is not an external material claim requiring source support under the instructions. |
+| Built page visible text includes CSS/design code. | SUPPORTED | Styling text is not a material external claim. No retained unsupported factual assertion is visible in the provided body excerpt. |
+
+FACT-CHECK: PASS

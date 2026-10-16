@@ -1,0 +1,18 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The source guide separates six practical work types: site cuts and foundations, trenching and drainage, land clearing and site preparation, soil removal and cartage, driveway and shed pad preparation, and pool and tight-access excavation. | SUPPORTED | Money page lists “Six practical work types” with exactly those six service categories. |
+| Useful earthmoving scope inputs include the intended outcome, dimensions, access path, designed levels, known services, ground condition and plan for material. | SUPPORTED | Money page says the starting point includes “outcome, dimensions, access path, designed levels, known services, ground condition and plan for material.” |
+| Access checks should consider turns, overhead clearance, surfaces and the loading route, not only gate width. | SUPPORTED | Money page: “Gate width alone is not enough. Check turns, overhead clearance, surfaces and the loading route.” |
+| Ground conditions such as sand, reactive clay, fill and rock can change plant, stability, time and disposal assumptions. | SUPPORTED | Money page states sand, reactive clay, fill and rock change “plant, stability, time and disposal assumptions.” |
+| A written scope should separate excavation, cartage, materials, testing, approvals and downstream trade responsibilities. | SUPPORTED | Money page says to “Separate excavation, cartage, materials, testing, approvals and downstream trade responsibilities.” |
+| Small backyard excavation machine time is often only a day or two if access is straightforward and the soil is not rock. | SUPPORTED | Money page FAQ says for small projects, machine time is “often only a day or two” if access is straightforward and soil is not rock. |
+| Older Adelaide suburbs with tight laneways and limited access can require smaller machines and more trips to remove spoil. | SUPPORTED | Money page says older Adelaide suburbs with tight laneways and limited access usually require allowance for smaller machines and more spoil-removal trips. |
+| Buried services should be checked using current asset information and site-specific locating before excavation starts. | SUPPORTED | Money page: “Use current asset information and site-specific locating before excavation starts.” |
+| In South Australia, approval depends on the property, planning rules and proposed work, and a small-looking excavation is not automatically exempt. | SUPPORTED | Money page says approval depends on the property, planning rules and proposed work; “a small-looking excavation is not automatically exempt.” |
+| The source guide recommends checking with the relevant council or PlanSA where earthworks could affect neighbouring land, retaining walls, stormwater, protected features or form part of building work. | SUPPORTED | Money page says to check with the relevant council or PlanSA before starting in those circumstances. |
+| There is no single generic earthmover licence that applies to every excavation task. | SUPPORTED | Money page states there is no single generic “earthmover licence” for every excavation task. |
+| Pool excavation can involve regulated building work, engineering, approvals and licensed trades. | SUPPORTED | Money page says pool excavation can involve regulated building work, engineering, approvals and licensed trades. |
+| Consumer and Business Services SA can be used to verify any building-work contractor licence required for contracted work. | SUPPORTED | Money page says to use Consumer and Business Services SA to verify any required building-work contractor licence. |
+| Engineering, approvals, contractor selection and the final written quote remain separate decisions. | SUPPORTED | Money page states these remain separate decisions. |
+
+FACT-CHECK: PASS

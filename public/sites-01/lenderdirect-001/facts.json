@@ -1,0 +1,101 @@
+{
+  "node_id": "lenderdirect-001",
+  "money_domain": "lenderdirect.com.au",
+  "money_home_url": "https://www.lenderdirect.com.au/",
+  "money_host": "vercel",
+  "cloud_host": "netlify",
+  "host_type": "root",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://cloudsites-hub.pages.dev/sites-01/lenderdirect-001/",
+  "live_url": "https://cloudsites-hub.pages.dev/sites-01/lenderdirect-001/",
+  "subdomain": "commercial-property-loans-brisbane-guide",
+  "gh_repo": null,
+  "primary_kw": "commercial property loans brisbane",
+  "kw_slug": "commercial-property-loans-brisbane",
+  "anchor_kw": "commercial property loans brisbane",
+  "brand": "Lender Direct",
+  "target_page_url": "https://www.lenderdirect.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": null,
+  "socials_found": [],
+  "niche": "finance",
+  "curated_authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "reference_topics": null,
+  "image": {
+    "file": "commercial-property-loans-brisbane.jpg",
+    "photographer": "Brisbane Local Marketing",
+    "source": "Unsplash",
+    "credit": "Photo by Brisbane Local Marketing on Unsplash"
+  },
+  "build_date": "2026-07-03",
+  "money_home_text": "Lender Direct LD Lender Direct Commercial private lending referrals Private lending, without the broker bottleneck Lender Direct Get your commercial funding request in front of suitable private lenders. Submit the deal once. If it matches a lender in the network, the lender contacts you directly to discuss terms, timing, and next steps. Start enquiry What are you funding? Start with the lending path that best fits the transaction. Borrow for Established Asset Borrow for land or an established building Start enquiry Borrow for Construction / Development Borrow to develop or construct Start enquiry Commercial and business-purpose lending only. Direct referral service. No consumer credit, personal loans, or principal-place-of-residence funding. 1 Reach lenders who understand the deal Your enquiry is routed by security type, purpose, loan amount, exit, and transaction profile, not pushed through a generic consumer finance funnel. 2 Speak direct if there is appetite Where a lender is interested, they contact you directly. That keeps the conversation closer to the decision-maker and avoids unnecessary back and forth. 3 Send enough to get a real read Provide the essentials first, then add the numbers and documents that help a lender quickly decide whether the opportunity is worth a closer look. Suitability boundary Built for commercial private lending scenarios. This pathway is for business-purpose funding secured by land, established property, development sites, or construction projects. It is not suitable for owner-occupied home loans, consumer credit, personal loans, or principal place of residence funding. If the opportunity is not suitable for lenders in the network, you will be told as soon as practical. If it is a fit, a lender can contact you directly. Funding enquiry Submit the deal for lender review Give lenders enough to assess the opportunity quickly: contact details, security, loan amount, exit, and the key numbers behind the request. Commercial and business-purpose lending only. This is a referral/introduction service, not credit advice, financial advice, or an offer of finance. Terms Privacy",
+  "target_page_text": "",
+  "nav_candidates": []
+}

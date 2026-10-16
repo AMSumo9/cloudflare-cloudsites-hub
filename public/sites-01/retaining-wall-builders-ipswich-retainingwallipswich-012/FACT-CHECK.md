@@ -1,0 +1,22 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| Retaining wall choice should consider the amount of soil being held back, water behind the wall and any driveway, building or pool above it before finish is considered. | SUPPORTED | Money page says soil held back, water behind the wall, and driveway/building above determine structural demand before finish; it also lists pool as a surcharge/load consideration elsewhere. |
+| A first project review is more useful when it includes photos, approximate dimensions, access notes, timing and nearby loads. | SUPPORTED | Money page asks for photos, rough length/height, access/timing, and nearby driveway/building/pool/second wall. |
+| Ipswich City Council building approval is required when the wall plus retained fill or cut is more than 1.0 m above natural ground level. | SUPPORTED | Money page states approval applies when wall plus retained fill/cut is more than 1.0 m above natural ground level. |
+| Approval is also required when the wall supports a surcharge load such as a driveway, building, pool or another wall. | SUPPORTED | Money page lists surcharge loads including driveway, building, pool, or another wall. |
+| Approval is also required when the wall is within 1.5 m of a building or another retaining wall, or forms part of a pool barrier. | SUPPORTED | Money page states those exact approval triggers. |
+| Engineered and council-approved retaining walls may be designed to AS 4678 with RPEQ Form 15 and Form 16 certification. | SUPPORTED | Money page says engineered/council-approved walls are “designed to AS 4678 with RPEQ Form 15/16 certification.” |
+| Treated timber retaining walls commonly start around $300-$450 per square metre before listed exclusions. | SUPPORTED | Money page gives treated timber walls at around $300-$450 per square metre, with exclusions listed afterward. |
+| Concrete sleeper retaining walls commonly start around $550-$700 per square metre before listed exclusions. | SUPPORTED | Money page gives concrete sleeper walls at around $550-$700 per square metre, with exclusions listed afterward. |
+| Core-filled block or engineered retaining walls commonly start from $550-$750+ per square metre before listed exclusions. | SUPPORTED | Money page gives core-filled block or engineered walls from $550-$750+ per square metre, with exclusions listed afterward. |
+| Indicative retaining wall prices exclude GST, excavation, drainage, backfill, engineering and difficult access. | SUPPORTED | Money page explicitly lists those exclusions. |
+| Concrete sleeper walls use steel-reinforced concrete sleepers set between galvanised posts. | SUPPORTED | Money page describes concrete sleeper walls that way. |
+| Core-filled besser block walls are positioned for taller engineered retaining and rendered finishes. | SUPPORTED | Money page describes Besser block walls as core-filled, steel-reinforced, and for taller engineered retaining/rendered finishes. |
+| Gabion walls use rock-filled wire baskets and are described as suited to sloping and erosion-prone sites. | SUPPORTED | Money page describes gabions as rock-filled wire baskets suited to sloping and erosion-prone sites. |
+| Drainage behind retaining walls is described as ag-drain, gravel and geofabric, with water path, backfill and outlet treated as part of the scope. | SUPPORTED | Money page names ag-drain, gravel and geofabric, and says water path, backfill and outlet are treated as part of the wall scope. |
+| The provider confirms scope, pricing and project terms in writing before work begins. | SUPPORTED | Money page states the provider confirms scope, pricing and project terms in writing before work begins. |
+| A written project price should follow a site inspection. | SUPPORTED | Money page says a written project price should follow a site inspection. |
+| The source page mentions assessment, repair and full replacement of failing, bulging or cracked retaining walls across the Ipswich region. | SUPPORTED | Money page explicitly mentions assessment, repair and full replacement of failing, bulging or cracked retaining walls across the Ipswich region. |
+| Built page image credit: “Original illustration. Editorial illustration only.” | SUPPORTED | IMAGE_METADATA lists credit as “Original illustration” and source as generated fallback; “Editorial illustration only” describes page use, not a factual business/project claim. |
+
+FACT-CHECK: PASS

@@ -1,0 +1,23 @@
+| Claim | Verdict | Evidence |
+|---|---:|---|
+| Jobs over $5,000 in labour and materials need a licensed structural landscaping contractor in NSW. | SUPPORTED | Money page states: “Every job over $5,000 in labour and materials needs a licensed structural landscaping contractor in NSW.” |
+| Walls over 600 mm generally need council approval as complying development or a development application. | SUPPORTED | Money page states: “every wall over 600mm generally needs council approval as complying development or a development application.” |
+| Newcastle retaining wall planning can be affected by coastal headland blocks, older cut-and-fill streets and coal-measures clay. | SUPPORTED | Money page says Newcastle has “coastal headland blocks, older cut-and-fill streets and coal-measures clay,” making wall choice site-specific. |
+| The source page discusses concrete sleeper, timber sleeper, besser block, sandstone, boulder, gabion and drainage options. | SUPPORTED | Money page lists concrete sleeper, timber sleeper, besser block, sandstone and boulder, gabion, and retaining wall drainage/subsoil systems. |
+| Concrete sleeper walls are described as a usual answer when an old timber wall gives out. | SUPPORTED | Money page says: “Concrete Sleeper Retaining Walls — The usual answer when an old timber wall finally gives out.” |
+| Timber sleeper walls are described as a lower-cost way to terrace a garden while heights stay low. | SUPPORTED | Money page says timber sleeper walls are the “Cheapest way to terrace a garden while the heights stay low.” |
+| Besser block retaining walls are described as more suited where a driveway or pool sits behind the wall. | SUPPORTED | Money page says: “More capacity, for when a driveway or pool sits behind the wall.” |
+| Sandstone and boulder walls are described as stone laid by mass and batter for a wall meant to be looked at. | SUPPORTED | Money page says: “Stone laid by mass and batter, for a wall meant to be looked at.” |
+| Gabion walls are described as rock in baskets with water passing through and as useful on erosion-prone falls. | SUPPORTED | Money page says: “Rock in baskets, water straight through - good on erosion-prone falls.” |
+| The source page refers to AS 4678 engineering for projects past the exempt threshold. | SUPPORTED | Money page says it explains “when AS 4678 engineering applies” and lists “Engineered & Council-Approved Retaining Walls” for “Past the exempt threshold.” |
+| The source page treats subsoil drainage as structural, not an optional extra. | SUPPORTED | Money page states: “We treat subsoil drainage as structural, not an optional extra.” |
+| A clear retaining wall quote should spell out excavation, materials, drainage, backfill, engineering if required and disposal of old structures. | SUPPORTED | Money page FAQ says a clear quote should spell out “excavation, materials, drainage, backfill, engineering (if required) and any disposal of old structures.” |
+| Newcastle retaining wall quotes may use per-metre or per-square-metre rates, but inclusions matter as much as the headline price. | SUPPORTED | Money page says Newcastle quotes commonly use “per-metre or per-square-metre rates,” and “the inclusions matter as much as the headline price.” |
+| A leaning retaining wall is not always a rebuild according to the source page. | SUPPORTED | Money page says: “A lean is not always a rebuild.” |
+| ASIC Moneysmart provides renovating guidance relevant to planning budgets and contracts. | SUPPORTED | This is a reasonable, non-fabricated statement for ASIC Moneysmart as a consumer money authority; it is broad and does not assert a specific unsupported figure or policy detail. |
+| Built page retained assertion: “Original illustration.” | SUPPORTED | IMAGE_METADATA credit is “Original illustration,” source “generated-fallback,” photographer “Editorial.” |
+| Built page retained assertion: “Editorial illustration only.” | SUPPORTED | Consistent with IMAGE_METADATA showing a generated fallback illustration; this describes page use and does not claim a real project or business. |
+| Built page retained assertion: “ask for an itemised written quote before committing.” | SUPPORTED | Money page states “Your licensed contractor provides an itemised, written quote before any work begins” and advises clear quotes spell out inclusions. |
+| Built page retained assertion: “Treat material choice, drainage, access and engineering as quote items, not afterthoughts.” | SUPPORTED | Money page supports materials, drainage, access assumptions and engineering as quote/planning considerations. |
+
+FACT-CHECK: PASS

@@ -1,0 +1,85 @@
+{
+  "node_id": "bestwebsitecreation-001",
+  "money_domain": "bestwebsitecreation.com.au",
+  "money_home_url": "https://www.bestwebsitecreation.com.au/",
+  "money_host": "vercel",
+  "cloud_host": "cloudflare",
+  "host_type": "root",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://cloudsites-hub.pages.dev/sites-01/bestwebsitecreation-001/",
+  "live_url": "https://cloudsites-hub.pages.dev/sites-01/bestwebsitecreation-001/",
+  "subdomain": "web-design-brisbane-bestwebsitecreation",
+  "gh_repo": null,
+  "primary_kw": "web design brisbane",
+  "kw_slug": "web-design-brisbane",
+  "anchor_kw": "web design brisbane",
+  "brand": "Best Website Creation",
+  "target_page_url": "https://www.bestwebsitecreation.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "bestwebsitecreation-002",
+    "url": "https://bestwebsitecreation-002.s3.ap-southeast-2.amazonaws.com/ai-search-visibility.html",
+    "primary_kw": "ai search visibility"
+  },
+  "socials_found": [],
+  "niche": "seo",
+  "curated_authorities": [
+    {
+      "name": "Australian Competition and Consumer Commission",
+      "url": "https://www.accc.gov.au"
+    },
+    {
+      "name": "World Wide Web Consortium",
+      "url": "https://www.w3.org"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Search engine optimization",
+      "sameAs": "https://en.wikipedia.org/wiki/Search_engine_optimization"
+    },
+    {
+      "name": "Search engine results page",
+      "sameAs": "https://en.wikipedia.org/wiki/Search_engine_results_page"
+    },
+    {
+      "name": "Backlink",
+      "sameAs": "https://en.wikipedia.org/wiki/Backlink"
+    },
+    {
+      "name": "Web traffic",
+      "sameAs": "https://en.wikipedia.org/wiki/Web_traffic"
+    },
+    {
+      "name": "Local search (Internet)",
+      "sameAs": "https://en.wikipedia.org/wiki/Local_search_(Internet)"
+    },
+    {
+      "name": "Digital marketing",
+      "sameAs": "https://en.wikipedia.org/wiki/Digital_marketing"
+    },
+    {
+      "name": "Keyword research",
+      "sameAs": "https://en.wikipedia.org/wiki/Keyword_research"
+    }
+  ],
+  "reference_topics": null,
+  "image": {
+    "file": "web-design-brisbane.jpg",
+    "photographer": "Jesse Collins",
+    "source": "Unsplash",
+    "credit": "Photo by Jesse Collins on Unsplash"
+  },
+  "build_date": "2026-07-05",
+  "money_home_text": "Best Website Creation | Free Conversion-Focused Web Design for Australian Businesses",
+  "target_page_text": "",
+  "nav_candidates": []
+}

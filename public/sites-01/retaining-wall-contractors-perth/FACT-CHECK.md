@@ -1,0 +1,16 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| WA building permit exemption applies only where a retaining wall retains no more than 0.5 m of ground and meets other stated conditions. | SUPPORTED | Money page says WA exempts a retaining wall only if it retains no more than 0.5 m, is not tied to other building work/protection of adjoining land, and does not affect a boundary wall or dividing fence. |
+| The source page gives rough Perth price guidance of $250 to $600 per square metre for limestone block retaining walls before excavation, drainage and engineering are added. | SUPPORTED | Money page states roughly `$250-$600/m2` for limestone block before excavation, drainage and engineering. |
+| The source page gives rough Perth price guidance of $450 to $700 per square metre for concrete post and panel retaining walls before excavation, drainage and engineering are added. | SUPPORTED | Money page states roughly `$450-$700/m2` for concrete post and panel before excavation, drainage and engineering. |
+| The source page names AS 4678 for engineered and permit approved retaining walls. | SUPPORTED | Money page says walls over 0.5 m or tied to other building work are designed to `AS 4678`. |
+| The source page lists limestone block, concrete post and panel, timber sleeper, besser block, rock and boulder, drainage systems, engineered walls and repair work as retaining wall service types. | SUPPORTED | Money page lists all those service categories under its retaining wall services. |
+| The source page describes Perth's coastal sand belt as sitting on Tamala limestone and identifies cream limestone block as a common Perth quote material. | SUPPORTED | Money page says Perth’s coastal sand belt sits on Tamala limestone and that cream limestone block is what Perth quotes often lead with. |
+| Concrete post and panel retaining walls use galvanised steel posts with slotted concrete panels according to the source page. | SUPPORTED | Money page describes concrete post and panel walls as galvanised steel posts with slotted concrete panels. |
+| The source page names ag drain, gravel and geofabric as drainage elements behind retaining walls. | SUPPORTED | Money page names ag-drain, gravel and geofabric drainage behind retaining walls. |
+| The source page names wet winter and dry summer conditions as relevant to poorly drained wall failure in Perth. | SUPPORTED | Money page says Perth’s wet winter after a dry summer is when a poorly drained wall fails. |
+| Visible lean or bulge, horizontal cracking, gaps at the base, water pooling or seepage after rain, and soil settling or slumping above the wall are listed by the source page as warning signs of retaining wall failure. | SUPPORTED | Money page lists those warning signs in its retaining wall failure FAQ. |
+| The source page references 17 Perth locations and names Cottesloe, City Beach, Scarborough, Trigg, Hillarys, Rockingham, Duncraig, Ballajura, Girrawheen and Joondalup among them. | SUPPORTED | Money page says there are 17 Perth suburbs and visibly names those locations. |
+| Built page title: “Retaining Wall Contractors Perth: A Practical WA Site Guide” | SUPPORTED | Page title/current guide framing is not treated as an external factual claim under the instructions. No unsupported retained assertion is visible in the supplied built-page text. |
+
+FACT-CHECK: PASS

@@ -1,0 +1,23 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| A Gold Coast retaining wall brief should cover five checks: retained height and geometry, surcharge, separation, services and easements, plus any fence or pool barrier role. | SUPPORTED | Money page lists five approval checks: height/geometry, surcharge, separation, services/easements, and fences/pools. |
+| The published guide identifies 8 wall pathways, 15 local area guides and a 4 part drainage sequence from filter fabric to lawful discharge. | SUPPORTED | Money page states “8 wall pathways,” “15 local area guides,” and describes four drainage parts ending at lawful discharge. |
+| A retaining wall is described as a small civil system where structure, water, access and approval need to agree. | SUPPORTED | Money page says a retaining wall is “a small civil system” and that “structure, water, access and approval must agree.” |
+| A useful first brief records the suburb or postcode, visible symptoms, approximate dimensions, access limits and what sits above the wall. | SUPPORTED | Money page asks for suburb/postcode, symptoms, dimensions and what sits above the wall; it also references clear access notes. |
+| Driveways, buildings, pools, filled ground, traffic areas and steep land should be named as surcharge items. | SUPPORTED | Money page says to record “driveways, buildings, pools, fill, traffic and steep ground” above the proposed wall. |
+| The published approval screen says the Gold Coast exemption is conditional. | SUPPORTED | Money page states “Gold Coast’s exemption is conditional.” |
+| Combined fence and wall height and any pool barrier function can change the pathway. | SUPPORTED | Money page says combined fence-and-wall height and pool-barrier function can change the pathway. |
+| Known assets and title information should be reviewed before deciding an alignment. | SUPPORTED | Money page says to locate known assets and review title information before deciding an alignment. |
+| A retaining wall drainage system should consider filter fabric, free draining aggregate, perforated ag pipe and a lawful point of discharge. | SUPPORTED | Money page’s drainage sequence names filter fabric, free-draining aggregate, perforated ag pipe and lawful discharge. |
+| An ag pipe has to be laid to a fall or it holds water instead of moving it. | SUPPORTED | Money page says the ag pipe must be laid to a fall or it holds water instead of moving it. |
+| Concrete sleeper systems are described as steel reinforced sleepers with galvanised posts for replacement walls and stepped residential sites. | SUPPORTED | Money page describes “steel-reinforced sleepers and galvanised post systems” for replacement walls and stepped residential sites. |
+| Timber sleepers are positioned for lower terraces and boundaries, using H4 treated pine or suitable hardwood. | SUPPORTED | Money page describes H4-treated pine or suitable hardwood systems for lower terraces and boundaries. |
+| Besser block is described as reinforced, core filled concrete masonry for structural walls and rendered finishes. | SUPPORTED | Money page describes reinforced, core-filled concrete masonry for structural walls and rendered finishes. |
+| Rock and boulder walls need suitable sites with enough footprint, batter and machinery access. | SUPPORTED | Money page says natural rock systems suit sites with enough footprint, batter and machinery access. |
+| Gabions are described as rock filled baskets for free draining retention where the site accommodates their width. | SUPPORTED | Money page describes rock-filled baskets for free-draining retention where width is available. |
+| The published guide names 1.5 metres as a key Gold Coast exemption condition for distance to buildings and other retaining walls. | SUPPORTED | Money page says 1.5 metres is a key Gold Coast exemption condition for separation from buildings and other retaining walls. |
+| Engineered and council approved retaining walls involve site specific structural design and approval coordination where the Gold Coast exemption does not apply. | SUPPORTED | Money page describes site-specific structural design and approval coordination where the exemption does not apply. |
+| Leaning, rotation, bulging, opened joints, staining and soil loss are symptom groups named in the published guide. | SUPPORTED | Money page names “Lean or rotation,” “Bulging or opened joints,” and “Staining or soil loss.” |
+| The guide says to avoid loading or excavating near a visibly unstable wall. | SUPPORTED | Money page says to avoid loading or excavating near a visibly unstable wall. |
+
+FACT-CHECK: PASS

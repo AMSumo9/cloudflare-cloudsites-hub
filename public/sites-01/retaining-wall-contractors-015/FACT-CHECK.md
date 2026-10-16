@@ -1,0 +1,14 @@
+| Claim | Verdict | Evidence |
+|---|---:|---|
+| The source page lists 8 retaining wall provider types. | SUPPORTED | MONEY_PAGE_TEXT says “Browse 8 provider types of cross-checked provider listings.” |
+| The source page shows coverage links for Australian Capital Territory, New South Wales, Queensland, South Australia, Tasmania and Victoria. | SUPPORTED | MONEY_PAGE_TEXT lists Locations including Australian Capital Territory, New South Wales, Queensland, South Australia, Tasmania and Victoria. |
+| The source page asks users to share wall size, site conditions, postcode and timing in Australia. | SUPPORTED | MONEY_PAGE_TEXT says: “Share the wall size, site conditions, postcode and timing in Australia.” |
+| The source page says enquiry submission is free and there is no obligation to proceed. | SUPPORTED | MONEY_PAGE_TEXT says: “Free to submit. No obligation to proceed.” |
+| The source page says submitted details may be shared with suitable professionals. | SUPPORTED | MONEY_PAGE_TEXT says users agree for their details “to be shared with suitable professionals.” |
+| The source page lists concrete sleeper, timber, block and masonry, stone and boulder, gabion, retaining wall repairs, engineered and commercial retaining walls, and retaining wall contractors as service categories. | SUPPORTED | MONEY_PAGE_TEXT lists those service categories under Search Categories / form options. |
+| The source page says users can read reviews, view photos, compare services and pricing, and contact businesses directly or request a quote through a form. | SUPPORTED | MONEY_PAGE_TEXT says users can “Read reviews, view photos, and compare services and pricing” and “call, email, or request a quote through our form.” |
+| The supplied text does not provide a fixed price schedule. | SUPPORTED | MONEY_PAGE_TEXT mentions “Pricing” navigation but provides no fixed retaining-wall price schedule in the supplied text. |
+| ASIC Moneysmart provides renovation guidance relevant to keeping spending, quotes and contracts visible before renovation work starts. | SUPPORTED | Moneysmart guidance supports budgeting and spending visibility, getting/reviewing quotes for repairs, and reading contracts before signing; see [How to do a budget](https://moneysmart.gov.au/budgeting/how-to-do-a-budget), [How home insurance cash settlements work](https://moneysmart.gov.au/home-insurance/how-home-insurance-cash-settlements-work), and [Avoiding sales pressure](https://moneysmart.gov.au/budgeting/avoiding-sales-pressure). |
+| Built page: “The source page lists 8 provider types, shows coverage links for 6 Australian states and territories, and says enquiries are free to submit with no obligation to proceed.” | SUPPORTED | MONEY_PAGE_TEXT supports the 8 provider types, the six listed state/territory location links, and “Free to submit. No obligation to proceed.” |
+
+FACT-CHECK: PASS

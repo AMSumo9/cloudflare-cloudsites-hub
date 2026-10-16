@@ -1,0 +1,17 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The source page frames its guidance around deposit, repayments, grants, strata, income documents and lender fit before committing to a lender or making an offer under pressure. | SUPPORTED | Money page says borrowers sort “deposit, repayments, grants, strata, income documents and lender fit” before committing to a lender or making an offer under pressure. |
+| The source page names six loan paths: first-home buyer loans, low deposit home loans, home loan pre-approval, refinance home loans, investment property loans and self-employed home loans. | SUPPORTED | Money page lists those six service cards under “Loan paths.” |
+| The source page refers to 5-10% deposit pathways, guarantor structures, LMI trade-offs and lender policy comparison for low deposit home loans. | SUPPORTED | Money page’s “Low Deposit Home Loans” card includes all four items. |
+| The source page refers to grant, duty and deposit planning for first-home buyers. | SUPPORTED | Money page says “Grant, duty and deposit planning for buyers entering the market.” |
+| The source page refers to rate review, fixed-rate expiry, equity access and switching analysis for refinancing. | SUPPORTED | Money page’s refinance card says “Rate review, fixed-rate expiry, equity access and switching analysis.” |
+| The source page refers to investor lending structures, servicing pressure, rental assumptions and lender appetite across the Parramatta catchment. | SUPPORTED | Money page’s investment property card includes that wording. |
+| The source page refers to tax returns, BAS history, entity structure and business-income lending pathways for self-employed borrowers. | SUPPORTED | Money page mentions “Tax-return, BAS and business-income lending pathways,” and the FAQ adds “Tax returns, BAS history, entity structure.” |
+| The source page names apartment-heavy pockets such as Harris Park and Westmead and family suburbs such as Oatlands, Ermington and Northmead. | SUPPORTED | Money page says “apartment-heavy pockets like Harris Park and Westmead” and “family suburbs such as Oatlands, Ermington and Northmead.” |
+| The source page says current NSW scheme context is checked against Revenue NSW, Housing Australia and APRA settings. | SUPPORTED | Money page states this under “Current NSW scheme context.” |
+| The source page says the review form works best when it includes the target suburb, rough purchase range and the question blocking progress. | SUPPORTED | Money page says the form works best with “the target suburb, rough purchase range and the question that is blocking progress.” |
+| ASIC Moneysmart provides home loan guidance for comparing loan features and costs. | SUPPORTED | ASIC Moneysmart says its home-loans section helps readers “compare home loans,” notes differences in rates, costs and repayments, and points to guidance on what to look for in a loan. ([moneysmart.gov.au](https://moneysmart.gov.au/home-loans)) |
+| Built page photo credit: “Original illustration. Editorial illustration only.” | SUPPORTED | IMAGE_METADATA gives photographer “Editorial,” source “generated-fallback,” and credit “Original illustration.” “Editorial illustration only” describes usage, not a business/work claim. |
+| Built page visible text: “Parramatta borrowers usually need the review to sort one of six paths …” | SUPPORTED | Money page presents six loan paths and says reviews focus on pressure points including deposit, pre-approval, refinance, investor lending and income evidence. |
+
+FACT-CHECK: PASS

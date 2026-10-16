@@ -1,0 +1,15 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| Springfield Directory is presented as a local guide to businesses and services across Greater Springfield. | SUPPORTED | Money page says “Local businesses and services across Greater Springfield” and brands itself as Springfield Directory. |
+| Readers can browse cross-checked listings, read reviews, compare services and pricing, and request quotes for free. | SUPPORTED | Money page says users can “Browse 6 categories of cross-checked business listings,” “Read reviews, compare services, and get quotes - all free,” and the workflow mentions comparing “services and pricing.” |
+| The directory names 6 categories: automotive, beauty and hair, cafes and dining, health and fitness, professional services, and trades and home services. | SUPPORTED | Those six categories are listed repeatedly in the money page text. |
+| The published workflow is search, compare and contact. | SUPPORTED | Money page “How It Works” section is numbered: “1 Search,” “2 Compare,” “3 Contact.” |
+| Some listings show review counts and ratings, including a 4.9 rating from 39 reviews for a Springfield fitness listing and a 4.3 rating from 182 reviews for a mobile mechanic listing. | SUPPORTED | Money page lists Fitstop Springfield at “4.9 (39 reviews)” and Auto King Mobile Mechanics Springfield Lakes at “4.3 (182 reviews).” |
+| The page invites businesses to claim a free listing or upgrade for priority placement, photos and lead tracking. | SUPPORTED | Money page says: “Claim your free listing or upgrade to Pro for priority placement, photos, and lead tracking.” |
+| The directory provides direct contact options including call, email or a quote form. | SUPPORTED | Money page says users can “Get in touch directly - call, email, or request a quote through our form.” |
+| One professional services listing describes asset, car, equipment and business finance options from a network of 100+ lenders. | SUPPORTED | Money page lists Loan Phone under professional services with “Asset, car, equipment and business finance options from a network of 100+ lenders.” |
+| Featured examples include retaining wall planning, build and repair enquiries, garage door repairs, servicing and installation, functional group training, high-intensity workouts, and mobile car repairs and servicing. | SUPPORTED | Each example appears in the featured listings text on the money page. |
+| Built page states Springfield Directory is a free local directory with 6 categories, cross-checked listings, reviews, photos, pricing comparisons and quote requests. | SUPPORTED | Money page supports the directory/Greater Springfield framing, six categories, cross-checked listings, reviews, viewing photos, comparing pricing, and getting quotes for free. |
+| Built page image credit says “Original illustration. Editorial illustration only.” | SUPPORTED | IMAGE_METADATA gives credit as “Original illustration,” photographer “Editorial,” and source “generated-fallback.” “Editorial illustration only” is a use descriptor, not a business factual claim. |
+
+FACT-CHECK: PASS

@@ -1,0 +1,23 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| A reliable Adelaide bathroom tile brief should record the room condition, water exposure, substrate, fixtures, drainage and tile format before comparing quotes. | SUPPORTED | Money page says strong briefs describe “existing surface, water exposure, fixtures, drainage and tile format” and elsewhere tells users to note room condition. |
+| The source page separates bathroom work into visible finishes, waterproofing layers, screeding or falls, movement joints and handover sequencing. | SUPPORTED | Money page distinguishes visible tile finish, concealed wet-area details, waterproofing, screeding/falls, movement joints, cure sequencing and handover to tiling. |
+| Tiles and grout are finishes, not the waterproof layer. | SUPPORTED | FAQ states tiles and grout are finishes, while the compliant membrane and treated junctions form the waterproof layer. |
+| The business page describes six service areas: bathroom tiling, wet-area waterproofing, floor and wall tiling, shower repairs and regrouting, kitchen and laundry tiling, and outdoor and alfresco tiling. | SUPPORTED | Money page lists exactly those six service categories. |
+| The source page names three planning stages: before demolition, before waterproofing and before tiling. | SUPPORTED | Money page has sections headed “Before demolition,” “Before waterproofing,” and “Before tiling.” |
+| A neat grout line cannot compensate for an unsuitable base, unresolved movement or poorly coordinated falls. | SUPPORTED | This sentence appears on the money page. |
+| Moisture symptoms can start with sealant, plumbing, substrate movement or the membrane system. | SUPPORTED | This sentence appears on the money page. |
+| Regrouting may be appropriate for a maintenance issue, but should not be presented as a universal leak repair. | SUPPORTED | Money page says regrouting may suit maintenance but should not be presented as a universal leak repair. |
+| A useful quote identifies preparation, tile format, layout, trims, grout, movement joints, access and waste. | SUPPORTED | FAQ states a useful quote identifies these items. |
+| Waterproofing or screeding should be separately described where required. | SUPPORTED | FAQ states waterproofing or screeding should be separately described where required. |
+| Bathroom renovation scope can be affected by demolition, plumbing and electrical rough-ins, floor falls, membrane boundaries, cabinetry, fixtures and finished floor heights. | SUPPORTED | Money page lists these interfaces as affecting tiling and waterproofing scope. |
+| Before demolition, the source page recommends recording the existing room, suspected moisture, access, hazardous-material questions and fixtures that may move. | SUPPORTED | Money page’s “Before demolition” item says to record those items. |
+| Before waterproofing, the source page recommends confirming the substrate, falls, wastes, penetrations, thresholds and membrane system with the responsible provider. | SUPPORTED | Money page’s “Before waterproofing” item says this. |
+| Before tiling, the source page recommends setting out tile modules, niches, trims, movement joints, cabinetry lines and adjoining floor transitions together. | SUPPORTED | Money page’s “Before tiling” item says this. |
+| The source page names apartment access in Adelaide city, coastal exposure at Glenelg and Henley Beach, older villa substrates through Norwood and Unley, and newer slabs around Mawson Lakes or Mount Barker as factors that can change preparation and sequencing. | SUPPORTED | Money page states those exact location examples can change preparation and sequencing. |
+| Waterproofing and tiling may be delivered within one coordinated scope where the contractor holds the appropriate South Australian authorisation for the work involved. | SUPPORTED | FAQ says they may be delivered in one coordinated scope where the contractor holds appropriate South Australian authorisation. |
+| The independent provider remains responsible for confirming the actual scope, licensing, products and trade coordination in writing. | SUPPORTED | Money page states this directly. |
+| Waterproofing cure time depends on the membrane system, film thickness and site conditions rather than a universal waiting period. | SUPPORTED | FAQ says cure time depends on those factors and should not rely on a universal waiting period. |
+| Built page retained assertion: “membrane detailing must be confirmed in writing.” | SUPPORTED | Money page says membrane boundaries, penetrations and system should be confirmed with the responsible provider, and the provider remains responsible for confirming scope/products/trade coordination in writing. |
+
+FACT-CHECK: PASS

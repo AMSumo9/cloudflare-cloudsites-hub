@@ -1,0 +1,19 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The source frames the first retaining wall decision around how high the wall must be and whether anything sits on the ground above it. | SUPPORTED | Money page says “two answers decide almost everything”: wall height and whether anything sits on the ground above it. |
+| The source asks readers to start with wall height and length when seeking guidance or a quote. | SUPPORTED | Quote form copy says: “Start with the height and the length.” |
+| The source describes concrete sleeper walls as steel-reinforced planks set between galvanised posts and as a workhorse option for Brisbane cut-and-fill blocks. | SUPPORTED | Money page describes concrete sleepers as steel-reinforced planks between galvanised posts and calls them the workhorse wall for Brisbane cut-and-fill blocks. |
+| The source says timber sleeper walls suit low garden terraces, low boundary retaining and stepped beds. | SUPPORTED | Timber service text lists garden terraces, low boundary retaining, and stepped beds. |
+| The source says core-filled block walls suit taller engineered retaining, rendered finishes and walls carrying a surcharge. | SUPPORTED | Besser block section says core-filled, steel-reinforced block walls are for taller engineered retaining, rendered finishes, and surcharge loads. |
+| The source says sandstone and boulder walls are battered back and suit larger sloping blocks and creek margins. | SUPPORTED | Rock and boulder section says natural sandstone and boulder walls are battered back and suit larger sloping blocks and creek margins. |
+| The source says gabion walls use rock-filled wire baskets and suit steep and erosion-prone sites around Brisbane creek catchments. | SUPPORTED | Gabion section describes rock-filled wire baskets and says they are suited to steep and erosion-prone sites around Brisbane creek catchments. |
+| The source says retaining wall drainage can include agi drain, gravel and geofabric connected to approved stormwater. | SUPPORTED | Drainage section lists agi drain, gravel and geofabric behind every wall, connected to approved stormwater. |
+| The source lists building approval triggers including total height over 1.0 metre, any surcharge load, within 1.5 metres of a structure, part of a pool barrier, and wall plus fence of 2.0 metres or more. | SUPPORTED | Money page lists those five approval conditions in the “When a wall needs building approval in Queensland” section. |
+| The source says approval and licensing are separate questions, with approval turning on physical triggers and QBCC licensing turning on the dollar value of work. | SUPPORTED | Money page states approval and licensing are separate; approval depends on physical triggers and QBCC licensing on dollar value. |
+| The source says walls requiring approval are generally designed to AS 4678 by an RPEQ engineer and certified on a Form 15. | SUPPORTED | Money page says where approval applies, the wall is generally designed to AS 4678 by an RPEQ engineer and certified on Form 15. |
+| The source says retaining walls are priced on face area, height times length, not on lineal metres. | SUPPORTED | Money page says retaining walls are priced on face area, height times length, not lineal metres. |
+| The source identifies repair and replacement work for leaning, bulging, cracked or rotted retaining walls. | SUPPORTED | Repair/replacement section mentions leaning, bulging, cracked or rotted retaining walls. |
+| Built page visible text: “Retaining Wall Builders Brisbane: 2026 Guide.” | SUPPORTED | Page title/current-year guide label is not treated as an external factual claim under the instructions. |
+| Photo credit, if used: “Photo by Yukiko Kanada on Unsplash.” | SUPPORTED | IMAGE_METADATA lists photographer “Yukiko Kanada,” source “Unsplash,” and credit “Photo by Yukiko Kanada on Unsplash.” |
+
+FACT-CHECK: PASS

@@ -1,0 +1,17 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| Gold Coast brokers referenced by the source page can compare a panel of 30+ lenders. | SUPPORTED | Money page says brokers handle services “with access to a panel of 30+ lenders” and repeats “Access to a 30+ lender panel.” |
+| The source page says most residential borrowers pay no direct broker fee because lenders pay the broker on settlement. | SUPPORTED | Money page says “Most residential borrowers pay nothing direct: the lender pays the broker on settlement.” |
+| The source page states upfront commission is typically around 0.65 to 0.70 percent of the loan amount, with ongoing trail around 0.15 percent per year. | SUPPORTED | FAQ gives those exact typical commission and trail figures. |
+| The source page states the Queensland First Home Owner Grant is $30,000 for eligible new builds under $750,000, current for transactions up to 30 June 2026. | SUPPORTED | First Home Buyer Loans section states this. |
+| The source page refers to an Australian Government 5% Deposit Scheme for eligible buyers, with as little as 5% down and no lenders mortgage insurance. | SUPPORTED | Low Deposit section says eligible buyers may buy with as little as 5% down without lenders mortgage insurance. |
+| The source page names first home buyers, refinancers, investors, low deposit borrowers, self-employed borrowers and bridging borrowers as scenarios brokers handle. | SUPPORTED | Services list includes First Home Buyer Loans, Refinancing, Investment Property Loans, Low Deposit and 5% Deposit Pathways, Self-Employed Home Loans, and Pre-Approval and Bridging. |
+| The source page says pre-approval can provide a clearer price ceiling and sharper offer at auction. | SUPPORTED | Money page says “Pre-approval gives you a clear price ceiling and a sharper offer at auction.” |
+| The source page says refinancing comparisons should weigh comparison rate against features such as offset accounts and redraw. | SUPPORTED | Refinancing section says it weighs comparison rate against features like offset accounts and redraw. |
+| The source page says mortgage broker and home loan broker are used interchangeably in Australia. | SUPPORTED | FAQ states the terms are used interchangeably in Australia. |
+| The source page says broker credit assistance is regulated under the National Consumer Credit Protection Act. | SUPPORTED | FAQ says all credit assistance is regulated under the National Consumer Credit Protection Act. |
+| The source page refers to ASIC mortgage broker Best Interests Duty, meaning a broker must put the borrower’s interests first when recommending a loan. | SUPPORTED | Why Us section says brokers must operate under ASIC mortgage broker Best Interests Duty and borrower interests come first when recommending a loan. |
+| The source page says Southport apartment blocks, Burleigh Heads property and Coomera house-and-land are examples of Gold Coast contexts brokers may understand. | SUPPORTED | Money page says local knowledge includes “Southport apartment blocks to Burleigh Heads and Coomera house-and-land.” |
+| Built page says Gold Coast borrowers commonly use brokers to compare 30+ lenders, organise pre-approval, assess refinancing and weigh fixed, variable, offset, redraw and interest only features. | SUPPORTED | Money page supports 30+ lender panels, pre-approval, refinancing, fixed/variable comparisons, offset/redraw features, and interest-only structures. |
+
+FACT-CHECK: PASS

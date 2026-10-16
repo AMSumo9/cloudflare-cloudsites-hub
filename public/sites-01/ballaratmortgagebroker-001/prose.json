@@ -1,0 +1,203 @@
+{
+  "kicker": "Regional Victoria Finance",
+  "h1_tail": "A 2026 Regional Victoria Buyer Guide",
+  "meta_hook": "Compare accredited Ballarat brokers, first home schemes and pre-approval steps.",
+  "takeaway": "Ballarat borrowers get matched with an MFAA or FBAA accredited broker who compares a panel of lenders across first home buyer, refinance, investment and construction loans. The Regional First Home Buyer Guarantee offers a 5% deposit pathway, subject to place caps and eligibility rules, and pre-approval typically holds for around three months. Brokers operate under the statutory best interests duty (ASIC RG 273) and must be AFCA members for dispute resolution.",
+  "lead": "Anyone comparing a Ballarat broker against a single bank branch is really weighing convenience against choice, since a broker's panel of lenders can surface options a single institution never offers.",
+  "lead_tail": ", connecting borrowers with a vetted network of MFAA and FBAA accredited brokers across Ballarat and regional Victoria.",
+  "stats": [
+    {
+      "value": "3",
+      "label": "step broker matching process"
+    },
+    {
+      "value": "5%",
+      "label": "min deposit, Regional First Home Buyer Guarantee"
+    },
+    {
+      "value": "~3 months",
+      "label": "typical pre-approval validity"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Matching Borrowers with Accredited Brokers",
+      "html": "<p>A mortgage broker compares a panel of lenders against your circumstances rather than pushing one bank's product. The <a href=\"https://www.ballaratmortgagebroker.com.au/\">Ballarat Mortgage Broker</a> network works only with brokers accredited by the Mortgage and Finance Association of Australia (MFAA) or the Finance Brokers Association of Australia (FBAA), each holding an Australian Credit Licence and bound by the statutory best interests duty under ASIC RG 273.</p><p>That duty, in force since 1 January 2021, means any recommendation must serve your interests, not the lender's. Credit licensees must also belong to the Australian Financial Complaints Authority (AFCA), giving borrowers a free, independent path to dispute resolution if something goes wrong.</p>"
+    },
+    {
+      "h2": "First Home Buyer Pathways",
+      "html": "<p>Ballarat suburbs such as Sebastopol, Alfredton and Wendouree see steady first home buyer activity, and several schemes exist to lower the entry deposit. The Regional First Home Buyer Guarantee allows eligible buyers to purchase with as little as a 5% deposit, subject to place caps and eligibility rules. The federal First Home Guarantee and the Victorian Homebuyer Fund offer related pathways, and stamp duty concessions may apply for eligible first home buyers.</p><ul><li>Regional First Home Buyer Guarantee: 5% deposit pathway, place caps apply</li><li>First Home Guarantee: low deposit option for eligible buyers</li><li>Victorian Homebuyer Fund: shared equity style support</li></ul><p>Eligibility thresholds change, so check current rules before assuming you qualify.</p>"
+    },
+    {
+      "h2": "Refinancing and Investment Loans",
+      "html": "<p>Borrowers already holding home loans ballarat property should periodically check whether their rate, offset account and redraw features still stack up against the market. A refinance broker can model the numbers, including any discharge or valuation costs, before recommending a switch. For a closer look at refinancing specifically, see the <a href=\"https://ballarat-refinancing-mortgage-broker.netlify.app/\">Ballarat refinancing mortgage broker guide</a>.</p><p>Investment lending is structured differently again. Brokers weigh comparison rate, interest-only periods and tax-aware setup, a combination that suits both local investors and Melbourne commuters buying into regional Victoria.</p>"
+    },
+    {
+      "h2": "Construction and Renovation Finance",
+      "html": "<p>House-and-land packages around Alfredton, Delacombe and Mount Clear typically need progress-payment construction loans rather than a standard lump-sum mortgage, releasing funds in stages as the build reaches agreed milestones. Renovation finance follows similar logic for existing homes. Securing pre-approval before signing a build contract avoids committing to a price the lender will not fully fund.</p><p>Buyers with less than a 20% deposit should also budget for lenders mortgage insurance, or explore a family guarantor structure as an alternative.</p>"
+    },
+    {
+      "h2": "Pre-Approval and Market Timing",
+      "html": "<p>Pre-approval signals to agents and vendors that your finance is close to settled, and is typically valid for around three months, though this varies by lender and stays conditional on final checks. In a competitive regional market, having pre-approval in place before you bid can be the difference between missing out and settling on time.</p><p>The matching process itself stays simple: share your goals, get matched with a vetted broker, then work through application and settlement with their support.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Ballarat home loan types compared",
+    "headers": [
+      "Loan type",
+      "Best suited to",
+      "Key consideration"
+    ],
+    "rows": [
+      [
+        "First home buyer",
+        "Buyers using low deposit schemes",
+        "5% deposit pathway via Regional First Home Buyer Guarantee, place caps apply"
+      ],
+      [
+        "Refinance",
+        "Existing owners reviewing their rate",
+        "Model discharge and valuation costs before switching"
+      ],
+      [
+        "Investment",
+        "Local investors and Melbourne commuters",
+        "Comparison rate and interest-only structuring"
+      ],
+      [
+        "Construction",
+        "House-and-land buyers in Alfredton, Delacombe, Mount Clear",
+        "Progress-payment funding, pre-approval before signing"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Share your goals",
+      "text": "Tell the network your name, email and a short note on your situation so you can be matched to the right broker."
+    },
+    {
+      "name": "Get matched with a vetted broker",
+      "text": "An MFAA or FBAA accredited Ballarat broker reviews lenders on your behalf and arranges pre-approval where appropriate."
+    },
+    {
+      "name": "Choose and settle",
+      "text": "Your broker guides you through application, settlement and ongoing loan reviews while you make the final call."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much does a mortgage broker cost in Ballarat?",
+      "a": "Brokers are typically paid commission by the lender, not the borrower. Some may charge a fee in specific situations, which must be disclosed upfront in the credit quote."
+    },
+    {
+      "q": "Is it better to use a broker or go direct to a bank?",
+      "a": "A bank only offers its own products, while a broker compares multiple lenders and operates under the statutory best interests duty (ASIC RG 273)."
+    },
+    {
+      "q": "How do I find a good mortgage broker in Ballarat?",
+      "a": "Look for MFAA or FBAA accreditation, experience with your scenario, and responsive communication. Vetted networks pre-check brokers against these criteria."
+    },
+    {
+      "q": "What grants or schemes are available for first home buyers in Ballarat?",
+      "a": "Options include the Victorian First Home Owner Grant for new homes, stamp duty concessions, the First Home Guarantee and the Regional First Home Buyer Guarantee, each with eligibility rules."
+    },
+    {
+      "q": "How long does home loan pre-approval last?",
+      "a": "Pre-approval is typically valid for around three months, varies by lender, and remains conditional on final checks before settlement."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Brokers in the network are MFAA or FBAA accredited and hold an Australian Credit Licence",
+      "source": "money page"
+    },
+    {
+      "claim": "Brokers are bound by the statutory best interests duty under ASIC RG 273 since 1 January 2021",
+      "source": "money page"
+    },
+    {
+      "claim": "Credit licensees must be AFCA members for independent dispute resolution",
+      "source": "money page"
+    },
+    {
+      "claim": "Regional First Home Buyer Guarantee allows a 5% deposit pathway, subject to place caps and eligibility rules",
+      "source": "money page"
+    },
+    {
+      "claim": "Pre-approval is typically valid for around three months, varies by lender",
+      "source": "money page"
+    },
+    {
+      "claim": "Construction loans are released as progress payments during the build",
+      "source": "money page"
+    },
+    {
+      "claim": "Buyers under 20% deposit may need LMI or a guarantor structure",
+      "source": "money page"
+    },
+    {
+      "claim": "Mortgage broker fees are typically paid by the lender via commission",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers home loan pathways, accreditation standards and the broker matching process for buyers, refinancers, investors and builders in Ballarat and regional Victoria."
+}

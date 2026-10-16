@@ -1,0 +1,20 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The source guide identifies 8 wall pathways, 15 local area guides, a 5-part approval screen and 1 structured site brief. | SUPPORTED | Money page states “8 wall pathways,” “15 local area guides,” “5-part approval screen,” and “1 structured site brief.” |
+| A retaining wall is framed by the source guide as a small civil system where structure, water, access and approval must agree. | SUPPORTED | Money page says a retaining wall is “a small civil system” and that “structure, water, access and approval must agree.” |
+| The source guide asks for suburb or postcode, symptoms, approximate dimensions and what sits above the wall to be provided before contractor review. | SUPPORTED | Money page asks users to provide suburb/postcode and says to describe “suburb, symptoms, approximate dimensions and what sits above the wall.” |
+| The source guide names driveways, buildings, pools, fill, traffic and steep ground as surcharge items to record. | SUPPORTED | Money page’s surcharge check lists “driveways, buildings, pools, fill, traffic and steep ground.” |
+| The source guide says the Gold Coast exemption is conditional and that a low wall can still need assessment when the site adds load, proximity, infrastructure or a safety role. | SUPPORTED | Money page states “Gold Coast’s exemption is conditional” and a low wall can need assessment due to “load, proximity, infrastructure or a safety role.” |
+| The source guide names 1.5 metres as a key Gold Coast exemption separation condition. | SUPPORTED | Money page says “1.5 metres is a key Gold Coast exemption condition.” |
+| The source guide lists filter fabric, free-draining aggregate, perforated ag pipe and a lawful point of discharge as four parts behind a properly drained wall. | SUPPORTED | Money page lists those four drainage components under “What is behind a properly drained wall.” |
+| The source guide says a quote should name the aggregate, filter arrangement, pipe, cleanouts and discharge assumption. | SUPPORTED | Money page says to ask the quote to name “aggregate, filter arrangement, pipe, cleanouts and discharge assumption.” |
+| The source guide recommends making investigation a preconstruction task if no suitable drainage connection is obvious. | SUPPORTED | Money page says, “If no suitable connection is obvious, make investigation a preconstruction task.” |
+| The source guide asks owners to photograph lean or rotation, bulging or opened joints, staining, soil loss and water appearing after rain. | SUPPORTED | Money page asks readers to photograph symptoms, including lean/rotation, bulging/opened joints, staining/soil loss, and where water appears after rain. |
+| The source guide lists concrete sleeper, timber sleeper, Besser block, rock and boulder, gabion, drainage, engineered and repair pathways. | SUPPORTED | Money page lists all eight material/service pathways with those categories. |
+| Concrete sleeper systems are described by the source guide as steel-reinforced sleepers and galvanised post systems for replacement walls and stepped residential sites. | SUPPORTED | Money page uses this wording for “Concrete Sleeper Retaining Walls.” |
+| Timber sleeper systems are described by the source guide as H4-treated pine or suitable hardwood systems for lower terraces and boundaries. | SUPPORTED | Money page uses this wording for “Timber Sleeper Retaining Walls.” |
+| Besser block retaining walls are described by the source guide as reinforced, core-filled concrete masonry for structural walls and rendered finishes. | SUPPORTED | Money page uses this wording for “Besser Block Retaining Walls.” |
+| Rock and boulder retaining walls are described by the source guide as natural rock systems for suitable sites with enough footprint, batter and machinery access. | SUPPORTED | Money page uses this wording for “Rock & Boulder Retaining Walls.” |
+| Gabion retaining walls are described by the source guide as rock-filled baskets for free-draining retention where the site accommodates their width. | SUPPORTED | Money page uses this wording for “Gabion Retaining Walls.” |
+
+FACT-CHECK: PASS

@@ -1,0 +1,13 @@
+| Claim | Verdict | Evidence |
+|---|---:|---|
+| Published guide prices are $120 to $200 for a service call-out, $220 to $450 for torsion spring replacement, $180 to $320 for lifting cable replacement, $160 to $300 for track roller replacement, $600 to $1,100 for opener or motor replacement, and $2,500 to $5,000 for a single new sectional door supplied and installed. | SUPPORTED | MONEY_PAGE_TEXT lists those exact “Guide Brisbane pricing” ranges. |
+| The attending technician provides a written fixed-price quote before work begins. | SUPPORTED | MONEY_PAGE_TEXT says the attending technician provides a written fixed-price quote before any work begins. |
+| The source page describes repairs for broken springs, faulty openers, jammed roller doors, off-track sectional doors, worn lifting cables, damaged panels, remote and keypad programming, and emergency repair for a door that will not secure. | SUPPORTED | MONEY_PAGE_TEXT mentions broken springs, faulty openers, jammed roller doors, off-track sectional doors, worn lifting cables, panel/section replacement, remote/keypad programming, and emergency call-outs for a door that will not secure. |
+| Real prices vary by door type and size, spring and hardware condition, opener brand, site access and after-hours surcharges. | SUPPORTED | MONEY_PAGE_TEXT states real prices vary by those listed factors. |
+| Electrical work on powered openers is carried out by a licensed electrician under the Queensland Electrical Safety Act 2002. | SUPPORTED | MONEY_PAGE_TEXT explicitly states this. |
+| The source page describes servicing across the Brisbane metro catchment, including examples such as Chermside, Aspley, Stafford, Carindale, Mount Gravatt, Sunnybank, Wynnum, Manly, Indooroopilly, Kenmore and The Gap. | SUPPORTED | MONEY_PAGE_TEXT lists Brisbane metro servicing and includes all named suburbs. |
+| Emergency jobs are often prioritised to get a door secure and usable as quickly as possible. | SUPPORTED | MONEY_PAGE_TEXT FAQ says emergency jobs are often prioritised to get the door secure and usable as quickly as possible. |
+| The repair process asks the customer to send through the door type and fault, then a local technician contacts them to discuss the fault and arrange a visit time. | SUPPORTED | MONEY_PAGE_TEXT “How our repair process works” says to send the door type and fault, then a qualified local technician contacts the customer to discuss the fault and arrange a visit time. |
+| Built page visible text retained unsupported assertions. | SUPPORTED | The supplied visible text shows title, styling, and layout text only; no additional material money-site or external assertion requiring support is visible in the provided extract. |
+
+FACT-CHECK: PASS
