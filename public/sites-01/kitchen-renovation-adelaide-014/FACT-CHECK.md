@@ -1,0 +1,14 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The named business describes a free, no obligation quote process where homeowners share project details, discuss scope with vetted Adelaide renovators and choose the renovator they trust. | SUPPORTED | Money page says users get a “free, no obligation quote,” share kitchen details, discuss with Adelaide renovators, compare quotes/designs, and choose the renovator they trust. |
+| The supported work includes full remodels, facelifts, small kitchen renovations, custom cabinetry, stone benchtops, splashbacks, appliance installation, butler's pantries and open plan conversions. | SUPPORTED | Money page lists full remodels, facelifts, small renovations, cabinetry, stone benchtops, splashbacks, appliance installation, butler’s pantries, and open plan conversions. |
+| The published figures are a typical quote range of $8,000 to $80,000 plus, and a typical end to end timeline of 8 to 14 weeks depending on scope. | SUPPORTED | Money page states quotes typically range from $8,000 to $80,000 plus and a typical renovation takes 8 to 14 weeks depending on scope. |
+| The source says more detail helps create a tighter match. | SUPPORTED | Money page says: “The more detail you share, the tighter the match.” |
+| The source identifies heritage stone cottages, character homes and Adelaide Hills homes as relevant house types. | SUPPORTED | Money page refers to “heritage stone cottages,” “heritage cottages,” and “Adelaide Hills character homes.” |
+| The source says one renovator can coordinate electrician, plumber, tiler and stonemason work. | SUPPORTED | Money page says appliance installation is handled alongside electrician, plumber, tiler and stonemason coordination, with one renovator running the schedule. |
+| The source specifically mentions soft-close drawers, bespoke pull-outs and full-height pantry runs. | SUPPORTED | Money page explicitly lists “Soft-close drawers, bespoke pull-outs, full-height pantry runs.” |
+| The source says stone work is templated, fabricated and installed by stonemasons in the process. | SUPPORTED | Money page says stone benchtops and splashbacks are “templated, fabricated, and installed by stonemasons.” |
+| The source says approvals, where needed, are handled in line with PlanSA approval guidance and the Planning and Design Code. | SUPPORTED | Money page says approvals are handled in line with PlanSA approval guidance and the Planning and Design Code where needed. |
+| The page refers to Housing Industry Association standards, Master Builders South Australia accreditation for many partner builders, and Consumer and Business Services licensing checks. | SUPPORTED | Money page mentions HIA standards, many partner builders carrying Master Builders SA accreditation, and CBS licensing/supervisor registration checks. |
+
+FACT-CHECK: PASS
